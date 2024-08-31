@@ -7,6 +7,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPark.API", "CarPark.API\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPark.Users", "CarPark.Users\CarPark.Users.csproj", "{397A7FC1-1787-4CF3-8B82-7CC30276A77E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPark.Business", "CarPark.Business\CarPark.Business.csproj", "{F1DDC32E-C98B-43AF-A66D-C1F7743DB4EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPark.DataAccess", "CarPark.DataAccess\CarPark.DataAccess.csproj", "{C8C35AB4-44C7-4D83-8FB8-E12994B7AD73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPark.Entities", "CarPark.Entities\CarPark.Entities.csproj", "{AABDD06F-C396-4721-BF2F-FE4265059AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPark.Core", "CarPark.Core\CarPark.Core.csproj", "{1782D61A-DBB2-4985-B2D1-13587E2334E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPark.Models", "CarPark.Models\CarPark.Models.csproj", "{A0E14073-56BC-4361-AFAD-822E7049A6A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +31,26 @@ Global
 		{397A7FC1-1787-4CF3-8B82-7CC30276A77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{397A7FC1-1787-4CF3-8B82-7CC30276A77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{397A7FC1-1787-4CF3-8B82-7CC30276A77E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1DDC32E-C98B-43AF-A66D-C1F7743DB4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DDC32E-C98B-43AF-A66D-C1F7743DB4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DDC32E-C98B-43AF-A66D-C1F7743DB4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DDC32E-C98B-43AF-A66D-C1F7743DB4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C35AB4-44C7-4D83-8FB8-E12994B7AD73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C35AB4-44C7-4D83-8FB8-E12994B7AD73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C35AB4-44C7-4D83-8FB8-E12994B7AD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C35AB4-44C7-4D83-8FB8-E12994B7AD73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AABDD06F-C396-4721-BF2F-FE4265059AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABDD06F-C396-4721-BF2F-FE4265059AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABDD06F-C396-4721-BF2F-FE4265059AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABDD06F-C396-4721-BF2F-FE4265059AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1782D61A-DBB2-4985-B2D1-13587E2334E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1782D61A-DBB2-4985-B2D1-13587E2334E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1782D61A-DBB2-4985-B2D1-13587E2334E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1782D61A-DBB2-4985-B2D1-13587E2334E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E14073-56BC-4361-AFAD-822E7049A6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E14073-56BC-4361-AFAD-822E7049A6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E14073-56BC-4361-AFAD-822E7049A6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E14073-56BC-4361-AFAD-822E7049A6A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
