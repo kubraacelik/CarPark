@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPark.Core", "CarPark.Cor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPark.Models", "CarPark.Models\CarPark.Models.csproj", "{A0E14073-56BC-4361-AFAD-822E7049A6A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPark.Test", "CarPark.Test\CarPark.Test.csproj", "{384593ED-6617-4258-8260-B0D7DE5F205C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A0E14073-56BC-4361-AFAD-822E7049A6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0E14073-56BC-4361-AFAD-822E7049A6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0E14073-56BC-4361-AFAD-822E7049A6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384593ED-6617-4258-8260-B0D7DE5F205C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384593ED-6617-4258-8260-B0D7DE5F205C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384593ED-6617-4258-8260-B0D7DE5F205C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384593ED-6617-4258-8260-B0D7DE5F205C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
