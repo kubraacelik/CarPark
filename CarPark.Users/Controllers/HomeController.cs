@@ -1,5 +1,7 @@
 using CarPark.Users.Models;
 using Microsoft.AspNetCore.Mvc;
+using MongoDB.Bson;
+using MongoDB.Driver;
 using System.Diagnostics;
 
 namespace CarPark.Users.Controllers
@@ -15,6 +17,31 @@ namespace CarPark.Users.Controllers
 
         public IActionResult Index()
         {
+            //veritabanýna baðlandý
+            var client = new MongoClient("mongodb+srv://kkbracelik92:IKqVw1VFLOySqv65@carparkcluster.kvpxp.mongodb.net/");
+            var database = client.GetDatabase("CarParkDB");
+            var collection = database.GetCollection<Test>("Test");
+
+            var test = new Test()
+            {
+                _Id = ObjectId.GenerateNewId(),
+                NameSurname = "Kübra Çelik",
+                Age = 23,
+                AddressList = new List<Address>() {
+                    new Address
+                    {
+                        Title="Ev Adresim",
+                        Description = "Gaziantep/Þehitkamil"
+                    },
+                    new Address
+                    {
+                        Title="Yurt",
+                        Description="Zonguldak/Merkez"
+                    }
+                }
+            };
+
+            collection.InsertOne(test);
             return View();
         }
 
