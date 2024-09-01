@@ -17,31 +17,40 @@ namespace CarPark.Users.Controllers
 
         public IActionResult Index()
         {
-            //veritabanýna baðlandý
-            var client = new MongoClient("mongodb+srv://kkbracelik92:IKqVw1VFLOySqv65@carparkcluster.kvpxp.mongodb.net/");
-            var database = client.GetDatabase("CarParkDB");
-            var collection = database.GetCollection<Test>("Test");
-
-            var test = new Test()
+            var customer = new Customer
             {
-                _Id = ObjectId.GenerateNewId(),
-                NameSurname = "Kübra Çelik",
-                Age = 23,
-                AddressList = new List<Address>() {
-                    new Address
-                    {
-                        Title="Ev Adresim",
-                        Description = "Gaziantep/Þehitkamil"
-                    },
-                    new Address
-                    {
-                        Title="Yurt",
-                        Description="Zonguldak/Merkez"
-                    }
-                }
+                Id = 2,
+                NameSurname = "Leyla Yýldýz",
+                Age = 25
             };
 
-            collection.InsertOne(test);
+            _logger.LogError("Customer'da bir hata oluþtu! {@customer}", customer);
+
+            ////veritabanýna baðlandý
+            //var client = new MongoClient("mongodb+srv://kkbracelik92:IKqVw1VFLOySqv65@carparkcluster.kvpxp.mongodb.net/");
+            //var database = client.GetDatabase("CarParkDB");
+            //var collection = database.GetCollection<Test>("Test");
+
+            //var test = new Test()
+            //{
+            //    _Id = ObjectId.GenerateNewId(),
+            //    NameSurname = "Kübra Çelik",
+            //    Age = 23,
+            //    AddressList = new List<Address>() {
+            //        new Address
+            //        {
+            //            Title="Ev Adresim",
+            //            Description = "Gaziantep/Þehitkamil"
+            //        },
+            //        new Address
+            //        {
+            //            Title="Yurt",
+            //            Description="Zonguldak/Merkez"
+            //        }
+            //    }
+            //};
+
+            //collection.InsertOne(test);
             return View();
         }
 
