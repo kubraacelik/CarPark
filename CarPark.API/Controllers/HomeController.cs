@@ -15,6 +15,7 @@ namespace CarPark.API.Controllers
 
         public IActionResult Index()
         {
+            _logger.LogInformation("Ben api loguyum");
             return View();
         }
 
@@ -28,5 +29,6 @@ namespace CarPark.API.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
     }
 }
