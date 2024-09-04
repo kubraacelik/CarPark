@@ -1,8 +1,11 @@
+using CarPark.Entities.Concrete;
 using CarPark.Users.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Localization;
 using MongoDB.Bson;
+using MongoDB.Bson.IO;
 using MongoDB.Driver;
+using Newtonsoft.Json;
 using System.Diagnostics;
 using System.Globalization;
 
@@ -21,6 +24,7 @@ namespace CarPark.Users.Controllers
 
         public IActionResult Index()
         {
+            //localizer örneði
             //var say_Hello_value = _localizer["Say_Hello"];
 
             //var cultureInfo = CultureInfo.GetCultureInfo("en-US");
@@ -29,19 +33,39 @@ namespace CarPark.Users.Controllers
 
             //var say_Hello_value2 = _localizer["Say_Hello"];
 
-            var customer = new Customer
+            //serilog örneði
+            //var customer = new Customer
+            //{
+            //    Id = 2,
+            //    NameSurname = "Leyla Yýldýz",
+            //    Age = 25
+            //};
+
+            //_logger.LogError("Customer'da bir hata oluþtu! {@customer}", customer);
+
+            //veritabanýna baðlandý
+            //amaç cities.json dosyasýný string yap ve cities modeli olarak ver
+            var client = new MongoClient("mongodb+srv://kkbracelik92:m3GCIkXeoC64bUb2@cluster0.o9s5m.mongodb.net/");
+            var database = client.GetDatabase("CarParkDB");
+            var jsonString = System.IO.File.ReadAllText("cities.json");
+            var cities = Newtonsoft.Json.JsonConvert.DeserializeObject<List<cities>>(jsonString);
+
+            var citiesCollection = database.GetCollection<City>("City");
+            foreach (var item in cities)
             {
-                Id = 2,
-                NameSurname = "Leyla Yýldýz",
-                Age = 25
-            };
+                var city = new City()
+                {
+                    Id = ObjectId.GenerateNewId(),
+                    Name = item.name,
+                    Plate = item.plate,
+                    Latitude = item.latitude,
+                    Longitude = item.longitude,
+                    Counties = item.counties.ToList() // Burada `counties` listesinin `County` nesneleri içermesi gerekir.
+                };
 
-            _logger.LogError("Customer'da bir hata oluþtu! {@customer}", customer);
+                citiesCollection.InsertOne(city);
+            }
 
-            ////veritabanýna baðlandý
-            //var client = new MongoClient("mongodb+srv://kkbracelik92:IKqVw1VFLOySqv65@carparkcluster.kvpxp.mongodb.net/");
-            //var database = client.GetDatabase("CarParkDB");
-            //var collection = database.GetCollection<Test>("Test");
 
             //var test = new Test()
             //{
@@ -63,6 +87,7 @@ namespace CarPark.Users.Controllers
             //};
 
             //collection.InsertOne(test);
+
             return View();
         }
 
