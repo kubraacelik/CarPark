@@ -1,0 +1,6428 @@
+[
+  {
+    "name": "adana",
+    "plate": "01",
+    "latitude": "36.9914",
+    "longitude": "35.3308",
+    "counties": [
+      {
+        "Name": "Seyhan",
+        "Latitude": "37.0028",
+        "Longitude": "35.3203",
+        "PostCode": "01010"
+      },
+      {
+        "Name": "Yüreğir",
+        "Latitude": "37.0050",
+        "Longitude": "35.3300",
+        "PostCode": "01200"
+      },
+      {
+        "Name": "Çukurova",
+        "Latitude": "37.0080",
+        "Longitude": "35.3350",
+        "PostCode": "01300"
+      },
+      {
+        "Name": "Ceyhan",
+        "Latitude": "37.0300",
+        "Longitude": "35.3850",
+        "PostCode": "01400"
+      },
+      {
+        "Name": "Sarıçam",
+        "Latitude": "37.0150",
+        "Longitude": "35.3400",
+        "PostCode": "01500"
+      },
+      {
+        "Name": "Kozan",
+        "Latitude": "37.1150",
+        "Longitude": "35.3470",
+        "PostCode": "01600"
+      },
+      {
+        "Name": "İmamoğlu",
+        "Latitude": "37.0970",
+        "Longitude": "35.3450",
+        "PostCode": "01700"
+      },
+      {
+        "Name": "Karataş",
+        "Latitude": "37.2000",
+        "Longitude": "35.4000",
+        "PostCode": "01800"
+      },
+      {
+        "Name": "Karaisalı",
+        "Latitude": "37.0900",
+        "Longitude": "35.3700",
+        "PostCode": "01900"
+      },
+      {
+        "Name": "Pozantı",
+        "Latitude": "37.0000",
+        "Longitude": "35.4500",
+        "PostCode": "02000"
+      },
+      {
+        "Name": "Yumurtalık",
+        "Latitude": "37.0550",
+        "Longitude": "35.5500",
+        "PostCode": "02100"
+      },
+      {
+        "Name": "Tufanbeyli",
+        "Latitude": "37.0200",
+        "Longitude": "35.5000",
+        "PostCode": "02200"
+      },
+      {
+        "Name": "Feke",
+        "Latitude": "37.1500",
+        "Longitude": "35.6000",
+        "PostCode": "02300"
+      },
+      {
+        "Name": "Aladağ",
+        "Latitude": "37.1800",
+        "Longitude": "35.6800",
+        "PostCode": "02400"
+      },
+      {
+        "Name": "Saimbeyli",
+        "Latitude": "37.2200",
+        "Longitude": "35.7200",
+        "PostCode": "02500"
+      }
+    ]
+  },
+  {
+    "name": "adıyamam",
+    "plate": "02",
+    "latitude": "37.7636",
+    "longitude": "38.2773",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "37.7636",
+        "Longitude": "38.2773",
+        "PostCode": "02000"
+      },
+      {
+        "Name": "Kahta",
+        "Latitude": "37.8500",
+        "Longitude": "38.2870",
+        "PostCode": "02100"
+      },
+      {
+        "Name": "Besni",
+        "Latitude": "37.7167",
+        "Longitude": "38.2861",
+        "PostCode": "02200"
+      },
+      {
+        "Name": "Gölbaşı",
+        "Latitude": "37.7560",
+        "Longitude": "38.2440",
+        "PostCode": "02300"
+      },
+      {
+        "Name": "Gerger",
+        "Latitude": "37.6440",
+        "Longitude": "38.2270",
+        "PostCode": "02400"
+      },
+      {
+        "Name": "Sincik",
+        "Latitude": "37.5920",
+        "Longitude": "38.2230",
+        "PostCode": "02500"
+      },
+      {
+        "Name": "Çelikhan",
+        "Latitude": "37.6160",
+        "Longitude": "38.2080",
+        "PostCode": "02600"
+      },
+      {
+        "Name": "Tut",
+        "Latitude": "37.5500",
+        "Longitude": "38.2000",
+        "PostCode": "02700"
+      },
+      {
+        "Name": "Samsat",
+        "Latitude": "37.5720",
+        "Longitude": "38.2700",
+        "PostCode": "02800"
+      }
+    ]
+  },
+  {
+    "name": "afyonkarahisar",
+    "plate": "03",
+    "latitude": "38.7569",
+    "longitude": "30.5387",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "38.7569",
+        "Longitude": "30.5387",
+        "PostCode": "03000"
+      },
+      {
+        "Name": "Sandıklı",
+        "Latitude": "38.5500",
+        "Longitude": "30.6500",
+        "PostCode": "03100"
+      },
+      {
+        "Name": "Dinar",
+        "Latitude": "38.5650",
+        "Longitude": "30.6260",
+        "PostCode": "03200"
+      },
+      {
+        "Name": "Bolvadin",
+        "Latitude": "38.7360",
+        "Longitude": "30.6890",
+        "PostCode": "03300"
+      },
+      {
+        "Name": "Sinanpaşa",
+        "Latitude": "38.7300",
+        "Longitude": "30.6780",
+        "PostCode": "03400"
+      },
+      {
+        "Name": "Emirdağ",
+        "Latitude": "38.8230",
+        "Longitude": "30.6410",
+        "PostCode": "03500"
+      },
+      {
+        "Name": "Şuhut",
+        "Latitude": "38.7580",
+        "Longitude": "30.5560",
+        "PostCode": "03600"
+      },
+      {
+        "Name": "Çay",
+        "Latitude": "38.7330",
+        "Longitude": "30.5130",
+        "PostCode": "03700"
+      },
+      {
+        "Name": "İhsaniye",
+        "Latitude": "38.7080",
+        "Longitude": "30.4970",
+        "PostCode": "03800"
+      },
+      {
+        "Name": "İscehisar",
+        "Latitude": "38.7520",
+        "Longitude": "30.5920",
+        "PostCode": "03900"
+      },
+      {
+        "Name": "Sultandağı",
+        "Latitude": "38.7820",
+        "Longitude": "30.6620",
+        "PostCode": "04000"
+      },
+      {
+        "Name": "Çobanlar",
+        "Latitude": "38.7400",
+        "Longitude": "30.7060",
+        "PostCode": "04100"
+      },
+      {
+        "Name": "Dazkırı",
+        "Latitude": "38.7020",
+        "Longitude": "30.6650",
+        "PostCode": "04200"
+      },
+      {
+        "Name": "Başmakçı",
+        "Latitude": "38.7350",
+        "Longitude": "30.6360",
+        "PostCode": "04300"
+      },
+      {
+        "Name": "Hocalar",
+        "Latitude": "38.7150",
+        "Longitude": "30.6200",
+        "PostCode": "04400"
+      },
+      {
+        "Name": "Bayat",
+        "Latitude": "38.6900",
+        "Longitude": "30.6050",
+        "PostCode": "04500"
+      },
+      {
+        "Name": "Evciler",
+        "Latitude": "38.6900",
+        "Longitude": "30.5480",
+        "PostCode": "04600"
+      },
+      {
+        "Name": "Kızılören",
+        "Latitude": "38.7100",
+        "Longitude": "30.5200",
+        "PostCode": "04700"
+      }
+    ]
+  },
+  {
+    "name": "ağrı",
+    "plate": "04",
+    "latitude": "39.7191",
+    "longitude": "43.0506",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "39.7191",
+        "Longitude": "43.0506",
+        "PostCode": "04000"
+      },
+      {
+        "Name": "Patnos",
+        "Latitude": "39.8030",
+        "Longitude": "43.0520",
+        "PostCode": "04100"
+      },
+      {
+        "Name": "Doğubayazıt",
+        "Latitude": "39.7680",
+        "Longitude": "43.0020",
+        "PostCode": "04200"
+      },
+      {
+        "Name": "Diyadin",
+        "Latitude": "39.8260",
+        "Longitude": "43.1430",
+        "PostCode": "04300"
+      },
+      {
+        "Name": "Eleşkirt",
+        "Latitude": "39.6820",
+        "Longitude": "43.1710",
+        "PostCode": "04400"
+      },
+      {
+        "Name": "Tutak",
+        "Latitude": "39.7410",
+        "Longitude": "43.0780",
+        "PostCode": "04500"
+      },
+      {
+        "Name": "Taşlıçay",
+        "Latitude": "39.6720",
+        "Longitude": "43.2210",
+        "PostCode": "04600"
+      },
+      {
+        "Name": "Hamur",
+        "Latitude": "39.6530",
+        "Longitude": "43.2370",
+        "PostCode": "04700"
+      }
+    ]
+  },
+  {
+    "name": "amasya",
+    "plate": "05",
+    "latitude": "40.6565",
+    "longitude": "35.8373",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "40.6565",
+        "Longitude": "35.8373",
+        "PostCode": "05000"
+      },
+      {
+        "Name": "Merzifon",
+        "Latitude": "40.6590",
+        "Longitude": "35.8320",
+        "PostCode": "05100"
+      },
+      {
+        "Name": "Suluova",
+        "Latitude": "40.6760",
+        "Longitude": "35.8680",
+        "PostCode": "05200"
+      },
+      {
+        "Name": "Taşova",
+        "Latitude": "40.6700",
+        "Longitude": "35.8250",
+        "PostCode": "05300"
+      },
+      {
+        "Name": "Gümüşhacıköy",
+        "Latitude": "40.7250",
+        "Longitude": "35.8100",
+        "PostCode": "05400"
+      },
+      {
+        "Name": "Göynücek",
+        "Latitude": "40.7300",
+        "Longitude": "35.8600",
+        "PostCode": "05500"
+      },
+      {
+        "Name": "Hamamözü",
+        "Latitude": "40.6800",
+        "Longitude": "35.8400",
+        "PostCode": "05600"
+      }
+    ]
+  },
+  {
+    "name": "ankara",
+    "plate": "06",
+    "latitude": "39.9334",
+    "longitude": "32.8597",
+    "counties": [
+      {
+        "Name": "Çankaya",
+        "Latitude": "39.9334",
+        "Longitude": "32.8597",
+        "PostCode": "06000"
+      },
+      {
+        "Name": "Keçiören",
+        "Latitude": "39.9720",
+        "Longitude": "32.8540",
+        "PostCode": "06200"
+      },
+      {
+        "Name": "Yenimahalle",
+        "Latitude": "39.9670",
+        "Longitude": "32.8720",
+        "PostCode": "06300"
+      },
+      {
+        "Name": "Mamak",
+        "Latitude": "39.9820",
+        "Longitude": "32.8360",
+        "PostCode": "06400"
+      },
+      {
+        "Name": "Etimesgut",
+        "Latitude": "39.9720",
+        "Longitude": "32.8920",
+        "PostCode": "06500"
+      },
+      {
+        "Name": "Sincan",
+        "Latitude": "39.9050",
+        "Longitude": "32.8420",
+        "PostCode": "06600"
+      },
+      {
+        "Name": "Altındağ",
+        "Latitude": "39.9340",
+        "Longitude": "32.8720",
+        "PostCode": "06700"
+      },
+      {
+        "Name": "Pursaklar",
+        "Latitude": "39.9800",
+        "Longitude": "32.8890",
+        "PostCode": "06800"
+      },
+      {
+        "Name": "Gölbaşı",
+        "Latitude": "39.7900",
+        "Longitude": "32.8520",
+        "PostCode": "06900"
+      },
+      {
+        "Name": "Polatlı",
+        "Latitude": "39.7380",
+        "Longitude": "32.1530",
+        "PostCode": "07100"
+      },
+      {
+        "Name": "Çubuk",
+        "Latitude": "40.0950",
+        "Longitude": "32.9280",
+        "PostCode": "07200"
+      },
+      {
+        "Name": "Kahramankazan",
+        "Latitude": "40.0450",
+        "Longitude": "32.6500",
+        "PostCode": "07300"
+      },
+      {
+        "Name": "Beypazarı",
+        "Latitude": "40.1610",
+        "Longitude": "32.7410",
+        "PostCode": "07400"
+      },
+      {
+        "Name": "Elmadağ",
+        "Latitude": "40.1680",
+        "Longitude": "32.7170",
+        "PostCode": "07500"
+      },
+      {
+        "Name": "Şereflikoçhisar",
+        "Latitude": "39.6140",
+        "Longitude": "33.0830",
+        "PostCode": "07600"
+      },
+      {
+        "Name": "Akyurt",
+        "Latitude": "39.9930",
+        "Longitude": "32.7940",
+        "PostCode": "07700"
+      },
+      {
+        "Name": "Nallıhan",
+        "Latitude": "40.0840",
+        "Longitude": "31.9150",
+        "PostCode": "07800"
+      },
+      {
+        "Name": "Haymana",
+        "Latitude": "39.6820",
+        "Longitude": "32.5640",
+        "PostCode": "07900"
+      },
+      {
+        "Name": "Kızılcahamam",
+        "Latitude": "40.2650",
+        "Longitude": "32.6060",
+        "PostCode": "08000"
+      },
+      {
+        "Name": "Bala",
+        "Latitude": "40.1370",
+        "Longitude": "32.4300",
+        "PostCode": "08100"
+      },
+      {
+        "Name": "Kalecik",
+        "Latitude": "40.2600",
+        "Longitude": "32.5180",
+        "PostCode": "08200"
+      },
+      {
+        "Name": "Ayaş",
+        "Latitude": "39.5750",
+        "Longitude": "32.6510",
+        "PostCode": "08300"
+      },
+      {
+        "Name": "Güdül",
+        "Latitude": "39.7700",
+        "Longitude": "32.4810",
+        "PostCode": "08400"
+      },
+      {
+        "Name": "Çamlıdere",
+        "Latitude": "40.1040",
+        "Longitude": "32.4360",
+        "PostCode": "08500"
+      },
+      {
+        "Name": "Evren",
+        "Latitude": "39.8140",
+        "Longitude": "32.4250",
+        "PostCode": "08600"
+      }
+    ]
+  },
+  {
+    "name": "antalya",
+    "plate": "07",
+    "latitude": "36.8969",
+    "longitude": "30.7133",
+    "counties": [
+      {
+        "Name": "Kepez",
+        "Latitude": "36.8850",
+        "Longitude": "30.7160",
+        "PostCode": "07000"
+      },
+      {
+        "Name": "Muratpaşa",
+        "Latitude": "36.8940",
+        "Longitude": "30.7040",
+        "PostCode": "07100"
+      },
+      {
+        "Name": "Alanya",
+        "Latitude": "36.5430",
+        "Longitude": "31.9990",
+        "PostCode": "07200"
+      },
+      {
+        "Name": "Manavgat",
+        "Latitude": "36.7830",
+        "Longitude": "31.4410",
+        "PostCode": "07300"
+      },
+      {
+        "Name": "Konyaaltı",
+        "Latitude": "36.8830",
+        "Longitude": "30.7150",
+        "PostCode": "07400"
+      },
+      {
+        "Name": "Serik",
+        "Latitude": "36.8650",
+        "Longitude": "31.0100",
+        "PostCode": "07500"
+      },
+      {
+        "Name": "Aksu",
+        "Latitude": "36.8840",
+        "Longitude": "30.7340",
+        "PostCode": "07600"
+      },
+      {
+        "Name": "Kumluca",
+        "Latitude": "36.4110",
+        "Longitude": "30.3370",
+        "PostCode": "07700"
+      },
+      {
+        "Name": "Döşemealtı",
+        "Latitude": "36.9350",
+        "Longitude": "30.6210",
+        "PostCode": "07800"
+      },
+      {
+        "Name": "Kaş",
+        "Latitude": "36.2040",
+        "Longitude": "29.7750",
+        "PostCode": "07900"
+      },
+      {
+        "Name": "Korkuteli",
+        "Latitude": "36.6380",
+        "Longitude": "30.1270",
+        "PostCode": "08000"
+      },
+      {
+        "Name": "Gazipaşa",
+        "Latitude": "36.2950",
+        "Longitude": "32.3420",
+        "PostCode": "08100"
+      },
+      {
+        "Name": "Finike",
+        "Latitude": "36.3270",
+        "Longitude": "30.1130",
+        "PostCode": "08200"
+      },
+      {
+        "Name": "Kemer",
+        "Latitude": "36.6050",
+        "Longitude": "30.5780",
+        "PostCode": "08300"
+      },
+      {
+        "Name": "Elmalı",
+        "Latitude": "36.6080",
+        "Longitude": "30.2130",
+        "PostCode": "08400"
+      },
+      {
+        "Name": "Demre",
+        "Latitude": "36.2310",
+        "Longitude": "29.9740",
+        "PostCode": "08500"
+      },
+      {
+        "Name": "Akseki",
+        "Latitude": "36.5860",
+        "Longitude": "31.1260",
+        "PostCode": "08600"
+      },
+      {
+        "Name": "Gündoğmuş",
+        "Latitude": "36.4240",
+        "Longitude": "31.2600",
+        "PostCode": "08700"
+      },
+      {
+        "Name": "İbradı",
+        "Latitude": "36.4300",
+        "Longitude": "31.2270",
+        "PostCode": "08800"
+      }
+    ]
+  },
+  {
+    "name": "artvin",
+    "plate": "08",
+    "latitude": "41.1809",
+    "longitude": "41.8208",
+    "counties": [
+      {
+        "Name": "Hopa",
+        "Latitude": "41.4070",
+        "Longitude": "41.4590",
+        "PostCode": "08860"
+      },
+      {
+        "Name": "Merkez",
+        "Latitude": "41.1809",
+        "Longitude": "41.8208",
+        "PostCode": "08000"
+      },
+      {
+        "Name": "Borçka",
+        "Latitude": "41.3500",
+        "Longitude": "41.8600",
+        "PostCode": "08200"
+      },
+      {
+        "Name": "Yusufeli",
+        "Latitude": "41.2490",
+        "Longitude": "41.7350",
+        "PostCode": "09300"
+      },
+      {
+        "Name": "Arhavi",
+        "Latitude": "41.1960",
+        "Longitude": "41.6100",
+        "PostCode": "09200"
+      },
+      {
+        "Name": "Şavşat",
+        "Latitude": "41.1460",
+        "Longitude": "41.2200",
+        "PostCode": "09500"
+      },
+      {
+        "Name": "Ardanuç",
+        "Latitude": "41.1750",
+        "Longitude": "41.5300",
+        "PostCode": "09400"
+      },
+      {
+        "Name": "Murgul",
+        "Latitude": "41.0300",
+        "Longitude": "41.8700",
+        "PostCode": "09600"
+      },
+      {
+        "Name": "Kemalpaşa",
+        "Latitude": "41.2600",
+        "Longitude": "41.8300",
+        "PostCode": "09700"
+      }
+    ]
+  },
+  {
+    "name": "aydın",
+    "plate": "09",
+    "latitude": "37.8380",
+    "longitude": "27.8456",
+    "counties": [
+      {
+        "Name": "Efeler",
+        "Latitude": "37.8350",
+        "Longitude": "27.8480",
+        "PostCode": "09000"
+      },
+      {
+        "Name": "Nazilli",
+        "Latitude": "37.9500",
+        "Longitude": "27.8830",
+        "PostCode": "09700"
+      },
+      {
+        "Name": "Söke",
+        "Latitude": "37.6740",
+        "Longitude": "27.3200",
+        "PostCode": "09200"
+      },
+      {
+        "Name": "Kuşadası",
+        "Latitude": "37.8550",
+        "Longitude": "27.2560",
+        "PostCode": "09400"
+      },
+      {
+        "Name": "Didim",
+        "Latitude": "37.3830",
+        "Longitude": "27.2500",
+        "PostCode": "09270"
+      },
+      {
+        "Name": "Çine",
+        "Latitude": "37.5800",
+        "Longitude": "27.3000",
+        "PostCode": "09700"
+      },
+      {
+        "Name": "İncirliova",
+        "Latitude": "37.8160",
+        "Longitude": "27.8680",
+        "PostCode": "09730"
+      },
+      {
+        "Name": "Germencik",
+        "Latitude": "37.8770",
+        "Longitude": "27.9750",
+        "PostCode": "09500"
+      },
+      {
+        "Name": "Bozdoğan",
+        "Latitude": "37.7490",
+        "Longitude": "27.8260",
+        "PostCode": "09600"
+      },
+      {
+        "Name": "Köşk",
+        "Latitude": "37.8630",
+        "Longitude": "27.7950",
+        "PostCode": "09620"
+      },
+      {
+        "Name": "Kuyucak",
+        "Latitude": "37.7660",
+        "Longitude": "27.9010",
+        "PostCode": "09710"
+      },
+      {
+        "Name": "Sultanhisar",
+        "Latitude": "37.7160",
+        "Longitude": "27.8580",
+        "PostCode": "09720"
+      },
+      {
+        "Name": "Karacasu",
+        "Latitude": "37.7320",
+        "Longitude": "28.0380",
+        "PostCode": "09750"
+      },
+      {
+        "Name": "Yenipazar",
+        "Latitude": "37.7920",
+        "Longitude": "27.9620",
+        "PostCode": "09760"
+      },
+      {
+        "Name": "Buharkent",
+        "Latitude": "37.8500",
+        "Longitude": "27.6900",
+        "PostCode": "09780"
+      },
+      {
+        "Name": "Karpuzlu",
+        "Latitude": "37.6860",
+        "Longitude": "27.8360",
+        "PostCode": "09790"
+      }
+    ]
+  },
+  {
+    "name": "balıkesir",
+    "plate": "10",
+    "latitude": "39.6533",
+    "longitude": "27.8903",
+    "counties": [
+      {
+        "Name": "Karesi",
+        "Latitude": "39.6370",
+        "Longitude": "27.8890",
+        "PostCode": "10010"
+      },
+      {
+        "Name": "Altıeylül",
+        "Latitude": "39.6580",
+        "Longitude": "27.9060",
+        "PostCode": "10040"
+      },
+      {
+        "Name": "Bandırma",
+        "Latitude": "40.3520",
+        "Longitude": "27.9820",
+        "PostCode": "10200"
+      },
+      {
+        "Name": "Edremit",
+        "Latitude": "39.5860",
+        "Longitude": "27.0460",
+        "PostCode": "10300"
+      },
+      {
+        "Name": "Gönen",
+        "Latitude": "39.4790",
+        "Longitude": "27.2750",
+        "PostCode": "10600"
+      },
+      {
+        "Name": "Ayvalık",
+        "Latitude": "39.3130",
+        "Longitude": "26.7080",
+        "PostCode": "10400"
+      },
+      {
+        "Name": "Burhaniye",
+        "Latitude": "39.4940",
+        "Longitude": "27.0510",
+        "PostCode": "10700"
+      },
+      {
+        "Name": "Bigadiç",
+        "Latitude": "39.3610",
+        "Longitude": "28.0360",
+        "PostCode": "10800"
+      },
+      {
+        "Name": "Susurluk",
+        "Latitude": "39.7450",
+        "Longitude": "28.0730",
+        "PostCode": "10900"
+      },
+      {
+        "Name": "Dursunbey",
+        "Latitude": "39.8220",
+        "Longitude": "28.3970",
+        "PostCode": "11000"
+      },
+      {
+        "Name": "Sındırgı",
+        "Latitude": "39.8910",
+        "Longitude": "28.2980",
+        "PostCode": "11200"
+      },
+      {
+        "Name": "Ivrindi",
+        "Latitude": "39.8280",
+        "Longitude": "27.8350",
+        "PostCode": "11300"
+      },
+      {
+        "Name": "Erdek",
+        "Latitude": "40.3650",
+        "Longitude": "27.6700",
+        "PostCode": "11400"
+      },
+      {
+        "Name": "Havran",
+        "Latitude": "39.7110",
+        "Longitude": "27.6310",
+        "PostCode": "11500"
+      },
+      {
+        "Name": "Kepsut",
+        "Latitude": "39.6130",
+        "Longitude": "28.0780",
+        "PostCode": "11600"
+      },
+      {
+        "Name": "Manyas",
+        "Latitude": "40.1740",
+        "Longitude": "27.4960",
+        "PostCode": "11700"
+      },
+      {
+        "Name": "Savaştepe",
+        "Latitude": "39.6900",
+        "Longitude": "27.8820",
+        "PostCode": "11800"
+      },
+      {
+        "Name": "Balya",
+        "Latitude": "39.7430",
+        "Longitude": "27.4230",
+        "PostCode": "11900"
+      },
+      {
+        "Name": "Gömeç",
+        "Latitude": "39.3740",
+        "Longitude": "27.1590",
+        "PostCode": "12000"
+      },
+      {
+        "Name": "Marmara",
+        "Latitude": "40.3390",
+        "Longitude": "27.4300",
+        "PostCode": "12100"
+      }
+    ]
+  },
+  {
+    "name": "bilecik",
+    "plate": "11",
+    "latitude": "40.1426",
+    "longitude": "29.9793",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "40.1426",
+        "Longitude": "29.9793",
+        "PostCode": "11000"
+      },
+      {
+        "Name": "Bozüyük",
+        "Latitude": "40.1880",
+        "Longitude": "30.0290",
+        "PostCode": "11400"
+      },
+      {
+        "Name": "Osmaneli",
+        "Latitude": "40.0300",
+        "Longitude": "29.9580",
+        "PostCode": "11500"
+      },
+      {
+        "Name": "Söğüt",
+        "Latitude": "40.0460",
+        "Longitude": "29.7970",
+        "PostCode": "11600"
+      },
+      {
+        "Name": "Gölpazarı",
+        "Latitude": "40.0500",
+        "Longitude": "29.7790",
+        "PostCode": "11700"
+      },
+      {
+        "Name": "Pazaryeri",
+        "Latitude": "40.0790",
+        "Longitude": "29.7410",
+        "PostCode": "11800"
+      },
+      {
+        "Name": "Yenipazar",
+        "Latitude": "40.1310",
+        "Longitude": "29.8920",
+        "PostCode": "11900"
+      },
+      {
+        "Name": "İnhisar",
+        "Latitude": "40.0780",
+        "Longitude": "29.9200",
+        "PostCode": "12000"
+      }
+    ]
+  },
+  {
+    "name": "bingöl",
+    "plate": "12",
+    "latitude": "38.8855",
+    "longitude": "40.4966",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "38.8855",
+        "Longitude": "40.4966",
+        "PostCode": "12000"
+      },
+      {
+        "Name": "Genç",
+        "Latitude": "38.8400",
+        "Longitude": "40.3580",
+        "PostCode": "12100"
+      },
+      {
+        "Name": "Solhan",
+        "Latitude": "38.8960",
+        "Longitude": "40.3100",
+        "PostCode": "12200"
+      },
+      {
+        "Name": "Karlıova",
+        "Latitude": "39.0720",
+        "Longitude": "40.4620",
+        "PostCode": "12300"
+      },
+      {
+        "Name": "Adaklı",
+        "Latitude": "38.7320",
+        "Longitude": "40.5660",
+        "PostCode": "12400"
+      },
+      {
+        "Name": "Kiğı",
+        "Latitude": "38.8200",
+        "Longitude": "40.5480",
+        "PostCode": "12500"
+      },
+      {
+        "Name": "Yedisu",
+        "Latitude": "38.8970",
+        "Longitude": "40.6500",
+        "PostCode": "12600"
+      },
+      {
+        "Name": "Yayladere",
+        "Latitude": "38.9300",
+        "Longitude": "40.6000",
+        "PostCode": "12700"
+      }
+    ]
+  },
+  {
+    "name": "bitlis",
+    "plate": "13",
+    "latitude": "38.4006",
+    "longitude": "42.1095",
+    "counties": [
+      {
+        "Name": "Tatvan",
+        "Latitude": "38.3820",
+        "Longitude": "42.2090",
+        "PostCode": "13400"
+      },
+      {
+        "Name": "Merkez",
+        "Latitude": "38.4006",
+        "Longitude": "42.1095",
+        "PostCode": "13000"
+      },
+      {
+        "Name": "Güroymak",
+        "Latitude": "38.3860",
+        "Longitude": "42.1880",
+        "PostCode": "13500"
+      },
+      {
+        "Name": "Ahlat",
+        "Latitude": "38.3770",
+        "Longitude": "42.2180",
+        "PostCode": "13600"
+      },
+      {
+        "Name": "Hizan",
+        "Latitude": "38.4340",
+        "Longitude": "42.1720",
+        "PostCode": "13700"
+      },
+      {
+        "Name": "Mutki",
+        "Latitude": "38.4090",
+        "Longitude": "41.9930",
+        "PostCode": "13800"
+      },
+      {
+        "Name": "Adilcevaz",
+        "Latitude": "38.3410",
+        "Longitude": "42.0170",
+        "PostCode": "13900"
+      }
+    ]
+  },
+  {
+    "name": "bolu",
+    "plate": "14",
+    "latitude": "40.7325",
+    "longitude": "31.6082",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "40.7325",
+        "Longitude": "31.6082",
+        "PostCode": "14000"
+      },
+      {
+        "Name": "Gerede",
+        "Latitude": "40.5560",
+        "Longitude": "31.6770",
+        "PostCode": "14200"
+      },
+      {
+        "Name": "Mudurnu",
+        "Latitude": "40.5530",
+        "Longitude": "31.6270",
+        "PostCode": "14300"
+      },
+      {
+        "Name": "Göynük",
+        "Latitude": "40.2920",
+        "Longitude": "31.6670",
+        "PostCode": "14400"
+      },
+      {
+        "Name": "Mengen",
+        "Latitude": "40.6070",
+        "Longitude": "31.4970",
+        "PostCode": "14500"
+      },
+      {
+        "Name": "Yeniçağa",
+        "Latitude": "40.5930",
+        "Longitude": "31.4410",
+        "PostCode": "14600"
+      },
+      {
+        "Name": "Dörtdivan",
+        "Latitude": "40.5890",
+        "Longitude": "31.2700",
+        "PostCode": "14700"
+      },
+      {
+        "Name": "Seben",
+        "Latitude": "40.5810",
+        "Longitude": "31.2090",
+        "PostCode": "14800"
+      },
+      {
+        "Name": "Kıbrıscık",
+        "Latitude": "40.6670",
+        "Longitude": "31.2690",
+        "PostCode": "14900"
+      }
+    ]
+  },
+  {
+    "name": "burdur",
+    "plate": "15",
+    "latitude": "37.7183",
+    "longitude": "30.2823",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "37.7183",
+        "Longitude": "30.2823",
+        "PostCode": "15000"
+      },
+      {
+        "Name": "Bucak",
+        "Latitude": "37.6100",
+        "Longitude": "30.3090",
+        "PostCode": "15100"
+      },
+      {
+        "Name": "Gölhisar",
+        "Latitude": "37.7770",
+        "Longitude": "30.0460",
+        "PostCode": "15200"
+      },
+      {
+        "Name": "Yeşilova",
+        "Latitude": "37.6650",
+        "Longitude": "30.3000",
+        "PostCode": "15300"
+      },
+      {
+        "Name": "Çavdır",
+        "Latitude": "37.6760",
+        "Longitude": "30.0460",
+        "PostCode": "15400"
+      },
+      {
+        "Name": "Tefenni",
+        "Latitude": "37.6380",
+        "Longitude": "30.2200",
+        "PostCode": "15500"
+      },
+      {
+        "Name": "Ağlasun",
+        "Latitude": "37.6900",
+        "Longitude": "30.3410",
+        "PostCode": "15600"
+      },
+      {
+        "Name": "Karamanlı",
+        "Latitude": "37.7130",
+        "Longitude": "30.4110",
+        "PostCode": "15700"
+      },
+      {
+        "Name": "Altınyayla",
+        "Latitude": "37.8000",
+        "Longitude": "30.2900",
+        "PostCode": "15800"
+      },
+      {
+        "Name": "Çeltikçi",
+        "Latitude": "37.6930",
+        "Longitude": "30.2170",
+        "PostCode": "15900"
+      },
+      {
+        "Name": "Kemer",
+        "Latitude": "37.5740",
+        "Longitude": "30.2780",
+        "PostCode": "16000"
+      }
+    ]
+  },
+  {
+    "name": "bursa",
+    "plate": "16",
+    "latitude": "40.1885",
+    "longitude": "29.0610",
+    "counties": [
+      {
+        "Name": "Osmangazi",
+        "Latitude": "40.1780",
+        "Longitude": "29.0670",
+        "PostCode": "16010"
+      },
+      {
+        "Name": "Yıldırım",
+        "Latitude": "40.1960",
+        "Longitude": "29.0320",
+        "PostCode": "16300"
+      },
+      {
+        "Name": "Nilüfer",
+        "Latitude": "40.2210",
+        "Longitude": "29.0650",
+        "PostCode": "16110"
+      },
+      {
+        "Name": "Gemlik",
+        "Latitude": "40.4140",
+        "Longitude": "28.9630",
+        "PostCode": "16600"
+      },
+      {
+        "Name": "Mustafakemalpaşa",
+        "Latitude": "40.2160",
+        "Longitude": "28.9730",
+        "PostCode": "16400"
+      },
+      {
+        "Name": "Mudanya",
+        "Latitude": "40.3620",
+        "Longitude": "28.9130",
+        "PostCode": "16900"
+      },
+      {
+        "Name": "Gürsu",
+        "Latitude": "40.2590",
+        "Longitude": "29.0740",
+        "PostCode": "16200"
+      },
+      {
+        "Name": "Karacabey",
+        "Latitude": "40.1680",
+        "Longitude": "28.7410",
+        "PostCode": "16800"
+      },
+      {
+        "Name": "Orhangazi",
+        "Latitude": "40.2900",
+        "Longitude": "28.7430",
+        "PostCode": "16700"
+      },
+      {
+        "Name": "Kestel",
+        "Latitude": "40.2010",
+        "Longitude": "29.1210",
+        "PostCode": "16500"
+      },
+      {
+        "Name": "Yenişehir",
+        "Latitude": "40.2780",
+        "Longitude": "29.2110",
+        "PostCode": "17200"
+      },
+      {
+        "Name": "İznik",
+        "Latitude": "40.4080",
+        "Longitude": "29.7310",
+        "PostCode": "16910"
+      },
+      {
+        "Name": "Orhaneli",
+        "Latitude": "40.0730",
+        "Longitude": "28.9500",
+        "PostCode": "16320"
+      },
+      {
+        "Name": "Keles",
+        "Latitude": "40.3160",
+        "Longitude": "29.0910",
+        "PostCode": "16330"
+      },
+      {
+        "Name": "Büyükorhan",
+        "Latitude": "40.1160",
+        "Longitude": "28.8710",
+        "PostCode": "16420"
+      },
+      {
+        "Name": "Harmancık",
+        "Latitude": "40.1650",
+        "Longitude": "28.9280",
+        "PostCode": "16340"
+      }
+    ]
+  },
+  {
+    "name": "çanakkale",
+    "plate": "17",
+    "latitude": "40.1467",
+    "longitude": "26.4086",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "40.1467",
+        "Longitude": "26.4086",
+        "PostCode": "17100"
+      },
+      {
+        "Name": "Biga",
+        "Latitude": "40.4040",
+        "Longitude": "26.2110",
+        "PostCode": "17200"
+      },
+      {
+        "Name": "Çan",
+        "Latitude": "40.2220",
+        "Longitude": "26.4290",
+        "PostCode": "17300"
+      },
+      {
+        "Name": "Gelibolu",
+        "Latitude": "40.3670",
+        "Longitude": "26.6620",
+        "PostCode": "17400"
+      },
+      {
+        "Name": "Yenice",
+        "Latitude": "40.2460",
+        "Longitude": "26.3980",
+        "PostCode": "17500"
+      },
+      {
+        "Name": "Ayvacık",
+        "Latitude": "40.3060",
+        "Longitude": "26.4900",
+        "PostCode": "17600"
+      },
+      {
+        "Name": "Ezine",
+        "Latitude": "40.3350",
+        "Longitude": "26.7310",
+        "PostCode": "17700"
+      },
+      {
+        "Name": "Bayramiç",
+        "Latitude": "40.3230",
+        "Longitude": "26.5260",
+        "PostCode": "17800"
+      },
+      {
+        "Name": "Lapseki",
+        "Latitude": "40.3110",
+        "Longitude": "26.3920",
+        "PostCode": "17900"
+      },
+      {
+        "Name": "Eceabat",
+        "Latitude": "40.2310",
+        "Longitude": "26.4350",
+        "PostCode": "18000"
+      },
+      {
+        "Name": "Gökçeada",
+        "Latitude": "40.2420",
+        "Longitude": "25.9820",
+        "PostCode": "18100"
+      },
+      {
+        "Name": "Bozcaada",
+        "Latitude": "40.0160",
+        "Longitude": "26.0420",
+        "PostCode": "18200"
+      }
+    ]
+  },
+  {
+    "name": "çankırı",
+    "plate": "18",
+    "latitude": "40.6002",
+    "longitude": "33.6162",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "40.6002",
+        "Longitude": "33.6162",
+        "PostCode": "18200"
+      },
+      {
+        "Name": "Çerkeş",
+        "Latitude": "40.5820",
+        "Longitude": "33.6930",
+        "PostCode": "18300"
+      },
+      {
+        "Name": "Ilgaz",
+        "Latitude": "40.6660",
+        "Longitude": "33.6000",
+        "PostCode": "18400"
+      },
+      {
+        "Name": "Orta",
+        "Latitude": "40.6030",
+        "Longitude": "33.5220",
+        "PostCode": "18500"
+      },
+      {
+        "Name": "Şabanözü",
+        "Latitude": "40.5630",
+        "Longitude": "33.6580",
+        "PostCode": "18600"
+      },
+      {
+        "Name": "Kurşunlu",
+        "Latitude": "40.5560",
+        "Longitude": "33.7210",
+        "PostCode": "18700"
+      },
+      {
+        "Name": "Yapraklı",
+        "Latitude": "40.6420",
+        "Longitude": "33.7090",
+        "PostCode": "18800"
+      },
+      {
+        "Name": "Kızılırmak",
+        "Latitude": "40.6050",
+        "Longitude": "33.7650",
+        "PostCode": "18900"
+      },
+      {
+        "Name": "Atkaracalar",
+        "Latitude": "40.6230",
+        "Longitude": "33.7800",
+        "PostCode": "19000"
+      },
+      {
+        "Name": "Eldivan",
+        "Latitude": "40.6040",
+        "Longitude": "33.7250",
+        "PostCode": "19100"
+      },
+      {
+        "Name": "Korgun",
+        "Latitude": "40.5620",
+        "Longitude": "33.7010",
+        "PostCode": "19200"
+      },
+      {
+        "Name": "Bayramören",
+        "Latitude": "40.5600",
+        "Longitude": "33.7260",
+        "PostCode": "19300"
+      }
+    ]
+  },
+  {
+    "name": "çorum",
+    "plate": "19",
+    "latitude": "40.5499",
+    "longitude": "34.9537",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "40.5499",
+        "Longitude": "34.9537",
+        "PostCode": "19400"
+      },
+      {
+        "Name": "Sungurlu",
+        "Latitude": "40.5350",
+        "Longitude": "35.0430",
+        "PostCode": "19500"
+      },
+      {
+        "Name": "Osmancık",
+        "Latitude": "40.5480",
+        "Longitude": "34.8830",
+        "PostCode": "19600"
+      },
+      {
+        "Name": "İskilip",
+        "Latitude": "40.6800",
+        "Longitude": "34.7250",
+        "PostCode": "19700"
+      },
+      {
+        "Name": "Alaca",
+        "Latitude": "40.6490",
+        "Longitude": "34.8490",
+        "PostCode": "19800"
+      },
+      {
+        "Name": "Bayat",
+        "Latitude": "40.6090",
+        "Longitude": "34.8850",
+        "PostCode": "19900"
+      },
+      {
+        "Name": "Mecitözü",
+        "Latitude": "40.6330",
+        "Longitude": "34.9250",
+        "PostCode": "20000"
+      },
+      {
+        "Name": "Kargı",
+        "Latitude": "40.7040",
+        "Longitude": "34.8750",
+        "PostCode": "20100"
+      },
+      {
+        "Name": "Ortaköy",
+        "Latitude": "40.6750",
+        "Longitude": "34.9360",
+        "PostCode": "20200"
+      },
+      {
+        "Name": "Uğurludağ",
+        "Latitude": "40.7050",
+        "Longitude": "34.9500",
+        "PostCode": "20300"
+      },
+      {
+        "Name": "Dodurga",
+        "Latitude": "40.6410",
+        "Longitude": "34.9500",
+        "PostCode": "20400"
+      },
+      {
+        "Name": "Oğuzlar",
+        "Latitude": "40.5600",
+        "Longitude": "34.9450",
+        "PostCode": "20500"
+      },
+      {
+        "Name": "Laçin",
+        "Latitude": "40.5220",
+        "Longitude": "34.9890",
+        "PostCode": "20600"
+      },
+      {
+        "Name": "Boğazkale",
+        "Latitude": "40.4560",
+        "Longitude": "35.0420",
+        "PostCode": "20700"
+      }
+    ]
+  },
+  {
+    "name": "denizli",
+    "plate": "20",
+    "latitude": "37.7830",
+    "longitude": "29.0963",
+    "counties": [
+      {
+        "Name": "Pamukkale",
+        "Latitude": "37.7850",
+        "Longitude": "29.0950",
+        "PostCode": "20000"
+      },
+      {
+        "Name": "Merkezefendi",
+        "Latitude": "37.7830",
+        "Longitude": "29.0963",
+        "PostCode": "20100"
+      },
+      {
+        "Name": "Çivril",
+        "Latitude": "37.7520",
+        "Longitude": "29.2110",
+        "PostCode": "20200"
+      },
+      {
+        "Name": "Acıpayam",
+        "Latitude": "37.5100",
+        "Longitude": "29.2070",
+        "PostCode": "20300"
+      },
+      {
+        "Name": "Tavas",
+        "Latitude": "37.5360",
+        "Longitude": "29.0660",
+        "PostCode": "20400"
+      },
+      {
+        "Name": "Honaz",
+        "Latitude": "37.7660",
+        "Longitude": "29.0090",
+        "PostCode": "20500"
+      },
+      {
+        "Name": "Sarayköy",
+        "Latitude": "37.5580",
+        "Longitude": "28.9890",
+        "PostCode": "20600"
+      },
+      {
+        "Name": "Buldan",
+        "Latitude": "37.6830",
+        "Longitude": "28.8650",
+        "PostCode": "20700"
+      },
+      {
+        "Name": "Kale",
+        "Latitude": "37.6830",
+        "Longitude": "29.0820",
+        "PostCode": "20800"
+      },
+      {
+        "Name": "Çal",
+        "Latitude": "37.6680",
+        "Longitude": "28.8350",
+        "PostCode": "20900"
+      },
+      {
+        "Name": "Çameli",
+        "Latitude": "37.7090",
+        "Longitude": "28.9880",
+        "PostCode": "21000"
+      },
+      {
+        "Name": "Serinhisar",
+        "Latitude": "37.7190",
+        "Longitude": "29.1840",
+        "PostCode": "21100"
+      },
+      {
+        "Name": "Bozkurt",
+        "Latitude": "37.6310",
+        "Longitude": "29.0800",
+        "PostCode": "21200"
+      },
+      {
+        "Name": "Güney",
+        "Latitude": "37.7150",
+        "Longitude": "29.2930",
+        "PostCode": "21300"
+      },
+      {
+        "Name": "Çardak",
+        "Latitude": "37.6030",
+        "Longitude": "29.2480",
+        "PostCode": "21400"
+      },
+      {
+        "Name": "Bekilli",
+        "Latitude": "37.6930",
+        "Longitude": "29.1340",
+        "PostCode": "21500"
+      },
+      {
+        "Name": "Beyağaç",
+        "Latitude": "37.7600",
+        "Longitude": "29.2020",
+        "PostCode": "21600"
+      },
+      {
+        "Name": "Babadağ",
+        "Latitude": "37.7150",
+        "Longitude": "29.0810",
+        "PostCode": "21700"
+      },
+      {
+        "Name": "Baklan",
+        "Latitude": "37.7100",
+        "Longitude": "29.1650",
+        "PostCode": "21800"
+      }
+    ]
+  },
+  {
+    "name": "diyarbakır",
+    "plate": "21",
+    "latitude": "37.9250",
+    "longitude": "40.2110",
+    "counties": [
+      {
+        "Name": "Bağlar",
+        "Latitude": "37.9250",
+        "Longitude": "40.2110",
+        "PostCode": "21000"
+      },
+      {
+        "Name": "Kayapınar",
+        "Latitude": "37.9300",
+        "Longitude": "40.2200",
+        "PostCode": "21100"
+      },
+      {
+        "Name": "Yenişehir",
+        "Latitude": "37.9150",
+        "Longitude": "40.2000",
+        "PostCode": "21200"
+      },
+      {
+        "Name": "Ergani",
+        "Latitude": "38.3000",
+        "Longitude": "40.4160",
+        "PostCode": "21300"
+      },
+      {
+        "Name": "Sur",
+        "Latitude": "37.9100",
+        "Longitude": "40.2070",
+        "PostCode": "21400"
+      },
+      {
+        "Name": "Bismil",
+        "Latitude": "37.8300",
+        "Longitude": "40.2530",
+        "PostCode": "21500"
+      },
+      {
+        "Name": "Silvan",
+        "Latitude": "37.8000",
+        "Longitude": "40.3330",
+        "PostCode": "21600"
+      },
+      {
+        "Name": "Çınar",
+        "Latitude": "37.7900",
+        "Longitude": "40.2070",
+        "PostCode": "21700"
+      },
+      {
+        "Name": "Çermik",
+        "Latitude": "37.7150",
+        "Longitude": "40.2910",
+        "PostCode": "21800"
+      },
+      {
+        "Name": "Dicle",
+        "Latitude": "37.7800",
+        "Longitude": "40.2160",
+        "PostCode": "21900"
+      },
+      {
+        "Name": "Kulp",
+        "Latitude": "37.6370",
+        "Longitude": "40.2030",
+        "PostCode": "22000"
+      },
+      {
+        "Name": "Hani",
+        "Latitude": "37.6700",
+        "Longitude": "40.2290",
+        "PostCode": "22100"
+      },
+      {
+        "Name": "Lice",
+        "Latitude": "37.5500",
+        "Longitude": "40.3120",
+        "PostCode": "22200"
+      },
+      {
+        "Name": "Eğil",
+        "Latitude": "37.6300",
+        "Longitude": "40.3900",
+        "PostCode": "22300"
+      },
+      {
+        "Name": "Hazro",
+        "Latitude": "37.6200",
+        "Longitude": "40.3700",
+        "PostCode": "22400"
+      },
+      {
+        "Name": "Kocaköy",
+        "Latitude": "37.6000",
+        "Longitude": "40.3100",
+        "PostCode": "22500"
+      },
+      {
+        "Name": "Çüngüş",
+        "Latitude": "37.6900",
+        "Longitude": "40.2660",
+        "PostCode": "22600"
+      }
+    ]
+  },
+  {
+    "name": "edirne",
+    "plate": "22",
+    "latitude": "41.6771",
+    "longitude": "26.5557",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "41.6771",
+        "Longitude": "26.5557",
+        "PostCode": "22000"
+      },
+      {
+        "Name": "Keşan",
+        "Latitude": "41.3930",
+        "Longitude": "26.6000",
+        "PostCode": "22100"
+      },
+      {
+        "Name": "Uzunköprü",
+        "Latitude": "41.1850",
+        "Longitude": "26.4080",
+        "PostCode": "22200"
+      },
+      {
+        "Name": "İpsala",
+        "Latitude": "41.3560",
+        "Longitude": "26.2910",
+        "PostCode": "22300"
+      },
+      {
+        "Name": "Havsa",
+        "Latitude": "41.4330",
+        "Longitude": "26.4150",
+        "PostCode": "22400"
+      },
+      {
+        "Name": "Meriç",
+        "Latitude": "41.5500",
+        "Longitude": "26.7080",
+        "PostCode": "22500"
+      },
+      {
+        "Name": "Enez",
+        "Latitude": "41.0620",
+        "Longitude": "26.2430",
+        "PostCode": "22600"
+      },
+      {
+        "Name": "Süloğlu",
+        "Latitude": "41.5380",
+        "Longitude": "26.5080",
+        "PostCode": "22700"
+      },
+      {
+        "Name": "Lalapaşa",
+        "Latitude": "41.6200",
+        "Longitude": "26.7400",
+        "PostCode": "22800"
+      }
+    ]
+  },
+  {
+    "name": "elazığ",
+    "plate": "23",
+    "latitude": "38.6748",
+    "longitude": "39.2225",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "38.6748",
+        "Longitude": "39.2225",
+        "PostCode": "23000"
+      },
+      {
+        "Name": "Kovancılar",
+        "Latitude": "38.5600",
+        "Longitude": "39.1800",
+        "PostCode": "23100"
+      },
+      {
+        "Name": "Karakoçan",
+        "Latitude": "38.4630",
+        "Longitude": "39.2780",
+        "PostCode": "23200"
+      },
+      {
+        "Name": "Palu",
+        "Latitude": "38.7010",
+        "Longitude": "39.2370",
+        "PostCode": "23300"
+      },
+      {
+        "Name": "Arıcak",
+        "Latitude": "38.8700",
+        "Longitude": "39.1850",
+        "PostCode": "23400"
+      },
+      {
+        "Name": "Baskil",
+        "Latitude": "38.7340",
+        "Longitude": "39.2350",
+        "PostCode": "23500"
+      },
+      {
+        "Name": "Maden",
+        "Latitude": "38.7150",
+        "Longitude": "39.3250",
+        "PostCode": "23600"
+      },
+      {
+        "Name": "Sivrice",
+        "Latitude": "38.7350",
+        "Longitude": "39.1150",
+        "PostCode": "23700"
+      },
+      {
+        "Name": "Alacakaya",
+        "Latitude": "38.7800",
+        "Longitude": "39.1550",
+        "PostCode": "23800"
+      },
+      {
+        "Name": "Keban",
+        "Latitude": "38.8200",
+        "Longitude": "39.2050",
+        "PostCode": "23900"
+      },
+      {
+        "Name": "Ağın",
+        "Latitude": "38.6900",
+        "Longitude": "39.1200",
+        "PostCode": "24000"
+      }
+    ]
+  },
+  {
+    "name": "erzincan",
+    "plate": "24",
+    "latitude": "39.7468",
+    "longitude": "39.4911",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "39.7468",
+        "Longitude": "39.4911",
+        "PostCode": "24000"
+      },
+      {
+        "Name": "Tercan",
+        "Latitude": "39.6100",
+        "Longitude": "39.4210",
+        "PostCode": "24100"
+      },
+      {
+        "Name": "Üzümlü",
+        "Latitude": "39.8050",
+        "Longitude": "39.5400",
+        "PostCode": "24200"
+      },
+      {
+        "Name": "Çayırlı",
+        "Latitude": "39.9300",
+        "Longitude": "39.4200",
+        "PostCode": "24300"
+      },
+      {
+        "Name": "İliç",
+        "Latitude": "39.7800",
+        "Longitude": "39.5800",
+        "PostCode": "24400"
+      },
+      {
+        "Name": "Kemah",
+        "Latitude": "39.7900",
+        "Longitude": "39.5200",
+        "PostCode": "24500"
+      },
+      {
+        "Name": "Kemaliye",
+        "Latitude": "39.6100",
+        "Longitude": "39.6800",
+        "PostCode": "24600"
+      },
+      {
+        "Name": "Otlukbeli",
+        "Latitude": "39.8500",
+        "Longitude": "39.4200",
+        "PostCode": "24700"
+      }
+    ]
+  },
+  {
+    "name": "erzurum",
+    "plate": "25",
+    "latitude": "39.9055",
+    "longitude": "41.2658",
+    "counties": [
+      {
+        "Name": "Yakutiye",
+        "Latitude": "39.9055",
+        "Longitude": "41.2658",
+        "PostCode": "25000"
+      },
+      {
+        "Name": "Palandöken",
+        "Latitude": "39.9000",
+        "Longitude": "41.2750",
+        "PostCode": "25100"
+      },
+      {
+        "Name": "Aziziye",
+        "Latitude": "39.8500",
+        "Longitude": "41.2250",
+        "PostCode": "25200"
+      },
+      {
+        "Name": "Horasan",
+        "Latitude": "40.0300",
+        "Longitude": "41.2700",
+        "PostCode": "25300"
+      },
+      {
+        "Name": "Oltu",
+        "Latitude": "40.2400",
+        "Longitude": "41.0800",
+        "PostCode": "25400"
+      },
+      {
+        "Name": "Pasinler",
+        "Latitude": "40.0100",
+        "Longitude": "41.3000",
+        "PostCode": "25500"
+      },
+      {
+        "Name": "Karayazı",
+        "Latitude": "40.1400",
+        "Longitude": "41.2800",
+        "PostCode": "25600"
+      },
+      {
+        "Name": "Hınıs",
+        "Latitude": "40.0700",
+        "Longitude": "41.2500",
+        "PostCode": "25700"
+      },
+      {
+        "Name": "Tekman",
+        "Latitude": "39.9300",
+        "Longitude": "41.2100",
+        "PostCode": "25800"
+      },
+      {
+        "Name": "Karaçoban",
+        "Latitude": "40.1900",
+        "Longitude": "41.3300",
+        "PostCode": "25900"
+      },
+      {
+        "Name": "Aşkale",
+        "Latitude": "40.0700",
+        "Longitude": "41.2500",
+        "PostCode": "26000"
+      },
+      {
+        "Name": "Şenkaya",
+        "Latitude": "39.9700",
+        "Longitude": "41.1800",
+        "PostCode": "26100"
+      },
+      {
+        "Name": "Çat",
+        "Latitude": "39.8800",
+        "Longitude": "41.2700",
+        "PostCode": "26200"
+      },
+      {
+        "Name": "Köprüköy",
+        "Latitude": "39.9700",
+        "Longitude": "41.3400",
+        "PostCode": "26300"
+      },
+      {
+        "Name": "Ispir",
+        "Latitude": "40.2500",
+        "Longitude": "41.2800",
+        "PostCode": "26400"
+      },
+      {
+        "Name": "Tortum",
+        "Latitude": "40.2200",
+        "Longitude": "41.2100",
+        "PostCode": "26500"
+      },
+      {
+        "Name": "Narman",
+        "Latitude": "40.1800",
+        "Longitude": "41.2200",
+        "PostCode": "26600"
+      },
+      {
+        "Name": "Uzundere",
+        "Latitude": "40.0700",
+        "Longitude": "41.3100",
+        "PostCode": "26700"
+      },
+      {
+        "Name": "Olur",
+        "Latitude": "40.1100",
+        "Longitude": "41.3400",
+        "PostCode": "26800"
+      },
+      {
+        "Name": "Pazaryolu",
+        "Latitude": "39.9300",
+        "Longitude": "41.2700",
+        "PostCode": "26900"
+      }
+    ]
+  },
+  {
+    "name": "eskişehir",
+    "plate": "26",
+    "latitude": "39.7667",
+    "longitude": "30.5256",
+    "counties": [
+      {
+        "Name": "Odunpazarı",
+        "Latitude": "39.7667",
+        "Longitude": "30.5256",
+        "PostCode": "26000"
+      },
+      {
+        "Name": "Tepebaşı",
+        "Latitude": "39.7660",
+        "Longitude": "30.5100",
+        "PostCode": "26100"
+      },
+      {
+        "Name": "Sivrihisar",
+        "Latitude": "39.5660",
+        "Longitude": "30.5000",
+        "PostCode": "26200"
+      },
+      {
+        "Name": "Çifteler",
+        "Latitude": "39.6000",
+        "Longitude": "30.7500",
+        "PostCode": "26300"
+      },
+      {
+        "Name": "Seyitgazi",
+        "Latitude": "39.5500",
+        "Longitude": "30.8000",
+        "PostCode": "26400"
+      },
+      {
+        "Name": "Alpu",
+        "Latitude": "39.6000",
+        "Longitude": "30.6000",
+        "PostCode": "26500"
+      },
+      {
+        "Name": "Mihalıççık",
+        "Latitude": "39.5000",
+        "Longitude": "30.7000",
+        "PostCode": "26600"
+      },
+      {
+        "Name": "Mahmudiye",
+        "Latitude": "39.4500",
+        "Longitude": "30.5500",
+        "PostCode": "26700"
+      },
+      {
+        "Name": "Beylikova",
+        "Latitude": "39.4000",
+        "Longitude": "30.6000",
+        "PostCode": "26800"
+      },
+      {
+        "Name": "İnönü",
+        "Latitude": "39.5000",
+        "Longitude": "30.5500",
+        "PostCode": "26900"
+      },
+      {
+        "Name": "Sarıcakaya",
+        "Latitude": "39.5800",
+        "Longitude": "30.5000",
+        "PostCode": "27000"
+      },
+      {
+        "Name": "Günyüzü",
+        "Latitude": "39.7000",
+        "Longitude": "30.6000",
+        "PostCode": "27100"
+      },
+      {
+        "Name": "Mihalgazi",
+        "Latitude": "39.7300",
+        "Longitude": "30.5900",
+        "PostCode": "27200"
+      },
+      {
+        "Name": "Han",
+        "Latitude": "39.7600",
+        "Longitude": "30.5400",
+        "PostCode": "27300"
+      }
+    ]
+  },
+  {
+    "name": "gaziantep",
+    "plate": "27",
+    "latitude": "37.0660",
+    "longitude": "37.3781",
+    "counties": [
+      {
+        "Name": "Şahinbey",
+        "Latitude": "37.0660",
+        "Longitude": "37.3781",
+        "PostCode": "27000"
+      },
+      {
+        "Name": "Şehitkamil",
+        "Latitude": "37.0700",
+        "Longitude": "37.3800",
+        "PostCode": "27100"
+      },
+      {
+        "Name": "Nizip",
+        "Latitude": "37.0660",
+        "Longitude": "37.5500",
+        "PostCode": "27200"
+      },
+      {
+        "Name": "İslahiye",
+        "Latitude": "37.0830",
+        "Longitude": "37.2700",
+        "PostCode": "27300"
+      },
+      {
+        "Name": "Nurdağı",
+        "Latitude": "37.1300",
+        "Longitude": "37.4500",
+        "PostCode": "27400"
+      },
+      {
+        "Name": "Araban",
+        "Latitude": "37.0700",
+        "Longitude": "37.5000",
+        "PostCode": "27500"
+      },
+      {
+        "Name": "Oğuzeli",
+        "Latitude": "37.0000",
+        "Longitude": "37.3500",
+        "PostCode": "27600"
+      },
+      {
+        "Name": "Yavuzeli",
+        "Latitude": "37.1100",
+        "Longitude": "37.4700",
+        "PostCode": "27700"
+      },
+      {
+        "Name": "Karkamış",
+        "Latitude": "37.1000",
+        "Longitude": "37.3800",
+        "PostCode": "27800"
+      }
+    ]
+  },
+  {
+    "name": "giresun",
+    "plate": "28",
+    "latitude": "40.9175",
+    "longitude": "38.3927",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "40.9175",
+        "Longitude": "38.3927",
+        "PostCode": "28000"
+      },
+      {
+        "Name": "Bulancak",
+        "Latitude": "40.8700",
+        "Longitude": "38.4000",
+        "PostCode": "28100"
+      },
+      {
+        "Name": "Espiye",
+        "Latitude": "40.8500",
+        "Longitude": "38.3700",
+        "PostCode": "28200"
+      },
+      {
+        "Name": "Görele",
+        "Latitude": "40.8000",
+        "Longitude": "38.3500",
+        "PostCode": "28300"
+      },
+      {
+        "Name": "Tirebolu",
+        "Latitude": "40.7700",
+        "Longitude": "38.3800",
+        "PostCode": "28400"
+      },
+      {
+        "Name": "Dereli",
+        "Latitude": "40.7500",
+        "Longitude": "38.3000",
+        "PostCode": "28500"
+      },
+      {
+        "Name": "Şebinkarahisar",
+        "Latitude": "40.6800",
+        "Longitude": "38.2500",
+        "PostCode": "28600"
+      },
+      {
+        "Name": "Keşap",
+        "Latitude": "40.7400",
+        "Longitude": "38.3200",
+        "PostCode": "28700"
+      },
+      {
+        "Name": "Yağlıdere",
+        "Latitude": "40.7100",
+        "Longitude": "38.3000",
+        "PostCode": "28800"
+      },
+      {
+        "Name": "Alucra",
+        "Latitude": "40.6900",
+        "Longitude": "38.2700",
+        "PostCode": "28900"
+      },
+      {
+        "Name": "Piraziz",
+        "Latitude": "40.7200",
+        "Longitude": "38.3300",
+        "PostCode": "29000"
+      },
+      {
+        "Name": "Eynesil",
+        "Latitude": "40.7400",
+        "Longitude": "38.3600",
+        "PostCode": "29100"
+      },
+      {
+        "Name": "Güce",
+        "Latitude": "40.6900",
+        "Longitude": "38.4000",
+        "PostCode": "29200"
+      },
+      {
+        "Name": "Çanakçı",
+        "Latitude": "40.6500",
+        "Longitude": "38.3700",
+        "PostCode": "29300"
+      },
+      {
+        "Name": "Doğankent",
+        "Latitude": "40.6200",
+        "Longitude": "38.3400",
+        "PostCode": "29400"
+      },
+      {
+        "Name": "Çamoluk",
+        "Latitude": "40.5900",
+        "Longitude": "38.3200",
+        "PostCode": "29500"
+      }
+    ]
+  },
+  {
+    "name": "gümüşhane",
+    "plate": "29",
+    "latitude": "40.4608",
+    "longitude": "39.4803",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "40.4608",
+        "Longitude": "39.4803",
+        "PostCode": "29000"
+      },
+      {
+        "Name": "Kelkit",
+        "Latitude": "40.4200",
+        "Longitude": "39.5000",
+        "PostCode": "29100"
+      },
+      {
+        "Name": "Şiran",
+        "Latitude": "40.4700",
+        "Longitude": "39.5300",
+        "PostCode": "29200"
+      },
+      {
+        "Name": "Kürtün",
+        "Latitude": "40.4800",
+        "Longitude": "39.5500",
+        "PostCode": "29300"
+      },
+      {
+        "Name": "Torul",
+        "Latitude": "40.4500",
+        "Longitude": "39.4700",
+        "PostCode": "29400"
+      },
+      {
+        "Name": "Köse",
+        "Latitude": "40.4600",
+        "Longitude": "39.4900",
+        "PostCode": "29500"
+      }
+    ]
+  },
+  {
+    "name": "hakkari",
+    "plate": "30",
+    "latitude": "37.5774",
+    "longitude": "43.7368",
+    "counties": [
+      {
+        "Name": "Yüksekova",
+        "Latitude": "37.5800",
+        "Longitude": "43.7500",
+        "PostCode": "30000"
+      },
+      {
+        "Name": "Merkez",
+        "Latitude": "37.5700",
+        "Longitude": "43.7300",
+        "PostCode": "30100"
+      },
+      {
+        "Name": "Çukurca",
+        "Latitude": "37.6000",
+        "Longitude": "43.7100",
+        "PostCode": "30200"
+      },
+      {
+        "Name": "Şemdinli",
+        "Latitude": "37.6200",
+        "Longitude": "43.6900",
+        "PostCode": "30300"
+      }
+    ]
+  },
+  {
+    "name": "hatay",
+    "plate": "31",
+    "latitude": "36.2023",
+    "longitude": "36.1613",
+    "counties": [
+      {
+        "Name": "Antakya",
+        "Latitude": "36.2023",
+        "Longitude": "36.1613",
+        "PostCode": "31000"
+      },
+      {
+        "Name": "İskenderun",
+        "Latitude": "36.5800",
+        "Longitude": "36.1667",
+        "PostCode": "31100"
+      },
+      {
+        "Name": "Defne",
+        "Latitude": "36.2100",
+        "Longitude": "36.1600",
+        "PostCode": "31200"
+      },
+      {
+        "Name": "Dörtyol",
+        "Latitude": "36.3750",
+        "Longitude": "36.3000",
+        "PostCode": "31300"
+      },
+      {
+        "Name": "Samandağ",
+        "Latitude": "36.3333",
+        "Longitude": "35.9667",
+        "PostCode": "31400"
+      },
+      {
+        "Name": "Kırıkhan",
+        "Latitude": "36.2083",
+        "Longitude": "36.1667",
+        "PostCode": "31500"
+      },
+      {
+        "Name": "Reyhanlı",
+        "Latitude": "36.2600",
+        "Longitude": "36.3167",
+        "PostCode": "31600"
+      },
+      {
+        "Name": "Arsuz",
+        "Latitude": "36.1833",
+        "Longitude": "35.9167",
+        "PostCode": "31700"
+      },
+      {
+        "Name": "Altınözü",
+        "Latitude": "36.0500",
+        "Longitude": "36.1833",
+        "PostCode": "31800"
+      },
+      {
+        "Name": "Hassa",
+        "Latitude": "36.3333",
+        "Longitude": "36.5000",
+        "PostCode": "31900"
+      },
+      {
+        "Name": "Erzin",
+        "Latitude": "36.3790",
+        "Longitude": "36.2410",
+        "PostCode": "32000"
+      },
+      {
+        "Name": "Payas",
+        "Latitude": "36.3833",
+        "Longitude": "36.1167",
+        "PostCode": "32100"
+      },
+      {
+        "Name": "Belen",
+        "Latitude": "36.3167",
+        "Longitude": "36.1500",
+        "PostCode": "32200"
+      },
+      {
+        "Name": "Yayladağı",
+        "Latitude": "36.4167",
+        "Longitude": "36.4000",
+        "PostCode": "32300"
+      },
+      {
+        "Name": "Kumlu",
+        "Latitude": "36.4333",
+        "Longitude": "36.3667",
+        "PostCode": "32400"
+      }
+    ]
+  },
+  {
+    "name": "ısparta",
+    "plate": "32",
+    "latitude": "37.7626",
+    "longitude": "30.5537",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "37.7626",
+        "Longitude": "30.5537",
+        "PostCode": "32000"
+      },
+      {
+        "Name": "Yalvaç",
+        "Latitude": "37.7610",
+        "Longitude": "30.6600",
+        "PostCode": "32100"
+      },
+      {
+        "Name": "Eğirdir",
+        "Latitude": "37.7830",
+        "Longitude": "30.8667",
+        "PostCode": "32200"
+      },
+      {
+        "Name": "Şarkikaraağaç",
+        "Latitude": "37.7800",
+        "Longitude": "31.0000",
+        "PostCode": "32300"
+      },
+      {
+        "Name": "Gelendost",
+        "Latitude": "37.8200",
+        "Longitude": "30.9500",
+        "PostCode": "32400"
+      },
+      {
+        "Name": "Keçiborlu",
+        "Latitude": "37.7900",
+        "Longitude": "30.8333",
+        "PostCode": "32500"
+      },
+      {
+        "Name": "Senirkent",
+        "Latitude": "37.7700",
+        "Longitude": "30.7333",
+        "PostCode": "32600"
+      },
+      {
+        "Name": "Sütçüler",
+        "Latitude": "37.7500",
+        "Longitude": "30.7667",
+        "PostCode": "32700"
+      },
+      {
+        "Name": "Gönen",
+        "Latitude": "37.7500",
+        "Longitude": "30.5833",
+        "PostCode": "32800"
+      },
+      {
+        "Name": "Uluborlu",
+        "Latitude": "37.8000",
+        "Longitude": "30.6667",
+        "PostCode": "32900"
+      },
+      {
+        "Name": "Atabey",
+        "Latitude": "37.7500",
+        "Longitude": "30.6000",
+        "PostCode": "33000"
+      },
+      {
+        "Name": "Aksu",
+        "Latitude": "37.7400",
+        "Longitude": "30.5667",
+        "PostCode": "33100"
+      },
+      {
+        "Name": "Yenişarbademli",
+        "Latitude": "37.7200",
+        "Longitude": "30.7500",
+        "PostCode": "33200"
+      }
+    ]
+  },
+  {
+    "name": "mersin",
+    "plate": "33",
+    "latitude": "36.8121",
+    "longitude": "34.6415",
+    "counties": [
+      {
+        "Name": "Tarsus",
+        "Latitude": "36.9200",
+        "Longitude": "34.8833",
+        "PostCode": "33400"
+      },
+      {
+        "Name": "Toroslar",
+        "Latitude": "36.8267",
+        "Longitude": "34.6415",
+        "PostCode": "33300"
+      },
+      {
+        "Name": "Akdeniz",
+        "Latitude": "36.8150",
+        "Longitude": "34.6444",
+        "PostCode": "33200"
+      },
+      {
+        "Name": "Yenişehir",
+        "Latitude": "36.8120",
+        "Longitude": "34.6415",
+        "PostCode": "33100"
+      },
+      {
+        "Name": "Mezitli",
+        "Latitude": "36.8100",
+        "Longitude": "34.6450",
+        "PostCode": "33000"
+      },
+      {
+        "Name": "Erdemli",
+        "Latitude": "36.6000",
+        "Longitude": "34.3833",
+        "PostCode": "33700"
+      },
+      {
+        "Name": "Silifke",
+        "Latitude": "36.3500",
+        "Longitude": "34.1667",
+        "PostCode": "33900"
+      },
+      {
+        "Name": "Anamur",
+        "Latitude": "36.0833",
+        "Longitude": "32.8667",
+        "PostCode": "33750"
+      },
+      {
+        "Name": "Mut",
+        "Latitude": "36.5667",
+        "Longitude": "33.0167",
+        "PostCode": "33600"
+      },
+      {
+        "Name": "Bozyazı",
+        "Latitude": "36.5333",
+        "Longitude": "33.2667",
+        "PostCode": "33650"
+      },
+      {
+        "Name": "Gülnar",
+        "Latitude": "36.5167",
+        "Longitude": "33.2833",
+        "PostCode": "33630"
+      },
+      {
+        "Name": "Aydıncık",
+        "Latitude": "36.4167",
+        "Longitude": "33.0667",
+        "PostCode": "33640"
+      },
+      {
+        "Name": "Çamlıyayla",
+        "Latitude": "36.6833",
+        "Longitude": "33.1167",
+        "PostCode": "33620"
+      }
+    ]
+  },
+  {
+    "name": "istanbul",
+    "plate": "34",
+    "latitude": "41.0082",
+    "longitude": "28.9784",
+    "counties": [
+      {
+        "Name": "Esenyurt",
+        "Latitude": "41.0375",
+        "Longitude": "28.6281",
+        "PostCode": "34510"
+      },
+      {
+        "Name": "Küçükçekmece",
+        "Latitude": "41.0060",
+        "Longitude": "28.7825",
+        "PostCode": "34303"
+      },
+      {
+        "Name": "Bağcılar",
+        "Latitude": "41.0425",
+        "Longitude": "28.8556",
+        "PostCode": "34200"
+      },
+      {
+        "Name": "Ümraniye",
+        "Latitude": "41.0167",
+        "Longitude": "29.0833",
+        "PostCode": "34760"
+      },
+      {
+        "Name": "Pendik",
+        "Latitude": "40.8667",
+        "Longitude": "29.2167",
+        "PostCode": "34890"
+      },
+      {
+        "Name": "Bahçelievler",
+        "Latitude": "40.9810",
+        "Longitude": "28.8269",
+        "PostCode": "34180"
+      },
+      {
+        "Name": "Üsküdar",
+        "Latitude": "41.0225",
+        "Longitude": "29.0033",
+        "PostCode": "34662"
+      },
+      {
+        "Name": "Sultangazi",
+        "Latitude": "41.0775",
+        "Longitude": "28.9031",
+        "PostCode": "34260"
+      },
+      {
+        "Name": "Gaziosmanpaşa",
+        "Latitude": "41.0833",
+        "Longitude": "28.9000",
+        "PostCode": "34250"
+      },
+      {
+        "Name": "Maltepe",
+        "Latitude": "40.9340",
+        "Longitude": "29.1067",
+        "PostCode": "34840"
+      },
+      {
+        "Name": "Kartal",
+        "Latitude": "40.8667",
+        "Longitude": "29.2167",
+        "PostCode": "34860"
+      },
+      {
+        "Name": "Esenler",
+        "Latitude": "41.0600",
+        "Longitude": "28.8700",
+        "PostCode": "34320"
+      },
+      {
+        "Name": "Kadıköy",
+        "Latitude": "40.9800",
+        "Longitude": "29.0500",
+        "PostCode": "34710"
+      },
+      {
+        "Name": "Kağıthane",
+        "Latitude": "41.0875",
+        "Longitude": "28.9894",
+        "PostCode": "34400"
+      },
+      {
+        "Name": "Avcılar",
+        "Latitude": "41.0500",
+        "Longitude": "28.6667",
+        "PostCode": "34310"
+      },
+      {
+        "Name": "Ataşehir",
+        "Latitude": "40.9944",
+        "Longitude": "29.1111",
+        "PostCode": "34750"
+      },
+      {
+        "Name": "Fatih",
+        "Latitude": "41.0082",
+        "Longitude": "28.9784",
+        "PostCode": "34000"
+      },
+      {
+        "Name": "Eyüp",
+        "Latitude": "41.0975",
+        "Longitude": "28.9167",
+        "PostCode": "34050"
+      },
+      {
+        "Name": "Sancaktepe",
+        "Latitude": "41.0180",
+        "Longitude": "29.1094",
+        "PostCode": "34785"
+      },
+      {
+        "Name": "Başakşehir",
+        "Latitude": "41.0894",
+        "Longitude": "28.7606",
+        "PostCode": "34480"
+      },
+      {
+        "Name": "Sarıyer",
+        "Latitude": "41.1650",
+        "Longitude": "28.3370",
+        "PostCode": "34450"
+      },
+      {
+        "Name": "Sultanbeyli",
+        "Latitude": "41.0310",
+        "Longitude": "29.1960",
+        "PostCode": "34930"
+      },
+      {
+        "Name": "Güngören",
+        "Latitude": "41.0275",
+        "Longitude": "28.8681",
+        "PostCode": "34160"
+      },
+      {
+        "Name": "Beylikdüzü",
+        "Latitude": "41.0030",
+        "Longitude": "28.6430",
+        "PostCode": "34520"
+      },
+      {
+        "Name": "Zeytinburnu",
+        "Latitude": "41.0167",
+        "Longitude": "28.8833",
+        "PostCode": "34020"
+      },
+      {
+        "Name": "Bayrampaşa",
+        "Latitude": "41.0500",
+        "Longitude": "28.9000",
+        "PostCode": "34040"
+      },
+      {
+        "Name": "Şişli",
+        "Latitude": "41.0694",
+        "Longitude": "28.9875",
+        "PostCode": "34360"
+      },
+      {
+        "Name": "Beykoz",
+        "Latitude": "41.1625",
+        "Longitude": "29.0911",
+        "PostCode": "34820"
+      },
+      {
+        "Name": "Arnavutköy",
+        "Latitude": "41.1950",
+        "Longitude": "28.7261",
+        "PostCode": "34283"
+      },
+      {
+        "Name": "Tuzla",
+        "Latitude": "40.7667",
+        "Longitude": "29.1333",
+        "PostCode": "34940"
+      },
+      {
+        "Name": "Çekmeköy",
+        "Latitude": "41.0350",
+        "Longitude": "29.1700",
+        "PostCode": "34782"
+      },
+      {
+        "Name": "Beyoğlu",
+        "Latitude": "41.0350",
+        "Longitude": "28.9775",
+        "PostCode": "34430"
+      },
+      {
+        "Name": "Büyükçekmece",
+        "Latitude": "41.0167",
+        "Longitude": "28.6175",
+        "PostCode": "34500"
+      },
+      {
+        "Name": "Bakırköy",
+        "Latitude": "40.9760",
+        "Longitude": "28.8570",
+        "PostCode": "34140"
+      },
+      {
+        "Name": "Beşiktaş",
+        "Latitude": "41.0433",
+        "Longitude": "29.0061",
+        "PostCode": "34353"
+      },
+      {
+        "Name": "Silivri",
+        "Latitude": "41.0500",
+        "Longitude": "28.2700",
+        "PostCode": "34570"
+      },
+      {
+        "Name": "Çatalca",
+        "Latitude": "41.2167",
+        "Longitude": "28.3667",
+        "PostCode": "34580"
+      },
+      {
+        "Name": "Şile",
+        "Latitude": "41.1594",
+        "Longitude": "29.6378",
+        "PostCode": "34980"
+      },
+      {
+        "Name": "Adalar",
+        "Latitude": "40.8833",
+        "Longitude": "29.1333",
+        "PostCode": "34970"
+      }
+    ]
+  },
+  {
+    "name": "izmir",
+    "plate": "35",
+    "latitude": "38.4237",
+    "longitude": "27.1428",
+    "counties": [
+      {
+        "Name": "Buca",
+        "Latitude": "38.4150",
+        "Longitude": "27.1500",
+        "PostCode": "35100"
+      },
+      {
+        "Name": "Karabağlar",
+        "Latitude": "38.4000",
+        "Longitude": "27.1167",
+        "PostCode": "35110"
+      },
+      {
+        "Name": "Bornova",
+        "Latitude": "38.4510",
+        "Longitude": "27.1900",
+        "PostCode": "35030"
+      },
+      {
+        "Name": "Konak",
+        "Latitude": "38.4189",
+        "Longitude": "27.1289",
+        "PostCode": "35210"
+      },
+      {
+        "Name": "Karşıyaka",
+        "Latitude": "38.4260",
+        "Longitude": "27.1667",
+        "PostCode": "35530"
+      },
+      {
+        "Name": "Bayraklı",
+        "Latitude": "38.4200",
+        "Longitude": "27.1100",
+        "PostCode": "35540"
+      },
+      {
+        "Name": "Çiğli",
+        "Latitude": "38.4570",
+        "Longitude": "27.1200",
+        "PostCode": "35620"
+      },
+      {
+        "Name": "Torbalı",
+        "Latitude": "38.2420",
+        "Longitude": "27.3667",
+        "PostCode": "35860"
+      },
+      {
+        "Name": "Menemen",
+        "Latitude": "38.3950",
+        "Longitude": "27.0420",
+        "PostCode": "35660"
+      },
+      {
+        "Name": "Gaziemir",
+        "Latitude": "38.4590",
+        "Longitude": "27.1550",
+        "PostCode": "35410"
+      },
+      {
+        "Name": "Ödemiş",
+        "Latitude": "38.3390",
+        "Longitude": "27.7300",
+        "PostCode": "35750"
+      },
+      {
+        "Name": "Kemalpaşa",
+        "Latitude": "38.3870",
+        "Longitude": "27.0770",
+        "PostCode": "35800"
+      },
+      {
+        "Name": "Bergama",
+        "Latitude": "39.1070",
+        "Longitude": "27.1790",
+        "PostCode": "35700"
+      },
+      {
+        "Name": "Aliağa",
+        "Latitude": "38.8550",
+        "Longitude": "26.9780",
+        "PostCode": "35800"
+      },
+      {
+        "Name": "Menderes",
+        "Latitude": "38.2170",
+        "Longitude": "27.0620",
+        "PostCode": "35470"
+      },
+      {
+        "Name": "Tire",
+        "Latitude": "38.1740",
+        "Longitude": "27.2600",
+        "PostCode": "35900"
+      },
+      {
+        "Name": "Balçova",
+        "Latitude": "38.4180",
+        "Longitude": "27.0970",
+        "PostCode": "35330"
+      },
+      {
+        "Name": "Narlıdere",
+        "Latitude": "38.4300",
+        "Longitude": "27.0650",
+        "PostCode": "35320"
+      },
+      {
+        "Name": "Urla",
+        "Latitude": "38.3330",
+        "Longitude": "26.7240",
+        "PostCode": "35430"
+      },
+      {
+        "Name": "Kiraz",
+        "Latitude": "38.3170",
+        "Longitude": "27.5500",
+        "PostCode": "35800"
+      },
+      {
+        "Name": "Dikili",
+        "Latitude": "39.0820",
+        "Longitude": "26.8670",
+        "PostCode": "35980"
+      },
+      {
+        "Name": "Çeşme",
+        "Latitude": "35.9020",
+        "Longitude": "26.3050",
+        "PostCode": "35930"
+      },
+      {
+        "Name": "Bayındır",
+        "Latitude": "38.2490",
+        "Longitude": "27.1870",
+        "PostCode": "35850"
+      },
+      {
+        "Name": "Seferihisar",
+        "Latitude": "38.1400",
+        "Longitude": "26.9500",
+        "PostCode": "35460"
+      },
+      {
+        "Name": "Selçuk",
+        "Latitude": "37.9450",
+        "Longitude": "27.3570",
+        "PostCode": "35940"
+      },
+      {
+        "Name": "Güzelbahçe",
+        "Latitude": "38.4050",
+        "Longitude": "27.0390",
+        "PostCode": "35500"
+      },
+      {
+        "Name": "Foça",
+        "Latitude": "38.7250",
+        "Longitude": "26.6740",
+        "PostCode": "35600"
+      },
+      {
+        "Name": "Kınık",
+        "Latitude": "38.7690",
+        "Longitude": "27.2210",
+        "PostCode": "35730"
+      },
+      {
+        "Name": "Beydağ",
+        "Latitude": "38.1550",
+        "Longitude": "27.5510",
+        "PostCode": "35810"
+      },
+      {
+        "Name": "Karaburun",
+        "Latitude": "38.7090",
+        "Longitude": "26.6700",
+        "PostCode": "35920"
+      }
+    ]
+  },
+  {
+    "name": "kars",
+    "plate": "36",
+    "latitude": "40.6013",
+    "longitude": "43.0975",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "40.6067",
+        "Longitude": "43.1000",
+        "PostCode": "36000"
+      },
+      {
+        "Name": "Kağızman",
+        "Latitude": "40.6575",
+        "Longitude": "43.2325",
+        "PostCode": "36600"
+      },
+      {
+        "Name": "Sarıkamış",
+        "Latitude": "40.5633",
+        "Longitude": "42.8033",
+        "PostCode": "36800"
+      },
+      {
+        "Name": "Selim",
+        "Latitude": "40.5800",
+        "Longitude": "43.3067",
+        "PostCode": "36700"
+      },
+      {
+        "Name": "Digor",
+        "Latitude": "40.6000",
+        "Longitude": "43.2600",
+        "PostCode": "36500"
+      },
+      {
+        "Name": "Arpaçay",
+        "Latitude": "40.5950",
+        "Longitude": "43.0250",
+        "PostCode": "36400"
+      },
+      {
+        "Name": "Akyaka",
+        "Latitude": "40.6633",
+        "Longitude": "43.0917",
+        "PostCode": "36200"
+      },
+      {
+        "Name": "Susuz",
+        "Latitude": "40.5333",
+        "Longitude": "43.3500",
+        "PostCode": "36100"
+      }
+    ]
+  },
+  {
+    "name": "kastamonu",
+    "plate": "37",
+    "latitude": "41.3766",
+    "longitude": "33.7765",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "41.3767",
+        "Longitude": "33.7767",
+        "PostCode": "37100"
+      },
+      {
+        "Name": "Tosya",
+        "Latitude": "41.3050",
+        "Longitude": "34.2236",
+        "PostCode": "37600"
+      },
+      {
+        "Name": "Taşköprü",
+        "Latitude": "41.2086",
+        "Longitude": "33.6625",
+        "PostCode": "37800"
+      },
+      {
+        "Name": "Cide",
+        "Latitude": "41.4944",
+        "Longitude": "33.5625",
+        "PostCode": "37900"
+      },
+      {
+        "Name": "Inebolu",
+        "Latitude": "41.7133",
+        "Longitude": "33.6333",
+        "PostCode": "37610"
+      },
+      {
+        "Name": "Araç",
+        "Latitude": "41.2510",
+        "Longitude": "33.5520",
+        "PostCode": "37400"
+      },
+      {
+        "Name": "Devrekani",
+        "Latitude": "41.2333",
+        "Longitude": "33.7150",
+        "PostCode": "37500"
+      },
+      {
+        "Name": "Bozkurt",
+        "Latitude": "41.3000",
+        "Longitude": "33.9200",
+        "PostCode": "37510"
+      },
+      {
+        "Name": "Daday",
+        "Latitude": "41.3040",
+        "Longitude": "33.9500",
+        "PostCode": "37410"
+      },
+      {
+        "Name": "Azdavay",
+        "Latitude": "41.2367",
+        "Longitude": "33.8833",
+        "PostCode": "37520"
+      },
+      {
+        "Name": "Çatalzeytin",
+        "Latitude": "41.5083",
+        "Longitude": "33.6667",
+        "PostCode": "37710"
+      },
+      {
+        "Name": "Küre",
+        "Latitude": "41.7167",
+        "Longitude": "33.5833",
+        "PostCode": "37720"
+      },
+      {
+        "Name": "Doğanyurt",
+        "Latitude": "41.2333",
+        "Longitude": "33.7833",
+        "PostCode": "37730"
+      },
+      {
+        "Name": "İhsangazi",
+        "Latitude": "41.1880",
+        "Longitude": "33.7100",
+        "PostCode": "37620"
+      },
+      {
+        "Name": "Pınarbaşı",
+        "Latitude": "41.3183",
+        "Longitude": "33.7183",
+        "PostCode": "37630"
+      },
+      {
+        "Name": "Şenpazar",
+        "Latitude": "41.3790",
+        "Longitude": "33.7830",
+        "PostCode": "37640"
+      },
+      {
+        "Name": "Abana",
+        "Latitude": "41.5475",
+        "Longitude": "33.8125",
+        "PostCode": "37740"
+      },
+      {
+        "Name": "Seydiler",
+        "Latitude": "41.3267",
+        "Longitude": "33.6333",
+        "PostCode": "37750"
+      },
+      {
+        "Name": "Hanönü",
+        "Latitude": "41.3583",
+        "Longitude": "33.7000",
+        "PostCode": "37760"
+      },
+      {
+        "Name": "Ağlı",
+        "Latitude": "41.4667",
+        "Longitude": "33.9500",
+        "PostCode": "37650"
+      }
+    ]
+  },
+  {
+    "name": "kayseri",
+    "plate": "38",
+    "latitude": "38.7205",
+    "longitude": "35.4826",
+    "counties": [
+      {
+        "Name": "Melikgazi",
+        "Latitude": "38.7250",
+        "Longitude": "35.4850",
+        "PostCode": "38010"
+      },
+      {
+        "Name": "Kocasinan",
+        "Latitude": "38.7170",
+        "Longitude": "35.4860",
+        "PostCode": "38030"
+      },
+      {
+        "Name": "Talas",
+        "Latitude": "38.7275",
+        "Longitude": "35.4667",
+        "PostCode": "38280"
+      },
+      {
+        "Name": "Develi",
+        "Latitude": "38.6100",
+        "Longitude": "35.4225",
+        "PostCode": "38060"
+      },
+      {
+        "Name": "Yahyalı",
+        "Latitude": "38.5440",
+        "Longitude": "35.2140",
+        "PostCode": "38070"
+      },
+      {
+        "Name": "Bünyan",
+        "Latitude": "38.6180",
+        "Longitude": "35.4080",
+        "PostCode": "38200"
+      },
+      {
+        "Name": "İncesu",
+        "Latitude": "38.6060",
+        "Longitude": "35.5070",
+        "PostCode": "38220"
+      },
+      {
+        "Name": "Pınarbaşı",
+        "Latitude": "38.5667",
+        "Longitude": "35.5667",
+        "PostCode": "38250"
+      },
+      {
+        "Name": "Tomarza",
+        "Latitude": "38.5590",
+        "Longitude": "35.2320",
+        "PostCode": "38270"
+      },
+      {
+        "Name": "Yeşilhisar",
+        "Latitude": "38.6190",
+        "Longitude": "35.4850",
+        "PostCode": "38300"
+      },
+      {
+        "Name": "Sarıoğlan",
+        "Latitude": "38.5890",
+        "Longitude": "35.4830",
+        "PostCode": "38240"
+      },
+      {
+        "Name": "Hacılar",
+        "Latitude": "38.7320",
+        "Longitude": "35.4970",
+        "PostCode": "38260"
+      },
+      {
+        "Name": "Sarız",
+        "Latitude": "38.6780",
+        "Longitude": "35.4550",
+        "PostCode": "38310"
+      },
+      {
+        "Name": "Akkışla",
+        "Latitude": "38.6570",
+        "Longitude": "35.2330",
+        "PostCode": "38320"
+      },
+      {
+        "Name": "Felahiye",
+        "Latitude": "38.5930",
+        "Longitude": "35.3830",
+        "PostCode": "38330"
+      },
+      {
+        "Name": "Özvatan",
+        "Latitude": "38.5860",
+        "Longitude": "35.2230",
+        "PostCode": "38340"
+      }
+    ]
+  },
+  {
+    "name": "kırklareli",
+    "plate": "39",
+    "latitude": "41.7355",
+    "longitude": "27.2244",
+    "counties": [
+      {
+        "Name": "Lüleburgaz",
+        "Latitude": "41.4070",
+        "Longitude": "27.3350",
+        "PostCode": "39750"
+      },
+      {
+        "Name": "Merkez",
+        "Latitude": "41.7355",
+        "Longitude": "27.2244",
+        "PostCode": "39100"
+      },
+      {
+        "Name": "Babaeski",
+        "Latitude": "41.3850",
+        "Longitude": "27.2420",
+        "PostCode": "39700"
+      },
+      {
+        "Name": "Vize",
+        "Latitude": "41.4720",
+        "Longitude": "27.1850",
+        "PostCode": "39300"
+      },
+      {
+        "Name": "Pınarhisar",
+        "Latitude": "41.4810",
+        "Longitude": "27.3860",
+        "PostCode": "39720"
+      },
+      {
+        "Name": "Demirköy",
+        "Latitude": "41.5500",
+        "Longitude": "27.5000",
+        "PostCode": "39800"
+      },
+      {
+        "Name": "Pehlivanköy",
+        "Latitude": "41.4680",
+        "Longitude": "27.5170",
+        "PostCode": "39730"
+      },
+      {
+        "Name": "Kofçaz",
+        "Latitude": "41.4940",
+        "Longitude": "27.1750",
+        "PostCode": "39810"
+      }
+    ]
+  },
+  {
+    "name": "kırşehir",
+    "plate": "40",
+    "latitude": "39.1461",
+    "longitude": "34.1595",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "39.1461",
+        "Longitude": "34.1595",
+        "PostCode": "40100"
+      },
+      {
+        "Name": "Kaman",
+        "Latitude": "39.2700",
+        "Longitude": "34.1000",
+        "PostCode": "40700"
+      },
+      {
+        "Name": "Mucur",
+        "Latitude": "39.1670",
+        "Longitude": "34.3070",
+        "PostCode": "40800"
+      },
+      {
+        "Name": "Çiçekdağı",
+        "Latitude": "39.2160",
+        "Longitude": "34.0930",
+        "PostCode": "40600"
+      },
+      {
+        "Name": "Akpınar",
+        "Latitude": "39.0530",
+        "Longitude": "34.2880",
+        "PostCode": "40500"
+      },
+      {
+        "Name": "Boztepe",
+        "Latitude": "39.1450",
+        "Longitude": "34.0840",
+        "PostCode": "40400"
+      },
+      {
+        "Name": "Akçakent",
+        "Latitude": "39.1410",
+        "Longitude": "34.3380",
+        "PostCode": "40900"
+      }
+    ]
+  },
+  {
+    "name": "kocaeli",
+    "plate": "41",
+    "latitude": "40.7654",
+    "longitude": "29.9408",
+    "counties": [
+      {
+        "Name": "Gebze",
+        "Latitude": "40.8010",
+        "Longitude": "29.4360",
+        "PostCode": "41400"
+      },
+      {
+        "Name": "İzmit",
+        "Latitude": "40.7667",
+        "Longitude": "29.9410",
+        "PostCode": "41000"
+      },
+      {
+        "Name": "Darıca",
+        "Latitude": "40.7960",
+        "Longitude": "29.4420",
+        "PostCode": "41600"
+      },
+      {
+        "Name": "Körfez",
+        "Latitude": "40.7800",
+        "Longitude": "29.6830",
+        "PostCode": "41700"
+      },
+      {
+        "Name": "Gölcük",
+        "Latitude": "40.7360",
+        "Longitude": "29.8710",
+        "PostCode": "41900"
+      },
+      {
+        "Name": "Derince",
+        "Latitude": "40.7350",
+        "Longitude": "29.8530",
+        "PostCode": "41610"
+      },
+      {
+        "Name": "Çayırova",
+        "Latitude": "40.8150",
+        "Longitude": "29.4130",
+        "PostCode": "41420"
+      },
+      {
+        "Name": "Kartepe",
+        "Latitude": "40.7200",
+        "Longitude": "29.9220",
+        "PostCode": "41200"
+      },
+      {
+        "Name": "Başiskele",
+        "Latitude": "40.7580",
+        "Longitude": "29.9440",
+        "PostCode": "41250"
+      },
+      {
+        "Name": "Karamürsel",
+        "Latitude": "40.7520",
+        "Longitude": "29.6650",
+        "PostCode": "41630"
+      },
+      {
+        "Name": "Kandıra",
+        "Latitude": "40.7350",
+        "Longitude": "30.0650",
+        "PostCode": "41650"
+      },
+      {
+        "Name": "Dilovası",
+        "Latitude": "40.8250",
+        "Longitude": "29.5140",
+        "PostCode": "41410"
+      }
+    ]
+  },
+  {
+    "name": "konya",
+    "plate": "42",
+    "latitude": "37.8746",
+    "longitude": "32.4932",
+    "counties": [
+      {
+        "Name": "Selçuklu",
+        "Latitude": "37.8720",
+        "Longitude": "32.4870",
+        "PostCode": "42060"
+      },
+      {
+        "Name": "Meram",
+        "Latitude": "37.8550",
+        "Longitude": "32.4870",
+        "PostCode": "42030"
+      },
+      {
+        "Name": "Karatay",
+        "Latitude": "37.8730",
+        "Longitude": "32.4810",
+        "PostCode": "42020"
+      },
+      {
+        "Name": "Ereğli",
+        "Latitude": "37.4280",
+        "Longitude": "33.3060",
+        "PostCode": "42500"
+      },
+      {
+        "Name": "Akşehir",
+        "Latitude": "38.3620",
+        "Longitude": "31.1120",
+        "PostCode": "42700"
+      },
+      {
+        "Name": "Beyşehir",
+        "Latitude": "37.7230",
+        "Longitude": "31.8650",
+        "PostCode": "42600"
+      },
+      {
+        "Name": "Çumra",
+        "Latitude": "37.6830",
+        "Longitude": "32.3820",
+        "PostCode": "42400"
+      },
+      {
+        "Name": "Seydişehir",
+        "Latitude": "37.6900",
+        "Longitude": "32.6670",
+        "PostCode": "42200"
+      },
+      {
+        "Name": "Ilgın",
+        "Latitude": "37.8330",
+        "Longitude": "32.1270",
+        "PostCode": "42300"
+      },
+      {
+        "Name": "Cihanbeyli",
+        "Latitude": "38.0500",
+        "Longitude": "32.6000",
+        "PostCode": "42350"
+      },
+      {
+        "Name": "Kulu",
+        "Latitude": "38.0930",
+        "Longitude": "32.6920",
+        "PostCode": "42520"
+      },
+      {
+        "Name": "Karapınar",
+        "Latitude": "37.7520",
+        "Longitude": "33.2000",
+        "PostCode": "42410"
+      },
+      {
+        "Name": "Kadınhanı",
+        "Latitude": "37.8570",
+        "Longitude": "32.7780",
+        "PostCode": "42420"
+      },
+      {
+        "Name": "Sarayönü",
+        "Latitude": "37.6890",
+        "Longitude": "32.4010",
+        "PostCode": "42430"
+      },
+      {
+        "Name": "Bozkır",
+        "Latitude": "37.8230",
+        "Longitude": "32.8000",
+        "PostCode": "42330"
+      },
+      {
+        "Name": "Yunak",
+        "Latitude": "38.0130",
+        "Longitude": "32.6510",
+        "PostCode": "42530"
+      },
+      {
+        "Name": "Doğanhisar",
+        "Latitude": "38.1580",
+        "Longitude": "32.5720",
+        "PostCode": "42540"
+      },
+      {
+        "Name": "Hüyük",
+        "Latitude": "37.6830",
+        "Longitude": "32.4880",
+        "PostCode": "42360"
+      },
+      {
+        "Name": "Altınekin",
+        "Latitude": "37.7810",
+        "Longitude": "32.6680",
+        "PostCode": "42440"
+      },
+      {
+        "Name": "Hadim",
+        "Latitude": "37.5410",
+        "Longitude": "32.5750",
+        "PostCode": "42630"
+      },
+      {
+        "Name": "Çeltik",
+        "Latitude": "38.0650",
+        "Longitude": "32.6800",
+        "PostCode": "42550"
+      },
+      {
+        "Name": "Emirgazi",
+        "Latitude": "38.0920",
+        "Longitude": "32.7630",
+        "PostCode": "42560"
+      },
+      {
+        "Name": "Tuzlukçu",
+        "Latitude": "37.9290",
+        "Longitude": "32.8800",
+        "PostCode": "42610"
+      },
+      {
+        "Name": "Derebucak",
+        "Latitude": "37.6430",
+        "Longitude": "32.8300",
+        "PostCode": "42620"
+      },
+      {
+        "Name": "Akören",
+        "Latitude": "37.9290",
+        "Longitude": "32.7750",
+        "PostCode": "42570"
+      },
+      {
+        "Name": "Halkapınar",
+        "Latitude": "38.1000",
+        "Longitude": "32.8500",
+        "PostCode": "42640"
+      },
+      {
+        "Name": "Yalıhüyük",
+        "Latitude": "37.8920",
+        "Longitude": "32.7420",
+        "PostCode": "42650"
+      }
+    ]
+  },
+  {
+    "name": "kütahya",
+    "plate": "43",
+    "latitude": "39.4200",
+    "longitude": "29.9857",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "39.4200",
+        "Longitude": "29.9857",
+        "PostCode": "43000"
+      },
+      {
+        "Name": "Tavşanlı",
+        "Latitude": "39.1300",
+        "Longitude": "29.4700",
+        "PostCode": "43700"
+      },
+      {
+        "Name": "Simav",
+        "Latitude": "39.0650",
+        "Longitude": "29.7920",
+        "PostCode": "43800"
+      },
+      {
+        "Name": "Gediz",
+        "Latitude": "39.0360",
+        "Longitude": "29.5890",
+        "PostCode": "43900"
+      },
+      {
+        "Name": "Emet",
+        "Latitude": "39.0880",
+        "Longitude": "29.6750",
+        "PostCode": "44600"
+      },
+      {
+        "Name": "Altıntaş",
+        "Latitude": "39.2260",
+        "Longitude": "29.7010",
+        "PostCode": "44700"
+      },
+      {
+        "Name": "Domaniç",
+        "Latitude": "39.1520",
+        "Longitude": "29.7300",
+        "PostCode": "44800"
+      },
+      {
+        "Name": "Hisarcık",
+        "Latitude": "39.2130",
+        "Longitude": "29.9010",
+        "PostCode": "44900"
+      },
+      {
+        "Name": "Aslanapa",
+        "Latitude": "39.1680",
+        "Longitude": "29.8180",
+        "PostCode": "45000"
+      },
+      {
+        "Name": "Çavdarhisar",
+        "Latitude": "39.0470",
+        "Longitude": "29.7920",
+        "PostCode": "45100"
+      },
+      {
+        "Name": "Şaphane",
+        "Latitude": "39.2070",
+        "Longitude": "29.8990",
+        "PostCode": "45200"
+      },
+      {
+        "Name": "Pazarlar",
+        "Latitude": "39.2920",
+        "Longitude": "29.8770",
+        "PostCode": "45300"
+      },
+      {
+        "Name": "Dumlupınar",
+        "Latitude": "39.2360",
+        "Longitude": "29.8600",
+        "PostCode": "45400"
+      }
+    ]
+  },
+  {
+    "name": "malatya",
+    "plate": "44",
+    "latitude": "38.3554",
+    "longitude": "38.3335",
+    "counties": [
+      {
+        "Name": "Battalgazi",
+        "Latitude": "38.3550",
+        "Longitude": "38.3330",
+        "PostCode": "44000"
+      },
+      {
+        "Name": "Yeşilyurt",
+        "Latitude": "38.3730",
+        "Longitude": "38.3520",
+        "PostCode": "44100"
+      },
+      {
+        "Name": "Doğanşehir",
+        "Latitude": "38.2750",
+        "Longitude": "38.3150",
+        "PostCode": "44200"
+      },
+      {
+        "Name": "Akçadağ",
+        "Latitude": "38.2800",
+        "Longitude": "38.3490",
+        "PostCode": "44300"
+      },
+      {
+        "Name": "Darende",
+        "Latitude": "38.4300",
+        "Longitude": "38.1750",
+        "PostCode": "44400"
+      },
+      {
+        "Name": "Hekimhan",
+        "Latitude": "38.3480",
+        "Longitude": "38.3030",
+        "PostCode": "44500"
+      },
+      {
+        "Name": "Pütürge",
+        "Latitude": "38.3070",
+        "Longitude": "38.4370",
+        "PostCode": "44600"
+      },
+      {
+        "Name": "Yazıhan",
+        "Latitude": "38.3390",
+        "Longitude": "38.3120",
+        "PostCode": "44700"
+      },
+      {
+        "Name": "Arapgir",
+        "Latitude": "38.3720",
+        "Longitude": "38.3480",
+        "PostCode": "44800"
+      },
+      {
+        "Name": "Arguvan",
+        "Latitude": "38.3880",
+        "Longitude": "38.2330",
+        "PostCode": "44900"
+      },
+      {
+        "Name": "Kuluncak",
+        "Latitude": "38.3330",
+        "Longitude": "38.2400",
+        "PostCode": "45000"
+      },
+      {
+        "Name": "Kale",
+        "Latitude": "38.3150",
+        "Longitude": "38.2080",
+        "PostCode": "45100"
+      },
+      {
+        "Name": "Doğanyol",
+        "Latitude": "38.3050",
+        "Longitude": "38.2530",
+        "PostCode": "45200"
+      }
+    ]
+  },
+  {
+    "name": "manisa",
+    "plate": "45",
+    "latitude": "38.6140",
+    "longitude": "27.4296",
+    "counties": [
+      {
+        "Name": "Yunusemre",
+        "Latitude": "38.6290",
+        "Longitude": "27.4250",
+        "PostCode": "45100"
+      },
+      {
+        "Name": "Şehzadeler",
+        "Latitude": "38.6220",
+        "Longitude": "27.4330",
+        "PostCode": "45000"
+      },
+      {
+        "Name": "Akhisar",
+        "Latitude": "38.8910",
+        "Longitude": "27.8440",
+        "PostCode": "45200"
+      },
+      {
+        "Name": "Salihli",
+        "Latitude": "38.4830",
+        "Longitude": "27.8310",
+        "PostCode": "45300"
+      },
+      {
+        "Name": "Turgutlu",
+        "Latitude": "38.4350",
+        "Longitude": "27.8910",
+        "PostCode": "45400"
+      },
+      {
+        "Name": "Soma",
+        "Latitude": "39.0110",
+        "Longitude": "27.7470",
+        "PostCode": "45500"
+      },
+      {
+        "Name": "Alaşehir",
+        "Latitude": "38.3060",
+        "Longitude": "28.0080",
+        "PostCode": "45600"
+      },
+      {
+        "Name": "Saruhanlı",
+        "Latitude": "38.3830",
+        "Longitude": "27.8310",
+        "PostCode": "45700"
+      },
+      {
+        "Name": "Kula",
+        "Latitude": "38.7990",
+        "Longitude": "27.3160",
+        "PostCode": "45800"
+      },
+      {
+        "Name": "Kırkağaç",
+        "Latitude": "38.6970",
+        "Longitude": "27.3340",
+        "PostCode": "45900"
+      },
+      {
+        "Name": "Demirci",
+        "Latitude": "38.7160",
+        "Longitude": "27.4620",
+        "PostCode": "46000"
+      },
+      {
+        "Name": "Sarıgöl",
+        "Latitude": "38.4820",
+        "Longitude": "27.9460",
+        "PostCode": "46100"
+      },
+      {
+        "Name": "Gördes",
+        "Latitude": "38.5540",
+        "Longitude": "27.9660",
+        "PostCode": "46200"
+      },
+      {
+        "Name": "Selendi",
+        "Latitude": "38.6580",
+        "Longitude": "27.8060",
+        "PostCode": "46300"
+      },
+      {
+        "Name": "Ahmetli",
+        "Latitude": "38.3560",
+        "Longitude": "27.9250",
+        "PostCode": "46400"
+      },
+      {
+        "Name": "Gölmarmara",
+        "Latitude": "38.4830",
+        "Longitude": "27.7500",
+        "PostCode": "46500"
+      },
+      {
+        "Name": "Köprübaşı",
+        "Latitude": "38.5070",
+        "Longitude": "27.4500",
+        "PostCode": "46600"
+      }
+    ]
+  },
+  {
+    "name": "kahramanmaraş",
+    "plate": "46",
+    "latitude": "37.5753",
+    "longitude": "36.9228",
+    "counties": [
+      {
+        "Name": "Onikişubat",
+        "Latitude": "37.5700",
+        "Longitude": "36.9200",
+        "PostCode": "46000"
+      },
+      {
+        "Name": "Dulkadiroğlu",
+        "Latitude": "37.5800",
+        "Longitude": "36.9100",
+        "PostCode": "46100"
+      },
+      {
+        "Name": "Elbistan",
+        "Latitude": "37.1690",
+        "Longitude": "37.1830",
+        "PostCode": "46200"
+      },
+      {
+        "Name": "Afşin",
+        "Latitude": "37.2370",
+        "Longitude": "36.9070",
+        "PostCode": "46300"
+      },
+      {
+        "Name": "Türkoğlu",
+        "Latitude": "37.3740",
+        "Longitude": "36.9200",
+        "PostCode": "46400"
+      },
+      {
+        "Name": "Pazarcık",
+        "Latitude": "37.5470",
+        "Longitude": "37.0640",
+        "PostCode": "46500"
+      },
+      {
+        "Name": "Göksun",
+        "Latitude": "37.2260",
+        "Longitude": "36.9310",
+        "PostCode": "46600"
+      },
+      {
+        "Name": "Andırın",
+        "Latitude": "37.3190",
+        "Longitude": "36.9290",
+        "PostCode": "46700"
+      },
+      {
+        "Name": "Çağlayancerit",
+        "Latitude": "37.5300",
+        "Longitude": "36.8700",
+        "PostCode": "46800"
+      },
+      {
+        "Name": "Nurhak",
+        "Latitude": "37.3070",
+        "Longitude": "36.7750",
+        "PostCode": "46900"
+      },
+      {
+        "Name": "Ekinözü",
+        "Latitude": "37.5600",
+        "Longitude": "36.9000",
+        "PostCode": "47000"
+      }
+    ]
+  },
+  {
+    "name": "mardin",
+    "plate": "47",
+    "latitude": "37.3129",
+    "longitude": "40.7340",
+    "counties": [
+      {
+        "Name": "Kızıltepe",
+        "Latitude": "37.3070",
+        "Longitude": "40.7320",
+        "PostCode": "47100"
+      },
+      {
+        "Name": "Artuklu",
+        "Latitude": "37.3170",
+        "Longitude": "40.7350",
+        "PostCode": "47200"
+      },
+      {
+        "Name": "Midyat",
+        "Latitude": "37.4660",
+        "Longitude": "40.7550",
+        "PostCode": "47300"
+      },
+      {
+        "Name": "Nusaybin",
+        "Latitude": "37.4170",
+        "Longitude": "40.4620",
+        "PostCode": "47400"
+      },
+      {
+        "Name": "Derik",
+        "Latitude": "37.2800",
+        "Longitude": "40.7550",
+        "PostCode": "47500"
+      },
+      {
+        "Name": "Mazıdağı",
+        "Latitude": "37.2960",
+        "Longitude": "40.7690",
+        "PostCode": "47600"
+      },
+      {
+        "Name": "Dargeçit",
+        "Latitude": "37.4690",
+        "Longitude": "40.7280",
+        "PostCode": "47700"
+      },
+      {
+        "Name": "Savur",
+        "Latitude": "37.3300",
+        "Longitude": "40.6750",
+        "PostCode": "47800"
+      },
+      {
+        "Name": "Yeşilli",
+        "Latitude": "37.3270",
+        "Longitude": "40.6570",
+        "PostCode": "47900"
+      },
+      {
+        "Name": "Ömerli",
+        "Latitude": "37.3210",
+        "Longitude": "40.6310",
+        "PostCode": "48000"
+      }
+    ]
+  },
+  {
+    "name": "muğla",
+    "plate": "48",
+    "latitude": "37.2154",
+    "longitude": "28.3634",
+    "counties": [
+      {
+        "Name": "Bodrum",
+        "Latitude": "37.0360",
+        "Longitude": "27.4290",
+        "PostCode": "48400"
+      },
+      {
+        "Name": "Fethiye",
+        "Latitude": "36.6190",
+        "Longitude": "29.1160",
+        "PostCode": "48300"
+      },
+      {
+        "Name": "Milas",
+        "Latitude": "37.2950",
+        "Longitude": "27.9270",
+        "PostCode": "48200"
+      },
+      {
+        "Name": "Menteşe",
+        "Latitude": "37.2260",
+        "Longitude": "28.3610",
+        "PostCode": "48100"
+      },
+      {
+        "Name": "Marmaris",
+        "Latitude": "36.8550",
+        "Longitude": "28.2890",
+        "PostCode": "48700"
+      },
+      {
+        "Name": "Seydikemer",
+        "Latitude": "36.7140",
+        "Longitude": "29.1450",
+        "PostCode": "48600"
+      },
+      {
+        "Name": "Ortaca",
+        "Latitude": "36.9690",
+        "Longitude": "28.7190",
+        "PostCode": "48500"
+      },
+      {
+        "Name": "Yatağan",
+        "Latitude": "37.2140",
+        "Longitude": "28.2540",
+        "PostCode": "48700"
+      },
+      {
+        "Name": "Dalaman",
+        "Latitude": "36.7150",
+        "Longitude": "28.7870",
+        "PostCode": "48800"
+      },
+      {
+        "Name": "Köyceğiz",
+        "Latitude": "37.1330",
+        "Longitude": "28.6730",
+        "PostCode": "48900"
+      },
+      {
+        "Name": "Ula",
+        "Latitude": "37.0860",
+        "Longitude": "28.3620",
+        "PostCode": "49000"
+      },
+      {
+        "Name": "Datça",
+        "Latitude": "36.7370",
+        "Longitude": "27.8500",
+        "PostCode": "49100"
+      },
+      {
+        "Name": "Kavaklıdere",
+        "Latitude": "37.0550",
+        "Longitude": "28.4420",
+        "PostCode": "49200"
+      }
+    ]
+  },
+  {
+    "name": "muş",
+    "plate": "49",
+    "latitude": "38.7346",
+    "longitude": "41.4910",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "38.7350",
+        "Longitude": "41.4900",
+        "PostCode": "49100"
+      },
+      {
+        "Name": "Bulanık",
+        "Latitude": "38.5560",
+        "Longitude": "41.6110",
+        "PostCode": "49200"
+      },
+      {
+        "Name": "Malazgirt",
+        "Latitude": "38.6060",
+        "Longitude": "41.6160",
+        "PostCode": "49300"
+      },
+      {
+        "Name": "Varto",
+        "Latitude": "38.7390",
+        "Longitude": "41.4310",
+        "PostCode": "49400"
+      },
+      {
+        "Name": "Hasköy",
+        "Latitude": "38.7050",
+        "Longitude": "41.5910",
+        "PostCode": "49500"
+      },
+      {
+        "Name": "Korkut",
+        "Latitude": "38.7940",
+        "Longitude": "41.5070",
+        "PostCode": "49600"
+      }
+    ]
+  },
+  {
+    "name": "nevşehir",
+    "plate": "50",
+    "latitude": "38.6247",
+    "longitude": "34.7142",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "38.6240",
+        "Longitude": "34.7100",
+        "PostCode": "50300"
+      },
+      {
+        "Name": "Ürgüp",
+        "Latitude": "38.6730",
+        "Longitude": "34.8920",
+        "PostCode": "50400"
+      },
+      {
+        "Name": "Avanos",
+        "Latitude": "38.7150",
+        "Longitude": "34.8450",
+        "PostCode": "50500"
+      },
+      {
+        "Name": "Gülşehir",
+        "Latitude": "38.5620",
+        "Longitude": "34.6340",
+        "PostCode": "50600"
+      },
+      {
+        "Name": "Derinkuyu",
+        "Latitude": "38.3730",
+        "Longitude": "34.7150",
+        "PostCode": "50700"
+      },
+      {
+        "Name": "Acıgöl",
+        "Latitude": "38.5020",
+        "Longitude": "34.8180",
+        "PostCode": "50800"
+      },
+      {
+        "Name": "Kozaklı",
+        "Latitude": "38.4440",
+        "Longitude": "34.9040",
+        "PostCode": "50900"
+      },
+      {
+        "Name": "Hacıbektaş",
+        "Latitude": "38.3900",
+        "Longitude": "34.8050",
+        "PostCode": "51000"
+      }
+    ]
+  },
+  {
+    "name": "niğde",
+    "plate": "51",
+    "latitude": "37.9698",
+    "longitude": "34.6766",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "37.9680",
+        "Longitude": "34.6760",
+        "PostCode": "51000"
+      },
+      {
+        "Name": "Bor",
+        "Latitude": "37.9300",
+        "Longitude": "34.6450",
+        "PostCode": "51100"
+      },
+      {
+        "Name": "Çiftlik",
+        "Latitude": "37.9050",
+        "Longitude": "34.7090",
+        "PostCode": "51200"
+      },
+      {
+        "Name": "Ulukışla",
+        "Latitude": "37.8440",
+        "Longitude": "34.6060",
+        "PostCode": "51300"
+      },
+      {
+        "Name": "Altunhisar",
+        "Latitude": "37.9350",
+        "Longitude": "34.7150",
+        "PostCode": "51400"
+      },
+      {
+        "Name": "Çamardı",
+        "Latitude": "37.9180",
+        "Longitude": "34.6910",
+        "PostCode": "51500"
+      }
+    ]
+  },
+  {
+    "name": "ordu",
+    "plate": "52",
+    "latitude": "40.9862",
+    "longitude": "37.8797",
+    "counties": [
+      {
+        "Name": "Altınordu",
+        "Latitude": "40.9890",
+        "Longitude": "37.8770",
+        "PostCode": "52200"
+      },
+      {
+        "Name": "Ünye",
+        "Latitude": "41.0100",
+        "Longitude": "37.6100",
+        "PostCode": "52300"
+      },
+      {
+        "Name": "Fatsa",
+        "Latitude": "41.0100",
+        "Longitude": "37.3580",
+        "PostCode": "52400"
+      },
+      {
+        "Name": "Gölköy",
+        "Latitude": "40.8600",
+        "Longitude": "37.7280",
+        "PostCode": "52500"
+      },
+      {
+        "Name": "Perşembe",
+        "Latitude": "41.1200",
+        "Longitude": "37.9890",
+        "PostCode": "52600"
+      },
+      {
+        "Name": "Kumru",
+        "Latitude": "41.0660",
+        "Longitude": "37.8350",
+        "PostCode": "52700"
+      },
+      {
+        "Name": "Aybastı",
+        "Latitude": "41.1600",
+        "Longitude": "37.6580",
+        "PostCode": "52800"
+      },
+      {
+        "Name": "Korgan",
+        "Latitude": "41.0750",
+        "Longitude": "37.7970",
+        "PostCode": "52900"
+      },
+      {
+        "Name": "Akkuş",
+        "Latitude": "40.8000",
+        "Longitude": "37.7930",
+        "PostCode": "53000"
+      },
+      {
+        "Name": "Ulubey",
+        "Latitude": "40.8840",
+        "Longitude": "37.8920",
+        "PostCode": "53100"
+      },
+      {
+        "Name": "Mesudiye",
+        "Latitude": "41.0600",
+        "Longitude": "37.9330",
+        "PostCode": "53200"
+      },
+      {
+        "Name": "Ikizce",
+        "Latitude": "40.9700",
+        "Longitude": "37.7100",
+        "PostCode": "53300"
+      },
+      {
+        "Name": "Gürgentepe",
+        "Latitude": "41.1800",
+        "Longitude": "37.8500",
+        "PostCode": "53400"
+      },
+      {
+        "Name": "Çatalpınar",
+        "Latitude": "41.0780",
+        "Longitude": "37.9720",
+        "PostCode": "53500"
+      },
+      {
+        "Name": "Çaybaşı",
+        "Latitude": "41.0980",
+        "Longitude": "37.7400",
+        "PostCode": "53600"
+      },
+      {
+        "Name": "Kabataş",
+        "Latitude": "40.8900",
+        "Longitude": "37.8270",
+        "PostCode": "53700"
+      },
+      {
+        "Name": "Çamaş",
+        "Latitude": "41.0750",
+        "Longitude": "37.7400",
+        "PostCode": "53800"
+      },
+      {
+        "Name": "Gülyalı",
+        "Latitude": "41.0650",
+        "Longitude": "37.9350",
+        "PostCode": "53900"
+      }
+    ]
+  },
+  {
+    "name": "rize",
+    "plate": "53",
+    "latitude": "41.0255",
+    "longitude": "40.5177",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "41.0250",
+        "Longitude": "40.5150",
+        "PostCode": "53000"
+      },
+      {
+        "Name": "Çayeli",
+        "Latitude": "41.0100",
+        "Longitude": "40.5690",
+        "PostCode": "53100"
+      },
+      {
+        "Name": "Ardeşen",
+        "Latitude": "41.1470",
+        "Longitude": "40.5690",
+        "PostCode": "53200"
+      },
+      {
+        "Name": "Pazar",
+        "Latitude": "41.1240",
+        "Longitude": "40.4780",
+        "PostCode": "53300"
+      },
+      {
+        "Name": "Fındıklı",
+        "Latitude": "41.2420",
+        "Longitude": "40.6220",
+        "PostCode": "53400"
+      },
+      {
+        "Name": "Güneysu",
+        "Latitude": "41.1450",
+        "Longitude": "40.4870",
+        "PostCode": "53500"
+      },
+      {
+        "Name": "Kalkandere",
+        "Latitude": "41.0860",
+        "Longitude": "40.4630",
+        "PostCode": "53600"
+      },
+      {
+        "Name": "Iyidere",
+        "Latitude": "41.1650",
+        "Longitude": "40.4960",
+        "PostCode": "53700"
+      },
+      {
+        "Name": "Derepazarı",
+        "Latitude": "41.0900",
+        "Longitude": "40.4520",
+        "PostCode": "53800"
+      },
+      {
+        "Name": "Çamlıhemşin",
+        "Latitude": "41.2880",
+        "Longitude": "40.6310",
+        "PostCode": "53900"
+      },
+      {
+        "Name": "Ikizdere",
+        "Latitude": "41.1950",
+        "Longitude": "40.4690",
+        "PostCode": "54000"
+      },
+      {
+        "Name": "Hemşin",
+        "Latitude": "41.1590",
+        "Longitude": "40.4050",
+        "PostCode": "54100"
+      }
+    ]
+  },
+  {
+    "name": "sakarya",
+    "plate": "54",
+    "latitude": "40.7889",
+    "longitude": "30.4060",
+    "counties": [
+      {
+        "Name": "Adapazarı",
+        "Latitude": "40.7840",
+        "Longitude": "30.4100",
+        "PostCode": "54100"
+      },
+      {
+        "Name": "Serdivan",
+        "Latitude": "40.7850",
+        "Longitude": "30.4300",
+        "PostCode": "54200"
+      },
+      {
+        "Name": "Akyazı",
+        "Latitude": "40.6980",
+        "Longitude": "30.5600",
+        "PostCode": "54300"
+      },
+      {
+        "Name": "Erenler",
+        "Latitude": "40.7660",
+        "Longitude": "30.4110",
+        "PostCode": "54400"
+      },
+      {
+        "Name": "Hendek",
+        "Latitude": "40.7500",
+        "Longitude": "30.6900",
+        "PostCode": "54500"
+      },
+      {
+        "Name": "Karasu",
+        "Latitude": "41.0470",
+        "Longitude": "30.8320",
+        "PostCode": "54600"
+      },
+      {
+        "Name": "Geyve",
+        "Latitude": "40.6610",
+        "Longitude": "30.2580",
+        "PostCode": "54700"
+      },
+      {
+        "Name": "Arifiye",
+        "Latitude": "40.7830",
+        "Longitude": "30.5000",
+        "PostCode": "54800"
+      },
+      {
+        "Name": "Sapanca",
+        "Latitude": "40.8110",
+        "Longitude": "30.1580",
+        "PostCode": "54900"
+      },
+      {
+        "Name": "Pamukova",
+        "Latitude": "40.6630",
+        "Longitude": "30.4840",
+        "PostCode": "55000"
+      },
+      {
+        "Name": "Ferizli",
+        "Latitude": "40.7410",
+        "Longitude": "30.5220",
+        "PostCode": "55100"
+      },
+      {
+        "Name": "Kaynarca",
+        "Latitude": "40.7060",
+        "Longitude": "30.5820",
+        "PostCode": "55200"
+      },
+      {
+        "Name": "Kocaali",
+        "Latitude": "41.0800",
+        "Longitude": "30.3330",
+        "PostCode": "55300"
+      },
+      {
+        "Name": "Karapürçek",
+        "Latitude": "40.6880",
+        "Longitude": "30.4730",
+        "PostCode": "55400"
+      },
+      {
+        "Name": "Taraklı",
+        "Latitude": "40.6100",
+        "Longitude": "30.3300",
+        "PostCode": "55500"
+      }
+    ]
+  },
+  {
+    "name": "samsun",
+    "plate": "55",
+    "latitude": "41.2797",
+    "longitude": "36.3361",
+    "counties": [
+      {
+        "Name": "İlkadım",
+        "Latitude": "41.2900",
+        "Longitude": "36.3300",
+        "PostCode": "55000"
+      },
+      {
+        "Name": "Atakum",
+        "Latitude": "41.3110",
+        "Longitude": "36.3350",
+        "PostCode": "55100"
+      },
+      {
+        "Name": "Bafra",
+        "Latitude": "41.5660",
+        "Longitude": "35.8820",
+        "PostCode": "55200"
+      },
+      {
+        "Name": "Çarşamba",
+        "Latitude": "41.1840",
+        "Longitude": "36.2900",
+        "PostCode": "55300"
+      },
+      {
+        "Name": "Canik",
+        "Latitude": "41.2920",
+        "Longitude": "36.3320",
+        "PostCode": "55400"
+      },
+      {
+        "Name": "Vezirköprü",
+        "Latitude": "41.2500",
+        "Longitude": "36.8000",
+        "PostCode": "55500"
+      },
+      {
+        "Name": "Terme",
+        "Latitude": "41.2230",
+        "Longitude": "36.6250",
+        "PostCode": "55600"
+      },
+      {
+        "Name": "Tekkeköy",
+        "Latitude": "41.2580",
+        "Longitude": "36.4250",
+        "PostCode": "55700"
+      },
+      {
+        "Name": "Havza",
+        "Latitude": "41.1750",
+        "Longitude": "36.4300",
+        "PostCode": "55800"
+      },
+      {
+        "Name": "Alaçam",
+        "Latitude": "41.4200",
+        "Longitude": "36.5000",
+        "PostCode": "55900"
+      },
+      {
+        "Name": "19 Mayıs",
+        "Latitude": "41.3500",
+        "Longitude": "36.5600",
+        "PostCode": "56000"
+      },
+      {
+        "Name": "Ayvacık",
+        "Latitude": "41.2000",
+        "Longitude": "36.3000",
+        "PostCode": "56100"
+      },
+      {
+        "Name": "Kavak",
+        "Latitude": "41.1000",
+        "Longitude": "36.4000",
+        "PostCode": "56200"
+      },
+      {
+        "Name": "Salıpazarı",
+        "Latitude": "41.2500",
+        "Longitude": "36.4000",
+        "PostCode": "56300"
+      },
+      {
+        "Name": "Asarcık",
+        "Latitude": "41.2200",
+        "Longitude": "36.3500",
+        "PostCode": "56400"
+      },
+      {
+        "Name": "Ladik",
+        "Latitude": "41.2900",
+        "Longitude": "36.4600",
+        "PostCode": "56500"
+      },
+      {
+        "Name": "Yakakent",
+        "Latitude": "41.5500",
+        "Longitude": "36.6000",
+        "PostCode": "56600"
+      }
+    ]
+  },
+  {
+    "name": "siirt",
+    "plate": "56",
+    "latitude": "37.9274",
+    "longitude": "41.9420",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "37.9260",
+        "Longitude": "41.9400",
+        "PostCode": "56000"
+      },
+      {
+        "Name": "Kurtalan",
+        "Latitude": "37.8920",
+        "Longitude": "41.8500",
+        "PostCode": "56100"
+      },
+      {
+        "Name": "Pervari",
+        "Latitude": "37.7810",
+        "Longitude": "41.8660",
+        "PostCode": "56200"
+      },
+      {
+        "Name": "Baykan",
+        "Latitude": "37.8670",
+        "Longitude": "41.9480",
+        "PostCode": "56300"
+      },
+      {
+        "Name": "Şirvan",
+        "Latitude": "37.9360",
+        "Longitude": "41.8520",
+        "PostCode": "56400"
+      },
+      {
+        "Name": "Eruh",
+        "Latitude": "37.8550",
+        "Longitude": "41.8440",
+        "PostCode": "56500"
+      },
+      {
+        "Name": "Tillo",
+        "Latitude": "37.9230",
+        "Longitude": "41.8970",
+        "PostCode": "56600"
+      }
+    ]
+  },
+  {
+    "name": "sinop",
+    "plate": "57",
+    "latitude": "42.0280",
+    "longitude": "35.1517",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "42.0270",
+        "Longitude": "35.1520",
+        "PostCode": "57000"
+      },
+      {
+        "Name": "Boyabat",
+        "Latitude": "42.0670",
+        "Longitude": "34.9720",
+        "PostCode": "57100"
+      },
+      {
+        "Name": "Gerze",
+        "Latitude": "42.0060",
+        "Longitude": "35.0630",
+        "PostCode": "57200"
+      },
+      {
+        "Name": "Ayancık",
+        "Latitude": "42.0700",
+        "Longitude": "35.1510",
+        "PostCode": "57300"
+      },
+      {
+        "Name": "Durağan",
+        "Latitude": "41.9860",
+        "Longitude": "35.2900",
+        "PostCode": "57400"
+      },
+      {
+        "Name": "Türkeli",
+        "Latitude": "42.0700",
+        "Longitude": "35.2110",
+        "PostCode": "57500"
+      },
+      {
+        "Name": "Erfelek",
+        "Latitude": "42.0570",
+        "Longitude": "35.0050",
+        "PostCode": "57600"
+      },
+      {
+        "Name": "Dikmen",
+        "Latitude": "42.0190",
+        "Longitude": "35.1710",
+        "PostCode": "57700"
+      },
+      {
+        "Name": "Saraydüzü",
+        "Latitude": "41.9800",
+        "Longitude": "35.2400",
+        "PostCode": "57800"
+      }
+    ]
+  },
+  {
+    "name": "sivas",
+    "plate": "58",
+    "latitude": "39.7505",
+    "longitude": "37.0150",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "39.7490",
+        "Longitude": "37.0140",
+        "PostCode": "58000"
+      },
+      {
+        "Name": "Şarkışla",
+        "Latitude": "39.6920",
+        "Longitude": "36.9000",
+        "PostCode": "58100"
+      },
+      {
+        "Name": "Yıldızeli",
+        "Latitude": "39.7820",
+        "Longitude": "37.0560",
+        "PostCode": "58200"
+      },
+      {
+        "Name": "Suşehri",
+        "Latitude": "39.7400",
+        "Longitude": "36.9600",
+        "PostCode": "58300"
+      },
+      {
+        "Name": "Gemerek",
+        "Latitude": "39.8120",
+        "Longitude": "37.2080",
+        "PostCode": "58400"
+      },
+      {
+        "Name": "Zara",
+        "Latitude": "39.7990",
+        "Longitude": "37.2740",
+        "PostCode": "58500"
+      },
+      {
+        "Name": "Kangal",
+        "Latitude": "39.7820",
+        "Longitude": "37.3620",
+        "PostCode": "58600"
+      },
+      {
+        "Name": "Gürün",
+        "Latitude": "39.8630",
+        "Longitude": "37.3470",
+        "PostCode": "58700"
+      },
+      {
+        "Name": "Divriği",
+        "Latitude": "39.7020",
+        "Longitude": "37.5120",
+        "PostCode": "58800"
+      },
+      {
+        "Name": "Koyulhisar",
+        "Latitude": "39.6620",
+        "Longitude": "37.5800",
+        "PostCode": "58900"
+      },
+      {
+        "Name": "Altınyayla",
+        "Latitude": "39.7130",
+        "Longitude": "37.2780",
+        "PostCode": "59000"
+      },
+      {
+        "Name": "Hafik",
+        "Latitude": "39.7420",
+        "Longitude": "37.1980",
+        "PostCode": "59100"
+      },
+      {
+        "Name": "Ulaş",
+        "Latitude": "39.7950",
+        "Longitude": "37.2350",
+        "PostCode": "59200"
+      },
+      {
+        "Name": "İmranlı",
+        "Latitude": "39.8000",
+        "Longitude": "37.3540",
+        "PostCode": "59300"
+      },
+      {
+        "Name": "Akıncılar",
+        "Latitude": "39.7110",
+        "Longitude": "37.4010",
+        "PostCode": "59400"
+      },
+      {
+        "Name": "Gülova",
+        "Latitude": "39.6950",
+        "Longitude": "37.3050",
+        "PostCode": "59500"
+      },
+      {
+        "Name": "Doğanşar",
+        "Latitude": "39.7080",
+        "Longitude": "37.4820",
+        "PostCode": "59600"
+      }
+    ]
+  },
+  {
+    "name": "tekirdağ",
+    "plate": "59",
+    "latitude": "40.9781",
+    "longitude": "27.5117",
+    "counties": [
+      {
+        "Name": "Çorlu",
+        "Latitude": "40.9780",
+        "Longitude": "27.5320",
+        "PostCode": "59000"
+      },
+      {
+        "Name": "Süleymanpaşa",
+        "Latitude": "40.9770",
+        "Longitude": "27.4880",
+        "PostCode": "59100"
+      },
+      {
+        "Name": "Çerkezköy",
+        "Latitude": "41.1370",
+        "Longitude": "27.1870",
+        "PostCode": "59200"
+      },
+      {
+        "Name": "Kapaklı",
+        "Latitude": "41.1960",
+        "Longitude": "27.2740",
+        "PostCode": "59300"
+      },
+      {
+        "Name": "Ergene",
+        "Latitude": "41.0560",
+        "Longitude": "27.3730",
+        "PostCode": "59400"
+      },
+      {
+        "Name": "Malkara",
+        "Latitude": "40.8920",
+        "Longitude": "27.1950",
+        "PostCode": "59500"
+      },
+      {
+        "Name": "Saray",
+        "Latitude": "41.0770",
+        "Longitude": "27.5560",
+        "PostCode": "59600"
+      },
+      {
+        "Name": "Hayrabolu",
+        "Latitude": "40.9080",
+        "Longitude": "27.2840",
+        "PostCode": "59700"
+      },
+      {
+        "Name": "Şarköy",
+        "Latitude": "40.9150",
+        "Longitude": "27.1020",
+        "PostCode": "59800"
+      },
+      {
+        "Name": "Muratlı",
+        "Latitude": "41.0510",
+        "Longitude": "27.4620",
+        "PostCode": "59900"
+      },
+      {
+        "Name": "Marmaraereğlisi",
+        "Latitude": "40.9490",
+        "Longitude": "27.2920",
+        "PostCode": "60000"
+      }
+    ]
+  },
+  {
+    "name": "tokat",
+    "plate": "60",
+    "latitude": "40.3235",
+    "longitude": "36.5522",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "40.3230",
+        "Longitude": "36.5520",
+        "PostCode": "60000"
+      },
+      {
+        "Name": "Erbaa",
+        "Latitude": "40.5630",
+        "Longitude": "36.6100",
+        "PostCode": "60100"
+      },
+      {
+        "Name": "Turhal",
+        "Latitude": "40.3600",
+        "Longitude": "36.5960",
+        "PostCode": "60200"
+      },
+      {
+        "Name": "Niksar",
+        "Latitude": "40.2160",
+        "Longitude": "36.6010",
+        "PostCode": "60300"
+      },
+      {
+        "Name": "Zile",
+        "Latitude": "40.2320",
+        "Longitude": "36.4660",
+        "PostCode": "60400"
+      },
+      {
+        "Name": "Reşadiye",
+        "Latitude": "40.0760",
+        "Longitude": "36.7350",
+        "PostCode": "60500"
+      },
+      {
+        "Name": "Almus",
+        "Latitude": "40.0820",
+        "Longitude": "36.6060",
+        "PostCode": "60600"
+      },
+      {
+        "Name": "Pazar",
+        "Latitude": "40.2710",
+        "Longitude": "36.5380",
+        "PostCode": "60700"
+      },
+      {
+        "Name": "Başçiftlik",
+        "Latitude": "40.2390",
+        "Longitude": "36.6550",
+        "PostCode": "60800"
+      },
+      {
+        "Name": "Yeşilyurt",
+        "Latitude": "40.3380",
+        "Longitude": "36.5360",
+        "PostCode": "60900"
+      },
+      {
+        "Name": "Artova",
+        "Latitude": "40.2520",
+        "Longitude": "36.6970",
+        "PostCode": "61000"
+      },
+      {
+        "Name": "Sulusaray",
+        "Latitude": "40.3210",
+        "Longitude": "36.7810",
+        "PostCode": "61100"
+      }
+    ]
+  },
+  {
+    "name": "trabzon",
+    "plate": "61",
+    "latitude": "41.0027",
+    "longitude": "39.7168",
+    "counties": [
+      {
+        "Name": "Ortahisar",
+        "Latitude": "41.0020",
+        "Longitude": "39.7180",
+        "PostCode": "61000"
+      },
+      {
+        "Name": "Akçaabat",
+        "Latitude": "41.0450",
+        "Longitude": "39.7450",
+        "PostCode": "61100"
+      },
+      {
+        "Name": "Araklı",
+        "Latitude": "41.0850",
+        "Longitude": "39.6200",
+        "PostCode": "61200"
+      },
+      {
+        "Name": "Of",
+        "Latitude": "41.0000",
+        "Longitude": "39.7000",
+        "PostCode": "61300"
+      },
+      {
+        "Name": "Yomra",
+        "Latitude": "40.9720",
+        "Longitude": "39.7210",
+        "PostCode": "61400"
+      },
+      {
+        "Name": "Arsin",
+        "Latitude": "40.9400",
+        "Longitude": "39.7350",
+        "PostCode": "61500"
+      },
+      {
+        "Name": "Vakfıkebir",
+        "Latitude": "40.8920",
+        "Longitude": "39.7690",
+        "PostCode": "61600"
+      },
+      {
+        "Name": "Sürmene",
+        "Latitude": "40.8600",
+        "Longitude": "39.7300",
+        "PostCode": "61700"
+      },
+      {
+        "Name": "Maçka",
+        "Latitude": "40.8900",
+        "Longitude": "39.7900",
+        "PostCode": "61800"
+      },
+      {
+        "Name": "Beşikdüzü",
+        "Latitude": "40.8800",
+        "Longitude": "39.7100",
+        "PostCode": "61900"
+      },
+      {
+        "Name": "Çarşıbaşı",
+        "Latitude": "40.9000",
+        "Longitude": "39.7300",
+        "PostCode": "62000"
+      },
+      {
+        "Name": "Tonya",
+        "Latitude": "40.8200",
+        "Longitude": "39.7300",
+        "PostCode": "62100"
+      },
+      {
+        "Name": "Düzköy",
+        "Latitude": "40.8200",
+        "Longitude": "39.7800",
+        "PostCode": "62200"
+      },
+      {
+        "Name": "Çaykara",
+        "Latitude": "40.7700",
+        "Longitude": "39.8200",
+        "PostCode": "62300"
+      },
+      {
+        "Name": "Şalpazarı",
+        "Latitude": "40.7900",
+        "Longitude": "39.8300",
+        "PostCode": "62400"
+      },
+      {
+        "Name": "Hayrat",
+        "Latitude": "40.8100",
+        "Longitude": "39.8200",
+        "PostCode": "62500"
+      },
+      {
+        "Name": "Köprübaşı",
+        "Latitude": "40.7900",
+        "Longitude": "39.7800",
+        "PostCode": "62600"
+      },
+      {
+        "Name": "Dernekpazarı",
+        "Latitude": "40.7700",
+        "Longitude": "39.8000",
+        "PostCode": "62700"
+      }
+    ]
+  },
+  {
+    "name": "tunceli",
+    "plate": "62",
+    "latitude": "39.1062",
+    "longitude": "39.5483",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "39.1050",
+        "Longitude": "39.5500",
+        "PostCode": "62000"
+      },
+      {
+        "Name": "Pertek",
+        "Latitude": "39.0500",
+        "Longitude": "39.4700",
+        "PostCode": "62100"
+      },
+      {
+        "Name": "Mazgirt",
+        "Latitude": "39.1370",
+        "Longitude": "39.5830",
+        "PostCode": "62200"
+      },
+      {
+        "Name": "Çemişgezek",
+        "Latitude": "39.1000",
+        "Longitude": "39.5700",
+        "PostCode": "62300"
+      },
+      {
+        "Name": "Hozat",
+        "Latitude": "39.0600",
+        "Longitude": "39.5200",
+        "PostCode": "62400"
+      },
+      {
+        "Name": "Ovacık",
+        "Latitude": "39.1800",
+        "Longitude": "39.6100",
+        "PostCode": "62500"
+      },
+      {
+        "Name": "Pülümür",
+        "Latitude": "39.1600",
+        "Longitude": "39.5000",
+        "PostCode": "62600"
+      },
+      {
+        "Name": "Nazımiye",
+        "Latitude": "39.1300",
+        "Longitude": "39.5700",
+        "PostCode": "62700"
+      }
+    ]
+  },
+  {
+    "name": "şanlıurfa",
+    "plate": "63",
+    "latitude": "37.1674",
+    "longitude": "38.7955",
+    "counties": [
+      {
+        "Name": "Eyyübiye",
+        "Latitude": "37.1760",
+        "Longitude": "38.7950",
+        "PostCode": "63000"
+      },
+      {
+        "Name": "Haliliye",
+        "Latitude": "37.1770",
+        "Longitude": "38.7950",
+        "PostCode": "63100"
+      },
+      {
+        "Name": "Siverek",
+        "Latitude": "37.1660",
+        "Longitude": "39.0370",
+        "PostCode": "63200"
+      },
+      {
+        "Name": "Viranşehir",
+        "Latitude": "37.1980",
+        "Longitude": "39.2890",
+        "PostCode": "63300"
+      },
+      {
+        "Name": "Karaköprü",
+        "Latitude": "37.1750",
+        "Longitude": "38.7350",
+        "PostCode": "63400"
+      },
+      {
+        "Name": "Akçakale",
+        "Latitude": "36.8590",
+        "Longitude": "38.7360",
+        "PostCode": "63500"
+      },
+      {
+        "Name": "Suruç",
+        "Latitude": "37.2220",
+        "Longitude": "38.7540",
+        "PostCode": "63600"
+      },
+      {
+        "Name": "Birecik",
+        "Latitude": "37.0840",
+        "Longitude": "37.8890",
+        "PostCode": "63700"
+      },
+      {
+        "Name": "Ceylanpınar",
+        "Latitude": "36.7740",
+        "Longitude": "39.0730",
+        "PostCode": "63800"
+      },
+      {
+        "Name": "Harran",
+        "Latitude": "36.8680",
+        "Longitude": "38.9490",
+        "PostCode": "63900"
+      },
+      {
+        "Name": "Bozova",
+        "Latitude": "37.1280",
+        "Longitude": "38.8280",
+        "PostCode": "64000"
+      },
+      {
+        "Name": "Hilvan",
+        "Latitude": "37.0400",
+        "Longitude": "38.6540",
+        "PostCode": "64100"
+      },
+      {
+        "Name": "Halfeti",
+        "Latitude": "37.0940",
+        "Longitude": "37.9900",
+        "PostCode": "64200"
+      }
+    ]
+  },
+  {
+    "name": "uşak",
+    "plate": "64",
+    "latitude": "38.6742",
+    "longitude": "29.4059",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "38.6740",
+        "Longitude": "29.4060",
+        "PostCode": "64000"
+      },
+      {
+        "Name": "Banaz",
+        "Latitude": "38.6260",
+        "Longitude": "29.4520",
+        "PostCode": "64100"
+      },
+      {
+        "Name": "Eşme",
+        "Latitude": "38.6740",
+        "Longitude": "29.3580",
+        "PostCode": "64200"
+      },
+      {
+        "Name": "Sivaslı",
+        "Latitude": "38.6340",
+        "Longitude": "29.3200",
+        "PostCode": "64300"
+      },
+      {
+        "Name": "Ulubey",
+        "Latitude": "38.6970",
+        "Longitude": "29.4550",
+        "PostCode": "64400"
+      },
+      {
+        "Name": "Karahallı",
+        "Latitude": "38.7320",
+        "Longitude": "29.4040",
+        "PostCode": "64500"
+      }
+    ]
+  },
+  {
+    "name": "van",
+    "plate": "65",
+    "latitude": "38.5012",
+    "longitude": "43.3730",
+    "counties": [
+      {
+        "Name": "İpekyolu",
+        "Latitude": "38.5000",
+        "Longitude": "43.3800",
+        "PostCode": "65000"
+      },
+      {
+        "Name": "Erciş",
+        "Latitude": "38.5700",
+        "Longitude": "43.3610",
+        "PostCode": "65100"
+      },
+      {
+        "Name": "Tuşba",
+        "Latitude": "38.5000",
+        "Longitude": "43.3800",
+        "PostCode": "65200"
+      },
+      {
+        "Name": "Edremit",
+        "Latitude": "38.4380",
+        "Longitude": "43.3000",
+        "PostCode": "65300"
+      },
+      {
+        "Name": "Özalp",
+        "Latitude": "38.4580",
+        "Longitude": "43.2750",
+        "PostCode": "65400"
+      },
+      {
+        "Name": "Çaldıran",
+        "Latitude": "38.2680",
+        "Longitude": "43.3840",
+        "PostCode": "65500"
+      },
+      {
+        "Name": "Başkale",
+        "Latitude": "38.2420",
+        "Longitude": "43.3830",
+        "PostCode": "65600"
+      },
+      {
+        "Name": "Muradiye",
+        "Latitude": "38.3270",
+        "Longitude": "43.3770",
+        "PostCode": "65700"
+      },
+      {
+        "Name": "Gürpınar",
+        "Latitude": "38.2850",
+        "Longitude": "43.3570",
+        "PostCode": "65800"
+      },
+      {
+        "Name": "Gevaş",
+        "Latitude": "38.3200",
+        "Longitude": "43.2450",
+        "PostCode": "65900"
+      },
+      {
+        "Name": "Saray",
+        "Latitude": "38.2170",
+        "Longitude": "43.2970",
+        "PostCode": "66000"
+      },
+      {
+        "Name": "Çatak",
+        "Latitude": "38.1760",
+        "Longitude": "43.3280",
+        "PostCode": "66100"
+      },
+      {
+        "Name": "Bahçesaray",
+        "Latitude": "38.1880",
+        "Longitude": "43.2360",
+        "PostCode": "66200"
+      }
+    ]
+  },
+  {
+    "name": "yozgat",
+    "plate": "66",
+    "latitude": "39.8210",
+    "longitude": "34.8086",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "39.8200",
+        "Longitude": "34.8100",
+        "PostCode": "66000"
+      },
+      {
+        "Name": "Sorgun",
+        "Latitude": "39.8450",
+        "Longitude": "34.8710",
+        "PostCode": "66100"
+      },
+      {
+        "Name": "Akdağmadeni",
+        "Latitude": "39.7260",
+        "Longitude": "34.7210",
+        "PostCode": "66200"
+      },
+      {
+        "Name": "Yerköy",
+        "Latitude": "39.8250",
+        "Longitude": "34.7980",
+        "PostCode": "66300"
+      },
+      {
+        "Name": "Sarıkaya",
+        "Latitude": "39.8250",
+        "Longitude": "34.8440",
+        "PostCode": "66400"
+      },
+      {
+        "Name": "Boğazlıyan",
+        "Latitude": "39.8070",
+        "Longitude": "34.8360",
+        "PostCode": "66500"
+      },
+      {
+        "Name": "Çekerek",
+        "Latitude": "39.8090",
+        "Longitude": "34.7790",
+        "PostCode": "66600"
+      },
+      {
+        "Name": "Şefaatli",
+        "Latitude": "39.7900",
+        "Longitude": "34.7680",
+        "PostCode": "66700"
+      },
+      {
+        "Name": "Saraykent",
+        "Latitude": "39.8320",
+        "Longitude": "34.8220",
+        "PostCode": "66800"
+      },
+      {
+        "Name": "Çayıralan",
+        "Latitude": "39.8230",
+        "Longitude": "34.8150",
+        "PostCode": "66900"
+      },
+      {
+        "Name": "Kadışehri",
+        "Latitude": "39.7910",
+        "Longitude": "34.8020",
+        "PostCode": "67000"
+      },
+      {
+        "Name": "Aydıncık",
+        "Latitude": "39.7340",
+        "Longitude": "34.7470",
+        "PostCode": "67100"
+      },
+      {
+        "Name": "Yenifakılı",
+        "Latitude": "39.7500",
+        "Longitude": "34.7900",
+        "PostCode": "67200"
+      },
+      {
+        "Name": "Çandır",
+        "Latitude": "39.7610",
+        "Longitude": "34.7700",
+        "PostCode": "67300"
+      }
+    ]
+  },
+  {
+    "name": "zonguldak",
+    "plate": "67",
+    "latitude": "41.4535",
+    "longitude": "31.7894",
+    "counties": [
+      {
+        "Name": "Ereğli",
+        "Latitude": "41.3570",
+        "Longitude": "31.3790",
+        "PostCode": "67000"
+      },
+      {
+        "Name": "Merkez",
+        "Latitude": "41.4560",
+        "Longitude": "31.7890",
+        "PostCode": "67100"
+      },
+      {
+        "Name": "Çaycuma",
+        "Latitude": "41.4200",
+        "Longitude": "31.7340",
+        "PostCode": "67200"
+      },
+      {
+        "Name": "Devrek",
+        "Latitude": "41.3740",
+        "Longitude": "31.6160",
+        "PostCode": "67300"
+      },
+      {
+        "Name": "Kozlu",
+        "Latitude": "41.4490",
+        "Longitude": "31.7670",
+        "PostCode": "67400"
+      },
+      {
+        "Name": "Alaplı",
+        "Latitude": "41.2610",
+        "Longitude": "31.5570",
+        "PostCode": "67500"
+      },
+      {
+        "Name": "Kilimli",
+        "Latitude": "41.4520",
+        "Longitude": "31.7850",
+        "PostCode": "67600"
+      },
+      {
+        "Name": "Gökçebey",
+        "Latitude": "41.3670",
+        "Longitude": "31.3960",
+        "PostCode": "67700"
+      }
+    ]
+  },
+  {
+    "name": "aksaray",
+    "plate": "68",
+    "latitude": "38.3686",
+    "longitude": "34.0297",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "38.3700",
+        "Longitude": "34.0300",
+        "PostCode": "68000"
+      },
+      {
+        "Name": "Ortaköy",
+        "Latitude": "38.3700",
+        "Longitude": "34.0500",
+        "PostCode": "68100"
+      },
+      {
+        "Name": "Eskil",
+        "Latitude": "38.3950",
+        "Longitude": "34.0700",
+        "PostCode": "68200"
+      },
+      {
+        "Name": "Gülağaç",
+        "Latitude": "38.3430",
+        "Longitude": "34.1100",
+        "PostCode": "68300"
+      },
+      {
+        "Name": "Güzelyurt",
+        "Latitude": "38.3800",
+        "Longitude": "34.0400",
+        "PostCode": "68400"
+      },
+      {
+        "Name": "Ağaçören",
+        "Latitude": "38.3280",
+        "Longitude": "34.0000",
+        "PostCode": "68500"
+      },
+      {
+        "Name": "Sarıyahşi",
+        "Latitude": "38.3280",
+        "Longitude": "34.0650",
+        "PostCode": "68600"
+      },
+      {
+        "Name": "Sultanhanı",
+        "Latitude": "38.3530",
+        "Longitude": "34.0100",
+        "PostCode": "68700"
+      }
+    ]
+  },
+  {
+    "name": "bayburt",
+    "plate": "69",
+    "latitude": "40.2603",
+    "longitude": "40.2280",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "40.2600",
+        "Longitude": "40.2300",
+        "PostCode": "69000"
+      },
+      {
+        "Name": "Demirözü",
+        "Latitude": "40.2800",
+        "Longitude": "40.2000",
+        "PostCode": "69100"
+      },
+      {
+        "Name": "Aydıntepe",
+        "Latitude": "40.2500",
+        "Longitude": "40.1800",
+        "PostCode": "69200"
+      }
+    ]
+  },
+  {
+    "name": "karaman",
+    "plate": "70",
+    "latitude": "37.1810",
+    "longitude": "33.2222",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "37.1800",
+        "Longitude": "33.2200",
+        "PostCode": "70000"
+      },
+      {
+        "Name": "Ermenek",
+        "Latitude": "37.1450",
+        "Longitude": "33.1900",
+        "PostCode": "70100"
+      },
+      {
+        "Name": "Sarıevliler",
+        "Latitude": "37.1750",
+        "Longitude": "33.2200",
+        "PostCode": "70200"
+      },
+      {
+        "Name": "Ayrancı",
+        "Latitude": "37.2500",
+        "Longitude": "33.3000",
+        "PostCode": "70300"
+      },
+      {
+        "Name": "Kazımkarabekir",
+        "Latitude": "37.1700",
+        "Longitude": "33.2300",
+        "PostCode": "70400"
+      },
+      {
+        "Name": "Başyayla",
+        "Latitude": "37.1200",
+        "Longitude": "33.2400",
+        "PostCode": "70500"
+      }
+    ]
+  },
+  {
+    "name": "kırıkkale",
+    "plate": "71",
+    "latitude": "39.8398",
+    "longitude": "33.5089",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "39.8400",
+        "Longitude": "33.5100",
+        "PostCode": "71000"
+      },
+      {
+        "Name": "Yahşihan",
+        "Latitude": "39.8500",
+        "Longitude": "33.5300",
+        "PostCode": "71100"
+      },
+      {
+        "Name": "Keskin",
+        "Latitude": "39.8900",
+        "Longitude": "33.5400",
+        "PostCode": "71200"
+      },
+      {
+        "Name": "Delice",
+        "Latitude": "39.9300",
+        "Longitude": "33.4700",
+        "PostCode": "71300"
+      },
+      {
+        "Name": "Bahşili",
+        "Latitude": "39.8200",
+        "Longitude": "33.5100",
+        "PostCode": "71400"
+      },
+      {
+        "Name": "Sulakyurt",
+        "Latitude": "39.8600",
+        "Longitude": "33.5700",
+        "PostCode": "71500"
+      },
+      {
+        "Name": "Balışeyh",
+        "Latitude": "39.9000",
+        "Longitude": "33.5400",
+        "PostCode": "71600"
+      },
+      {
+        "Name": "Karakeçili",
+        "Latitude": "39.9400",
+        "Longitude": "33.5100",
+        "PostCode": "71700"
+      },
+      {
+        "Name": "Çelebi",
+        "Latitude": "39.8500",
+        "Longitude": "33.4800",
+        "PostCode": "71800"
+      }
+    ]
+  },
+  {
+    "name": "batman",
+    "plate": "72",
+    "latitude": "37.8895",
+    "longitude": "41.1293",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "37.8900",
+        "Longitude": "41.1300",
+        "PostCode": "72000"
+      },
+      {
+        "Name": "Kozluk",
+        "Latitude": "37.8300",
+        "Longitude": "41.0500",
+        "PostCode": "72100"
+      },
+      {
+        "Name": "Beşiri",
+        "Latitude": "37.9000",
+        "Longitude": "41.1000",
+        "PostCode": "72200"
+      },
+      {
+        "Name": "Sason",
+        "Latitude": "37.7900",
+        "Longitude": "41.2000",
+        "PostCode": "72300"
+      },
+      {
+        "Name": "Gerçüş",
+        "Latitude": "37.8700",
+        "Longitude": "41.1700",
+        "PostCode": "72400"
+      },
+      {
+        "Name": "Hasankeyf",
+        "Latitude": "37.8500",
+        "Longitude": "41.1500",
+        "PostCode": "72500"
+      }
+    ]
+  },
+  {
+    "name": "şırnak",
+    "plate": "73",
+    "latitude": "37.5190",
+    "longitude": "42.4537",
+    "counties": [
+      {
+        "Name": "Cizre",
+        "Latitude": "37.5000",
+        "Longitude": "42.4300",
+        "PostCode": "73000"
+      },
+      {
+        "Name": "Silopi",
+        "Latitude": "37.5200",
+        "Longitude": "42.4600",
+        "PostCode": "73100"
+      },
+      {
+        "Name": "Merkez",
+        "Latitude": "37.5200",
+        "Longitude": "42.4500",
+        "PostCode": "73200"
+      },
+      {
+        "Name": "Idil",
+        "Latitude": "37.5300",
+        "Longitude": "42.4700",
+        "PostCode": "73300"
+      },
+      {
+        "Name": "Uludere",
+        "Latitude": "37.5400",
+        "Longitude": "42.4800",
+        "PostCode": "73400"
+      },
+      {
+        "Name": "Beytüşşebap",
+        "Latitude": "37.5500",
+        "Longitude": "42.4900",
+        "PostCode": "73500"
+      },
+      {
+        "Name": "Güçlükonak",
+        "Latitude": "37.5600",
+        "Longitude": "42.5000",
+        "PostCode": "73600"
+      }
+    ]
+  },
+  {
+    "name": "bartın",
+    "plate": "74",
+    "latitude": "41.6376",
+    "longitude": "32.3338",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "41.6400",
+        "Longitude": "32.3300",
+        "PostCode": "74000"
+      },
+      {
+        "Name": "Ulus",
+        "Latitude": "41.6000",
+        "Longitude": "32.3000",
+        "PostCode": "74100"
+      },
+      {
+        "Name": "Amasra",
+        "Latitude": "41.7000",
+        "Longitude": "32.3700",
+        "PostCode": "74200"
+      },
+      {
+        "Name": "Kurucaşile",
+        "Latitude": "41.5500",
+        "Longitude": "32.4000",
+        "PostCode": "74300"
+      }
+    ]
+  },
+  {
+    "name": "ardahan",
+    "plate": "75",
+    "latitude": "41.1130",
+    "longitude": "42.7023",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "41.1200",
+        "Longitude": "42.7000",
+        "PostCode": "75000"
+      },
+      {
+        "Name": "Göle",
+        "Latitude": "41.1100",
+        "Longitude": "42.7500",
+        "PostCode": "75100"
+      },
+      {
+        "Name": "Çıldır",
+        "Latitude": "41.0800",
+        "Longitude": "42.8000",
+        "PostCode": "75200"
+      },
+      {
+        "Name": "Hanak",
+        "Latitude": "41.0700",
+        "Longitude": "42.8200",
+        "PostCode": "75300"
+      },
+      {
+        "Name": "Posof",
+        "Latitude": "41.0200",
+        "Longitude": "42.7800",
+        "PostCode": "75400"
+      },
+      {
+        "Name": "Damal",
+        "Latitude": "41.0000",
+        "Longitude": "42.7500",
+        "PostCode": "75500"
+      }
+    ]
+  },
+  {
+    "name": "ığdır",
+    "plate": "76",
+    "latitude": "39.9201",
+    "longitude": "44.0436",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "39.9200",
+        "Longitude": "44.0400",
+        "PostCode": "76000"
+      },
+      {
+        "Name": "Tuzluca",
+        "Latitude": "39.9200",
+        "Longitude": "44.0600",
+        "PostCode": "76100"
+      },
+      {
+        "Name": "Aralık",
+        "Latitude": "39.9200",
+        "Longitude": "44.0700",
+        "PostCode": "76200"
+      },
+      {
+        "Name": "Karakoyunlu",
+        "Latitude": "39.9100",
+        "Longitude": "44.0500",
+        "PostCode": "76300"
+      }
+    ]
+  },
+  {
+    "name": "yalova",
+    "plate": "77",
+    "latitude": "40.6549",
+    "longitude": "29.2842",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "40.6600",
+        "Longitude": "29.2800",
+        "PostCode": "77000"
+      },
+      {
+        "Name": "Çiftlikköy",
+        "Latitude": "40.6500",
+        "Longitude": "29.2900",
+        "PostCode": "77100"
+      },
+      {
+        "Name": "Çınarcık",
+        "Latitude": "40.6400",
+        "Longitude": "29.3000",
+        "PostCode": "77200"
+      },
+      {
+        "Name": "Altınova",
+        "Latitude": "40.6300",
+        "Longitude": "29.3200",
+        "PostCode": "77300"
+      },
+      {
+        "Name": "Armutlu",
+        "Latitude": "40.6200",
+        "Longitude": "29.3400",
+        "PostCode": "77400"
+      },
+      {
+        "Name": "Termal",
+        "Latitude": "40.6100",
+        "Longitude": "29.3500",
+        "PostCode": "77500"
+      }
+    ]
+  },
+  {
+    "name": "karabük",
+    "plate": "78",
+    "latitude": "41.1956",
+    "longitude": "32.6227",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "41.2000",
+        "Longitude": "32.6200",
+        "PostCode": "78000"
+      },
+      {
+        "Name": "Safranbolu",
+        "Latitude": "41.1900",
+        "Longitude": "32.6100",
+        "PostCode": "78100"
+      },
+      {
+        "Name": "Yenice",
+        "Latitude": "41.1800",
+        "Longitude": "32.6000",
+        "PostCode": "78200"
+      },
+      {
+        "Name": "Eskipazar",
+        "Latitude": "41.1700",
+        "Longitude": "32.5900",
+        "PostCode": "78300"
+      },
+      {
+        "Name": "Eflani",
+        "Latitude": "41.1600",
+        "Longitude": "32.5800",
+        "PostCode": "78400"
+      },
+      {
+        "Name": "Ovacık",
+        "Latitude": "41.1500",
+        "Longitude": "32.5700",
+        "PostCode": "78500"
+      }
+    ]
+  },
+  {
+    "name": "kilis",
+    "plate": "79",
+    "latitude": "36.7165",
+    "longitude": "37.1147",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "36.7200",
+        "Longitude": "37.1100",
+        "PostCode": "79000"
+      },
+      {
+        "Name": "Musabeyli",
+        "Latitude": "36.7100",
+        "Longitude": "37.1200",
+        "PostCode": "79100"
+      },
+      {
+        "Name": "Elbeyli",
+        "Latitude": "36.7000",
+        "Longitude": "37.1300",
+        "PostCode": "79200"
+      },
+      {
+        "Name": "Polateli",
+        "Latitude": "36.6900",
+        "Longitude": "37.1400",
+        "PostCode": "79300"
+      }
+    ]
+  },
+  {
+    "name": "osmaniye",
+    "plate": "80",
+    "latitude": "37.0746",
+    "longitude": "36.2464",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "37.0800",
+        "Longitude": "36.2500",
+        "PostCode": "80000"
+      },
+      {
+        "Name": "Kadirli",
+        "Latitude": "37.0600",
+        "Longitude": "36.2400",
+        "PostCode": "80100"
+      },
+      {
+        "Name": "Düziçi",
+        "Latitude": "37.0500",
+        "Longitude": "36.2300",
+        "PostCode": "80200"
+      },
+      {
+        "Name": "Bahçe",
+        "Latitude": "37.0400",
+        "Longitude": "36.2200",
+        "PostCode": "80300"
+      },
+      {
+        "Name": "Toprakkale",
+        "Latitude": "37.0300",
+        "Longitude": "36.2100",
+        "PostCode": "80400"
+      },
+      {
+        "Name": "Sumbas",
+        "Latitude": "37.0200",
+        "Longitude": "36.2000",
+        "PostCode": "80500"
+      },
+      {
+        "Name": "Hasanbeyli",
+        "Latitude": "37.0100",
+        "Longitude": "36.1900",
+        "PostCode": "80600"
+      }
+    ]
+  },
+  {
+    "name": "düzce",
+    "plate": "81",
+    "latitude": "40.8387",
+    "longitude": "31.1626",
+    "counties": [
+      {
+        "Name": "Merkez",
+        "Latitude": "40.8400",
+        "Longitude": "31.1600",
+        "PostCode": "81000"
+      },
+      {
+        "Name": "Akçakoca",
+        "Latitude": "40.8300",
+        "Longitude": "31.1500",
+        "PostCode": "81100"
+      },
+      {
+        "Name": "Kaynaşlı",
+        "Latitude": "40.8200",
+        "Longitude": "31.1400",
+        "PostCode": "81200"
+      },
+      {
+        "Name": "Gölyaka",
+        "Latitude": "40.8100",
+        "Longitude": "31.1300",
+        "PostCode": "81300"
+      },
+      {
+        "Name": "Çilimli",
+        "Latitude": "40.8000",
+        "Longitude": "31.1200",
+        "PostCode": "81400"
+      },
+      {
+        "Name": "Yığılca",
+        "Latitude": "40.7900",
+        "Longitude": "31.1100",
+        "PostCode": "81500"
+      },
+      {
+        "Name": "Gümüşova",
+        "Latitude": "40.7800",
+        "Longitude": "31.1000",
+        "PostCode": "81600"
+      },
+      {
+        "Name": "Cumayeri",
+        "Latitude": "40.7700",
+        "Longitude": "31.0900",
+        "PostCode": "81700"
+      }
+    ]
+  }
+]

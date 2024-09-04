@@ -9,6 +9,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.4" />
     <PackageReference Include="MongoDB.Driver" Version="2.28.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="Serilog.AspNetCore" Version="8.0.2" />
     <PackageReference Include="Serilog.Enrichers.Environment" Version="3.0.1" />
     <PackageReference Include="Serilog.Sinks.File" Version="6.0.0" />
@@ -17,6 +18,10 @@
 
   <ItemGroup>
     <Folder Include="Resources\Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CarPark.Entities\CarPark.Entities.csproj" />
   </ItemGroup>
 
 </Project>

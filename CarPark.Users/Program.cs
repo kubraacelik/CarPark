@@ -60,14 +60,6 @@ internal class Program
                 new CookieRequestCultureProvider(),
                 new AcceptLanguageHeaderRequestCultureProvider()
             };
-
-            //opt.RequestCultureProviders = new[]
-            //{
-            //    new RouteDataRequestCultureProvider
-            //    {
-            //        Options = opt
-            //    }
-            //};
         });
 
         //Serilog uygulamanýn servis koleksiyonuna dahil edildi
