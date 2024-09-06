@@ -44,27 +44,27 @@ namespace CarPark.Users.Controllers
             //_logger.LogError("Customer'da bir hata oluþtu! {@customer}", customer);
 
             //veritabanýna baðlandý
-            //amaç cities.json dosyasýný string yap ve cities modeli olarak ver
-            var client = new MongoClient("mongodb+srv://kkbracelik92:m3GCIkXeoC64bUb2@cluster0.o9s5m.mongodb.net/");
-            var database = client.GetDatabase("CarParkDB");
-            var jsonString = System.IO.File.ReadAllText("cities.json");
-            var cities = Newtonsoft.Json.JsonConvert.DeserializeObject<List<cities>>(jsonString);
+            //amaç cities.json dosyasýný string yap ve cities modeli olarak veritabanýna ekle
+            //var client = new MongoClient("mongodb+srv://kkbracelik92:m3GCIkXeoC64bUb2@cluster0.o9s5m.mongodb.net/");
+            //var database = client.GetDatabase("CarParkDB");
+            //var jsonString = System.IO.File.ReadAllText("cities.json");
+            //var cities = Newtonsoft.Json.JsonConvert.DeserializeObject<List<cities>>(jsonString);
 
-            var citiesCollection = database.GetCollection<City>("City");
-            foreach (var item in cities)
-            {
-                var city = new City()
-                {
-                    Id = ObjectId.GenerateNewId(),
-                    Name = item.name,
-                    Plate = item.plate,
-                    Latitude = item.latitude,
-                    Longitude = item.longitude,
-                    Counties = item.counties.ToList() // Burada `counties` listesinin `County` nesneleri içermesi gerekir.
-                };
+            //var citiesCollection = database.GetCollection<City>("City");
+            //foreach (var item in cities)
+            //{
+            //    var city = new City()
+            //    {
+            //        Id = ObjectId.GenerateNewId(),
+            //        Name = item.name,
+            //        Plate = item.plate,
+            //        Latitude = item.latitude,
+            //        Longitude = item.longitude,
+            //        Counties = item.counties.ToList() // Burada `counties` listesinin `County` nesneleri içermesi gerekir.
+            //    };
 
-                citiesCollection.InsertOne(city);
-            }
+            //    citiesCollection.InsertOne(city);
+            //}
 
 
             //var test = new Test()
