@@ -1,8 +1,13 @@
+using CarPark.Core.Repository.Abstract;
+using CarPark.Core.Settings;
+using CarPark.DataAccess.Repository;
 using CarPark.Users.Resources;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.AspNetCore.Localization.Routing;
 using Microsoft.Extensions.Options;
+using NuGet.Packaging.Core;
 using Serilog;
+using System.Configuration;
 using System.Globalization;
 using System.Reflection;
 
@@ -39,6 +44,11 @@ internal class Program
                   };
             });
 
+        //Uygulamanýn yapýlandýrma dosyasýndaki MongoDB baðlantý ayarlarý MongoSettings adlý sýnýfa aktarýldý
+        builder.Services.Configure<MongoSettings>(builder.Configuration.GetSection("MongoConnection"));
+
+        //Dependency Injection yoluyla bir hizmeti uygulamanýn çeþitli yerlerinde kullanýlabilir hale getirildi. 
+        builder.Services.AddScoped(typeof(IRepository<>), typeof(MongoRepositoryBase<>));
 
         // localization ayrýntýlý bir þekilde yapýlandýrýldý
         builder.Services.Configure<RequestLocalizationOptions>(opt =>
