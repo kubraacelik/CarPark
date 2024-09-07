@@ -1,5 +1,9 @@
+using CarPark.Business.Abstract;
+using CarPark.Business.Concrete;
 using CarPark.Core.Repository.Abstract;
 using CarPark.Core.Settings;
+using CarPark.DataAccess.Abstract;
+using CarPark.DataAccess.Concrete;
 using CarPark.DataAccess.Repository;
 using CarPark.Users.Resources;
 using Microsoft.AspNetCore.Localization;
@@ -27,6 +31,11 @@ internal class Program
 
         var builder = WebApplication.CreateBuilder(args);
 
+        //Dependency Injection yoluyla bir hizmeti uygulamanýn çeþitli yerlerinde kullanýlabilir hale getirildi. 
+        builder.Services.AddScoped(typeof(IRepository<>), typeof(MongoRepositoryBase<>));
+        builder.Services.AddScoped<IPersonelDataAccess, PersonelDataAccess>();
+        builder.Services.AddScoped<IPersonelService, PersonelManager>();
+
         builder.Services.AddControllersWithViews();
 
         // uygulamanýn localization içeriklerinin Resources klasöründen okumasýný saðlar 
@@ -46,9 +55,6 @@ internal class Program
 
         //Uygulamanýn yapýlandýrma dosyasýndaki MongoDB baðlantý ayarlarý MongoSettings adlý sýnýfa aktarýldý
         builder.Services.Configure<MongoSettings>(builder.Configuration.GetSection("MongoConnection"));
-
-        //Dependency Injection yoluyla bir hizmeti uygulamanýn çeþitli yerlerinde kullanýlabilir hale getirildi. 
-        builder.Services.AddScoped(typeof(IRepository<>), typeof(MongoRepositoryBase<>));
 
         // localization ayrýntýlý bir þekilde yapýlandýrýldý
         builder.Services.Configure<RequestLocalizationOptions>(opt =>

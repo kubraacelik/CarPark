@@ -1,0 +1,25 @@
+﻿@model IEnumerable<CarPark.Entities.Concrete.Personel>
+@{
+    ViewData["Title"] = "GetPersonelsByAge";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>GetPersonelsByAge</h1>
+
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Email</th>
+        <th>Oluşturulma Tarihi</th>
+        <th>Kullanıcı Adı</th>
+    </tr>
+    @foreach (var personel in Model)
+    {
+        <tr>
+            <td>@personel.Id</td>
+            <td>@personel.Email</td>
+            <td>@personel.CreatedDate</td>
+            <td>@personel.UserName</td>
+        </tr>
+    }
+</table>
