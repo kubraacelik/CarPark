@@ -13,7 +13,6 @@ namespace CarPark.Business.Concrete
     public class PersonelManager : IPersonelService
     {
         private readonly IPersonelDataAccess _personelDataAccess;
-
         public PersonelManager(IPersonelDataAccess personelDataAccess)
         {
             _personelDataAccess = personelDataAccess;
