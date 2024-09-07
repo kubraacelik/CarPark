@@ -10,5 +10,6 @@ namespace CarPark.DataAccess.Abstract
 {
     public interface IPersonelDataAccess : IRepository<Personel>
     {
+
     }
 }
