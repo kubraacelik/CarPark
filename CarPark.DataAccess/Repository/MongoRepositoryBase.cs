@@ -18,7 +18,6 @@ namespace CarPark.DataAccess.Repository
     {
         private readonly MongoDbContext _context;
         private readonly IMongoCollection<TEntity> _collection;
-
         public MongoRepositoryBase(IOptions<MongoSettings> settings)
         {
             _context = new MongoDbContext(settings);
