@@ -6,7 +6,6 @@ namespace CarPark.Users.Controllers
     public class PersonelsController : Controller
     {
         private readonly IPersonelService _personelService;
-
         public PersonelsController(IPersonelService personelService)
         {
             _personelService = personelService;
