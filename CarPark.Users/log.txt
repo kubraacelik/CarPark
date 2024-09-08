@@ -2398,3 +2398,220 @@ System.ArgumentNullException: Value cannot be null. (Parameter 'connectionString
 2024-09-07 14:17:49.579 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/_vs/browserLink - null null
 2024-09-07 14:17:49.582 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 3.5419ms
 2024-09-07 14:17:49.602 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/_vs/browserLink - 200 null text/javascript; charset=UTF-8 23.4483ms
+2024-09-07 18:38:12.882 +03:00 [INF] User profile is available. Using 'C:\Users\hp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-07 18:38:13.678 +03:00 [INF] Now listening on: https://localhost:7150
+2024-09-07 18:38:13.680 +03:00 [INF] Now listening on: http://localhost:5096
+2024-09-07 18:38:13.685 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-07 18:38:13.687 +03:00 [INF] Hosting environment: Development
+2024-09-07 18:38:13.689 +03:00 [INF] Content root path: C:\Users\hp\CarPark\CarPark.Users
+2024-09-07 18:38:15.677 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/ - null null
+2024-09-07 18:38:15.895 +03:00 [INF] Executing endpoint 'CarPark.Users.Controllers.HomeController.Index (CarPark.Users)'
+2024-09-07 18:38:16.000 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.Users.Controllers.HomeController (CarPark.Users).
+2024-09-07 18:38:16.033 +03:00 [INF] Executing ViewResult, running view Index.
+2024-09-07 18:38:16.273 +03:00 [INF] Executed ViewResult - view Index executed in 242.8519ms.
+2024-09-07 18:38:16.287 +03:00 [INF] Executed action CarPark.Users.Controllers.HomeController.Index (CarPark.Users) in 281.9996ms
+2024-09-07 18:38:16.290 +03:00 [INF] Executed endpoint 'CarPark.Users.Controllers.HomeController.Index (CarPark.Users)'
+2024-09-07 18:38:16.308 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/ - 200 null text/html; charset=utf-8 640.2357ms
+2024-09-07 18:38:16.393 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/css/core.min.css - null null
+2024-09-07 18:38:16.393 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/css/style.min.css - null null
+2024-09-07 18:38:16.401 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/img/avatar/1.jpg - null null
+2024-09-07 18:38:16.393 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/css/app.min.css - null null
+2024-09-07 18:38:16.510 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/img/avatar/3.jpg - null null
+2024-09-07 18:38:16.515 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/js/app.min.js - null null
+2024-09-07 18:38:16.551 +03:00 [INF] Sending file. Request path: '/assets/img/avatar/3.jpg'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\img\avatar\3.jpg'
+2024-09-07 18:38:16.545 +03:00 [INF] Sending file. Request path: '/assets/img/avatar/1.jpg'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\img\avatar\1.jpg'
+2024-09-07 18:38:16.564 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/img/avatar/3.jpg - 200 3150 image/jpeg 53.5914ms
+2024-09-07 18:38:16.606 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/img/avatar/1.jpg - 200 3150 image/jpeg 211.8738ms
+2024-09-07 18:38:16.618 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/_vs/browserLink - null null
+2024-09-07 18:38:16.645 +03:00 [INF] Sending file. Request path: '/assets/css/core.min.css'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\css\core.min.css'
+2024-09-07 18:38:16.515 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/img/avatar/4.jpg - null null
+2024-09-07 18:38:16.650 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/css/core.min.css - 200 232024 text/css 257.7718ms
+2024-09-07 18:38:16.657 +03:00 [INF] Sending file. Request path: '/assets/css/app.min.css'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\css\app.min.css'
+2024-09-07 18:38:16.519 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/js/script.min.js - null null
+2024-09-07 18:38:16.666 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/css/app.min.css - 200 419738 text/css 273.2363ms
+2024-09-07 18:38:16.675 +03:00 [INF] Sending file. Request path: '/assets/js/script.min.js'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\js\script.min.js'
+2024-09-07 18:38:16.510 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/js/core.min.js - null null
+2024-09-07 18:38:16.477 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/img/avatar/2.jpg - null null
+2024-09-07 18:38:16.681 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/js/script.min.js - 200 5414 text/javascript 161.2447ms
+2024-09-07 18:38:16.697 +03:00 [INF] Sending file. Request path: '/assets/img/avatar/2.jpg'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\img\avatar\2.jpg'
+2024-09-07 18:38:16.520 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-07 18:38:16.702 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/img/avatar/2.jpg - 200 3150 image/jpeg 227.4187ms
+2024-09-07 18:38:16.705 +03:00 [INF] Sending file. Request path: '/assets/js/core.min.js'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\js\core.min.js'
+2024-09-07 18:38:16.551 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/img/avatar/5.jpg - null null
+2024-09-07 18:38:16.716 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/js/core.min.js - 200 232324 text/javascript 205.5607ms
+2024-09-07 18:38:16.606 +03:00 [INF] Sending file. Request path: '/assets/css/style.min.css'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\css\style.min.css'
+2024-09-07 18:38:16.726 +03:00 [INF] Sending file. Request path: '/assets/img/avatar/5.jpg'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\img\avatar\5.jpg'
+2024-09-07 18:38:16.632 +03:00 [INF] Sending file. Request path: '/assets/js/app.min.js'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\js\app.min.js'
+2024-09-07 18:38:16.730 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/css/style.min.css - 200 4986 text/css 337.8918ms
+2024-09-07 18:38:16.732 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/img/avatar/5.jpg - 200 3150 image/jpeg 181.3613ms
+2024-09-07 18:38:16.735 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/js/app.min.js - 200 62609 text/javascript 219.5761ms
+2024-09-07 18:38:16.721 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 201.0047ms
+2024-09-07 18:38:16.659 +03:00 [INF] Sending file. Request path: '/assets/img/avatar/4.jpg'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\img\avatar\4.jpg'
+2024-09-07 18:38:16.757 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/img/avatar/4.jpg - 200 3150 image/jpeg 241.9528ms
+2024-09-07 18:38:16.800 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/_vs/browserLink - 200 null text/javascript; charset=UTF-8 183.3871ms
+2024-09-07 18:38:17.050 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/fonts/themify.woff?-fvbane - null null
+2024-09-07 18:38:17.050 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff2?v=4.7.0 - null null
+2024-09-07 18:38:17.064 +03:00 [INF] Sending file. Request path: '/assets/fonts/themify.woff'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\fonts\themify.woff'
+2024-09-07 18:38:17.068 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/fonts/themify.woff?-fvbane - 200 56108 application/font-woff 18.5679ms
+2024-09-07 18:38:17.076 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/material-icons/css/material-icons.css - null null
+2024-09-07 18:38:17.085 +03:00 [INF] Sending file. Request path: '/assets/vendor/material-icons/css/material-icons.css'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\vendor\material-icons\css\material-icons.css'
+2024-09-07 18:38:17.087 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff2?v=4.7.0 - 404 0 null 37.7091ms
+2024-09-07 18:38:17.089 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/material-icons/css/material-icons.css - 200 1053 text/css 13.4521ms
+2024-09-07 18:38:17.095 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff2, Response status code: 404
+2024-09-07 18:38:17.114 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff?v=4.7.0 - null null
+2024-09-07 18:38:17.119 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/typeahead/bloodhound.min.js - null null
+2024-09-07 18:38:17.120 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/typed.js/typed.min.js - null null
+2024-09-07 18:38:17.119 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/typeahead/typeahead.jquery.min.js - null null
+2024-09-07 18:38:17.132 +03:00 [INF] Sending file. Request path: '/assets/vendor/typeahead/bloodhound.min.js'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\vendor\typeahead\bloodhound.min.js'
+2024-09-07 18:38:17.139 +03:00 [INF] Sending file. Request path: '/assets/vendor/typed.js/typed.min.js'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\vendor\typed.js\typed.min.js'
+2024-09-07 18:38:17.143 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/typeahead/bloodhound.min.js - 200 12998 text/javascript 24.2366ms
+2024-09-07 18:38:17.148 +03:00 [INF] Sending file. Request path: '/assets/vendor/typeahead/typeahead.jquery.min.js'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\vendor\typeahead\typeahead.jquery.min.js'
+2024-09-07 18:38:17.155 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.ttf?v=4.7.0 - null null
+2024-09-07 18:38:17.151 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/typed.js/typed.min.js - 200 11700 text/javascript 31.0805ms
+2024-09-07 18:38:17.154 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/material-icons/fonts/MaterialIcons-Regular.woff2 - null null
+2024-09-07 18:38:17.165 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.ttf?v=4.7.0 - 404 0 null 11.201ms
+2024-09-07 18:38:17.160 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/typeahead/typeahead.jquery.min.js - 200 26900 text/javascript 40.3425ms
+2024-09-07 18:38:17.180 +03:00 [INF] Sending file. Request path: '/assets/vendor/material-icons/fonts/MaterialIcons-Regular.woff2'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\vendor\material-icons\fonts\MaterialIcons-Regular.woff2'
+2024-09-07 18:38:17.183 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7150/assets/fonts/fontawesome-webfont.ttf, Response status code: 404
+2024-09-07 18:38:17.119 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/screenfull/screenfull.min.js - null null
+2024-09-07 18:38:17.192 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/material-icons/fonts/MaterialIcons-Regular.woff2 - 200 44300 font/woff2 37.7802ms
+2024-09-07 18:38:17.203 +03:00 [INF] Sending file. Request path: '/assets/vendor/screenfull/screenfull.min.js'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\vendor\screenfull\screenfull.min.js'
+2024-09-07 18:38:17.126 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff?v=4.7.0 - 404 0 null 12.2623ms
+2024-09-07 18:38:17.120 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/i8-icon/jquery-i8-icon.min.js - null null
+2024-09-07 18:38:17.212 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/screenfull/screenfull.min.js - 200 2002 text/javascript 92.4074ms
+2024-09-07 18:38:17.217 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff, Response status code: 404
+2024-09-07 18:38:17.226 +03:00 [INF] Sending file. Request path: '/assets/vendor/i8-icon/jquery-i8-icon.min.js'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\vendor\i8-icon\jquery-i8-icon.min.js'
+2024-09-07 18:38:17.234 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/i8-icon/jquery-i8-icon.min.js - 200 20992 text/javascript 114.7693ms
+2024-09-07 18:38:17.252 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/i8-icon/i8-color-icons.svg - null null
+2024-09-07 18:38:17.265 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/data/json/files.json - null null
+2024-09-07 18:38:17.277 +03:00 [INF] Sending file. Request path: '/assets/vendor/i8-icon/i8-color-icons.svg'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\vendor\i8-icon\i8-color-icons.svg'
+2024-09-07 18:38:17.277 +03:00 [INF] Sending file. Request path: '/assets/data/json/files.json'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\data\json\files.json'
+2024-09-07 18:38:17.280 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/i8-icon/i8-color-icons.svg - 200 191368 image/svg+xml 27.6577ms
+2024-09-07 18:38:17.283 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/data/json/files.json - 200 25942 application/json 19.0196ms
+2024-09-07 18:38:17.666 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/img/favicon.png - null null
+2024-09-07 18:38:17.691 +03:00 [INF] Sending file. Request path: '/assets/img/favicon.png'. Physical path: 'C:\Users\hp\CarPark\CarPark.Users\wwwroot\assets\img\favicon.png'
+2024-09-07 18:38:17.696 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/img/favicon.png - 200 666 image/png 31.4601ms
+2024-09-07 18:38:28.831 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/dashboard/index.html - null null
+2024-09-07 18:38:28.845 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/dashboard/index.html - 404 0 null 14.8975ms
+2024-09-07 18:38:28.852 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7150/dashboard/index.html, Response status code: 404
+2024-09-07 18:38:30.336 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-07 18:38:30.342 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 6.1825ms
+2024-09-07 18:45:01.206 +03:00 [INF] User profile is available. Using 'C:\Users\hp\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-09-07 18:45:01.736 +03:00 [INF] Now listening on: https://localhost:7150
+2024-09-07 18:45:01.739 +03:00 [INF] Now listening on: http://localhost:5096
+2024-09-07 18:45:01.743 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-07 18:45:01.744 +03:00 [INF] Hosting environment: Development
+2024-09-07 18:45:01.746 +03:00 [INF] Content root path: C:\Users\hp\CarPark\CarPark.Users
+2024-09-07 18:45:02.774 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/ - null null
+2024-09-07 18:45:02.918 +03:00 [INF] Executing endpoint 'CarPark.Users.Controllers.HomeController.Index (CarPark.Users)'
+2024-09-07 18:45:02.985 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarPark.Users.Controllers.HomeController (CarPark.Users).
+2024-09-07 18:45:03.004 +03:00 [INF] Executing ViewResult, running view Index.
+2024-09-07 18:45:03.144 +03:00 [INF] Executed ViewResult - view Index executed in 145.9839ms.
+2024-09-07 18:45:03.155 +03:00 [INF] Executed action CarPark.Users.Controllers.HomeController.Index (CarPark.Users) in 166.2173ms
+2024-09-07 18:45:03.158 +03:00 [INF] Executed endpoint 'CarPark.Users.Controllers.HomeController.Index (CarPark.Users)'
+2024-09-07 18:45:03.168 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/ - 200 null text/html; charset=utf-8 402.0831ms
+2024-09-07 18:45:03.232 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/css/core.min.css - null null
+2024-09-07 18:45:03.232 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/css/app.min.css - null null
+2024-09-07 18:45:03.232 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/css/style.min.css - null null
+2024-09-07 18:45:03.236 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/img/avatar/1.jpg - null null
+2024-09-07 18:45:03.250 +03:00 [INF] The file /assets/css/app.min.css was not modified
+2024-09-07 18:45:03.250 +03:00 [INF] The file /assets/css/core.min.css was not modified
+2024-09-07 18:45:03.250 +03:00 [INF] The file /assets/css/style.min.css was not modified
+2024-09-07 18:45:03.252 +03:00 [INF] The file /assets/img/avatar/1.jpg was not modified
+2024-09-07 18:45:03.251 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/img/avatar/2.jpg - null null
+2024-09-07 18:45:03.346 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/js/core.min.js - null null
+2024-09-07 18:45:03.346 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/img/avatar/1.jpg - 304 null image/jpeg 113.0168ms
+2024-09-07 18:45:03.431 +03:00 [INF] The file /assets/img/avatar/2.jpg was not modified
+2024-09-07 18:45:03.254 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/css/app.min.css - 304 null text/css 22.3856ms
+2024-09-07 18:45:03.254 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/css/core.min.css - 304 null text/css 22.7694ms
+2024-09-07 18:45:03.306 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/css/style.min.css - 304 null text/css 73.8299ms
+2024-09-07 18:45:03.307 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/img/avatar/3.jpg - null null
+2024-09-07 18:45:03.306 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-07 18:45:03.347 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/js/script.min.js - null null
+2024-09-07 18:45:03.447 +03:00 [INF] The file /assets/js/core.min.js was not modified
+2024-09-07 18:45:03.453 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/img/avatar/2.jpg - 304 null image/jpeg 201.8397ms
+2024-09-07 18:45:03.475 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/js/core.min.js - 304 null text/javascript 156.5218ms
+2024-09-07 18:45:03.469 +03:00 [INF] The file /assets/img/avatar/3.jpg was not modified
+2024-09-07 18:45:03.478 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 172.3966ms
+2024-09-07 18:45:03.476 +03:00 [INF] The file /assets/js/script.min.js was not modified
+2024-09-07 18:45:03.396 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/img/avatar/4.jpg - null null
+2024-09-07 18:45:03.417 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/js/app.min.js - null null
+2024-09-07 18:45:03.433 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/img/avatar/5.jpg - null null
+2024-09-07 18:45:03.445 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/_vs/browserLink - null null
+2024-09-07 18:45:03.483 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/img/avatar/3.jpg - 304 null image/jpeg 176.751ms
+2024-09-07 18:45:03.490 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/js/script.min.js - 304 null text/javascript 142.8499ms
+2024-09-07 18:45:03.497 +03:00 [INF] The file /assets/img/avatar/4.jpg was not modified
+2024-09-07 18:45:03.499 +03:00 [INF] The file /assets/js/app.min.js was not modified
+2024-09-07 18:45:03.512 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/img/avatar/4.jpg - 304 null image/jpeg 125.9467ms
+2024-09-07 18:45:03.521 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/js/app.min.js - 304 null text/javascript 103.7056ms
+2024-09-07 18:45:03.501 +03:00 [INF] The file /assets/img/avatar/5.jpg was not modified
+2024-09-07 18:45:03.530 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/img/avatar/5.jpg - 304 null image/jpeg 97.3014ms
+2024-09-07 18:45:03.604 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/_vs/browserLink - 200 null text/javascript; charset=UTF-8 158.4988ms
+2024-09-07 18:45:03.631 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff2?v=4.7.0 - null null
+2024-09-07 18:45:03.633 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/fonts/themify.woff?-fvbane - null null
+2024-09-07 18:45:03.643 +03:00 [INF] The file /assets/fonts/themify.woff was not modified
+2024-09-07 18:45:03.645 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/fonts/themify.woff?-fvbane - 304 null application/font-woff 11.9051ms
+2024-09-07 18:45:03.653 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff2?v=4.7.0 - 404 0 null 22.6785ms
+2024-09-07 18:45:03.661 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff2, Response status code: 404
+2024-09-07 18:45:03.686 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff?v=4.7.0 - null null
+2024-09-07 18:45:03.696 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff?v=4.7.0 - 404 0 null 10.7781ms
+2024-09-07 18:45:03.715 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/material-icons/css/material-icons.css - null null
+2024-09-07 18:45:03.718 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff, Response status code: 404
+2024-09-07 18:45:03.753 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/typeahead/typeahead.jquery.min.js - null null
+2024-09-07 18:45:03.752 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/typeahead/bloodhound.min.js - null null
+2024-09-07 18:45:03.752 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/typed.js/typed.min.js - null null
+2024-09-07 18:45:03.751 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.ttf?v=4.7.0 - null null
+2024-09-07 18:45:03.769 +03:00 [INF] The file /assets/vendor/typeahead/bloodhound.min.js was not modified
+2024-09-07 18:45:03.775 +03:00 [INF] The file /assets/vendor/typed.js/typed.min.js was not modified
+2024-09-07 18:45:03.780 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.ttf?v=4.7.0 - 404 0 null 30.6947ms
+2024-09-07 18:45:03.781 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/typeahead/bloodhound.min.js - 304 null text/javascript 29.3685ms
+2024-09-07 18:45:03.783 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/typed.js/typed.min.js - 304 null text/javascript 30.3146ms
+2024-09-07 18:45:03.789 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7150/assets/fonts/fontawesome-webfont.ttf, Response status code: 404
+2024-09-07 18:45:03.753 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/screenfull/screenfull.min.js - null null
+2024-09-07 18:45:03.764 +03:00 [INF] The file /assets/vendor/typeahead/typeahead.jquery.min.js was not modified
+2024-09-07 18:45:03.753 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/i8-icon/jquery-i8-icon.min.js - null null
+2024-09-07 18:45:03.810 +03:00 [INF] The file /assets/vendor/screenfull/screenfull.min.js was not modified
+2024-09-07 18:45:03.811 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/typeahead/typeahead.jquery.min.js - 304 null text/javascript 58.0672ms
+2024-09-07 18:45:03.724 +03:00 [INF] The file /assets/vendor/material-icons/css/material-icons.css was not modified
+2024-09-07 18:45:03.817 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/screenfull/screenfull.min.js - 304 null text/javascript 61.369ms
+2024-09-07 18:45:03.817 +03:00 [INF] The file /assets/vendor/i8-icon/jquery-i8-icon.min.js was not modified
+2024-09-07 18:45:03.827 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/material-icons/css/material-icons.css - 304 null text/css 112.247ms
+2024-09-07 18:45:03.834 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/i8-icon/jquery-i8-icon.min.js - 304 null text/javascript 79.7909ms
+2024-09-07 18:45:03.924 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/material-icons/fonts/MaterialIcons-Regular.woff2 - null null
+2024-09-07 18:45:03.927 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/vendor/i8-icon/i8-color-icons.svg - null null
+2024-09-07 18:45:03.932 +03:00 [INF] The file /assets/vendor/material-icons/fonts/MaterialIcons-Regular.woff2 was not modified
+2024-09-07 18:45:03.945 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/data/json/files.json - null null
+2024-09-07 18:45:03.947 +03:00 [INF] The file /assets/vendor/i8-icon/i8-color-icons.svg was not modified
+2024-09-07 18:45:03.948 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/material-icons/fonts/MaterialIcons-Regular.woff2 - 304 null font/woff2 24.0314ms
+2024-09-07 18:45:03.953 +03:00 [INF] The file /assets/data/json/files.json was not modified
+2024-09-07 18:45:03.954 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/vendor/i8-icon/i8-color-icons.svg - 304 null image/svg+xml 26.8856ms
+2024-09-07 18:45:03.959 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/data/json/files.json - 304 null application/json 14.7041ms
+2024-09-07 18:45:07.112 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/user/create - null null
+2024-09-07 18:45:07.129 +03:00 [INF] Executing endpoint 'CarPark.Users.Controllers.UserController.Create (CarPark.Users)'
+2024-09-07 18:45:07.139 +03:00 [INF] Route matched with {action = "Create", controller = "User"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create() on controller CarPark.Users.Controllers.UserController (CarPark.Users).
+2024-09-07 18:45:11.557 +03:00 [INF] Executing ViewResult, running view Create.
+2024-09-07 18:45:11.697 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/home/dashboard - null null
+2024-09-07 18:45:11.707 +03:00 [INF] Executing endpoint 'CarPark.Users.Controllers.HomeController.Dashboard (CarPark.Users)'
+2024-09-07 18:45:11.712 +03:00 [INF] Route matched with {action = "Dashboard", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Dashboard() on controller CarPark.Users.Controllers.HomeController (CarPark.Users).
+2024-09-07 18:45:11.719 +03:00 [INF] Executing ViewResult, running view Dashboard.
+2024-09-07 18:45:11.731 +03:00 [INF] Executed ViewResult - view Dashboard executed in 13.8694ms.
+2024-09-07 18:45:11.737 +03:00 [INF] Executed action CarPark.Users.Controllers.HomeController.Dashboard (CarPark.Users) in 21.2913ms
+2024-09-07 18:45:11.741 +03:00 [INF] Executed endpoint 'CarPark.Users.Controllers.HomeController.Dashboard (CarPark.Users)'
+2024-09-07 18:45:11.743 +03:00 [INF] Executed ViewResult - view Create executed in 188.1849ms.
+2024-09-07 18:45:11.745 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/home/dashboard - 200 null text/html; charset=utf-8 48.8116ms
+2024-09-07 18:45:11.746 +03:00 [INF] Executed action CarPark.Users.Controllers.UserController.Create (CarPark.Users) in 4603.2043ms
+2024-09-07 18:45:11.751 +03:00 [INF] Executed endpoint 'CarPark.Users.Controllers.UserController.Create (CarPark.Users)'
+2024-09-07 18:45:11.753 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/user/create - 200 null text/html; charset=utf-8 4643.2206ms
+2024-09-07 18:45:11.787 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/_vs/browserLink - null null
+2024-09-07 18:45:11.792 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/_framework/aspnetcore-browser-refresh.js - null null
+2024-09-07 18:45:11.801 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/_framework/aspnetcore-browser-refresh.js - 200 13762 application/javascript; charset=utf-8 9.4977ms
+2024-09-07 18:45:11.813 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.7614ms
+2024-09-07 18:45:11.830 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff2?v=4.7.0 - null null
+2024-09-07 18:45:11.844 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff2?v=4.7.0 - 404 0 null 13.7952ms
+2024-09-07 18:45:11.848 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff2, Response status code: 404
+2024-09-07 18:45:11.865 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff?v=4.7.0 - null null
+2024-09-07 18:45:11.871 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff?v=4.7.0 - 404 0 null 5.826ms
+2024-09-07 18:45:11.875 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7150/assets/fonts/fontawesome-webfont.woff, Response status code: 404
+2024-09-07 18:45:11.887 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.ttf?v=4.7.0 - null null
+2024-09-07 18:45:11.900 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7150/assets/fonts/fontawesome-webfont.ttf?v=4.7.0 - 404 0 null 13.5149ms
+2024-09-07 18:45:11.905 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7150/assets/fonts/fontawesome-webfont.ttf, Response status code: 404
