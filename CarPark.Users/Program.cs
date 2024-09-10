@@ -1,3 +1,4 @@
+using AspNetCore.Identity.MongoDbCore.Models;
 using CarPark.Business.Abstract;
 using CarPark.Business.Concrete;
 using CarPark.Core.Repository.Abstract;
@@ -5,11 +6,13 @@ using CarPark.Core.Settings;
 using CarPark.DataAccess.Abstract;
 using CarPark.DataAccess.Concrete;
 using CarPark.DataAccess.Repository;
+using CarPark.Entities.Concrete;
 using CarPark.Users.Resources;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Localization;
-using Microsoft.AspNetCore.Localization.Routing;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
-using NuGet.Packaging.Core;
+using MongoDB.Driver;
 using Serilog;
 using System.Configuration;
 using System.Globalization;
@@ -30,6 +33,34 @@ internal class Program
         .CreateLogger();
 
         var builder = WebApplication.CreateBuilder(args);
+
+        // Authentication yapýlandýrmasý belirlendi.(cookie ile iþlem yapýlacak)
+        builder.Services.AddAuthentication(option =>
+        {
+            option.DefaultScheme = IdentityConstants.ApplicationScheme;
+            option.DefaultSignInScheme = IdentityConstants.ExternalScheme;
+        }).AddIdentityCookies(o =>
+        {
+        });
+
+        // Identity ile MongoDB kullanarak kimlik doðrulama ve yetkilendirme iþlemleri yapýlandýrýldý.
+        builder.Services.AddIdentityCore<Personel>(option =>
+        {
+        })
+            .AddRoles<MongoIdentityRole>()
+            .AddMongoDbStores<Personel, MongoIdentityRole, Guid>(builder.Configuration.GetSection("MongoConnection:ConnectionString").Value, builder.Configuration.GetSection("MongoConnection:Database").Value)
+            .AddSignInManager()
+            .AddDefaultTokenProviders();
+
+        // kimlik doðrulama çerezlerinin (cookies) nasýl yapýlandýrýlacaðý belirlendi.
+        builder.Services.ConfigureApplicationCookie(option =>
+        {
+            option.Cookie.HttpOnly = true;
+            option.ExpireTimeSpan = TimeSpan.FromMinutes(5);
+
+            option.LoginPath = "/Account/Login";
+            option.SlidingExpiration = true;
+        });
 
         //Dependency Injection yoluyla bir hizmeti uygulamanýn çeþitli yerlerinde kullanýlabilir hale getirildi. 
         builder.Services.AddScoped(typeof(IRepository<>), typeof(MongoRepositoryBase<>));
@@ -94,6 +125,8 @@ internal class Program
         app.UseStaticFiles();
 
         app.UseRouting();
+
+        app.UseAuthentication();
 
         app.UseAuthorization();
 
