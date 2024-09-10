@@ -1,8 +1,10 @@
 ﻿using CarPark.Business.Abstract;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CarPark.Users.Controllers
 {
+    [Authorize(Roles = "admin")]
     public class PersonelsController : Controller
     {
         private readonly IPersonelService _personelService;
@@ -10,7 +12,6 @@ namespace CarPark.Users.Controllers
         {
             _personelService = personelService;
         }
-
         public IActionResult GetPersonelsByAge()
         {
             var result = _personelService.GetPersonelsByAge();
