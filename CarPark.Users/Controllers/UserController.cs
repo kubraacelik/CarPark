@@ -68,7 +68,6 @@ namespace CarPark.Users.Controllers
 
             var result7 = _personelRepository.GetById("66db19da556ad7e25bf64c80");
             result7.Entity.Email = "berkgunes74@gmail.com";
-            result7.Entity.Password = "berk45686";
             result7.Entity.UserName = "berkgunes74";
             var result8 = _personelRepository.ReplaceOne(result7.Entity, result7.Entity.Id.ToString());
 
